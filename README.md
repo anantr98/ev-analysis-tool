@@ -1,5 +1,3 @@
-# ev-analysis-tool
-
 # Welcome to the Electric Vehicle Analysis Tool 
 
 # Members:
