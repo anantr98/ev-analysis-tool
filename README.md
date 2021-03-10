@@ -1,3 +1,20 @@
 # ev-analysis-tool
 
-This is where we will write the overview of our project. 
+# Welcome to the Electric Vehicle Analysis Tool 
+
+# Members:
+Krisha Mehta
+Leena Elamrawy
+Anant Rajeev
+
+# Project Repository Structure
+
+
+# Project Overview
+
+
+# Installation
+
+
+
+
