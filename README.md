@@ -1,7 +1,7 @@
-# Welcome to the Electric Vehicle Analysis Tool 
+# Electric Vehicle Analysis and Recommendation Tool 
 
 # Members:
-Krisha Mehta  Leena Elamrawy  Anant Rajeev  
+Krisha Mehta, Leena Elamrawy, Anant Rajeev  
 
 # Project Overview
 Our goal for the project was to create a tool that incorporated both machine learning and data visualization that would tap into the electric vehicle market. There's a lot of data available about electric vehicles so to give potential new users and customers their best shot at successfully both understanding the market and getting a recommendation for a car that best suits their needs and wants. Our visualization tool, supporting charts, and our recommender model work in tandem to give users a well-rounded holistic experience in understanding the EV market today. 
