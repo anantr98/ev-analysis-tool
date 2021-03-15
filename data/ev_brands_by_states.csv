@@ -1,0 +1,4269 @@
+,State,year,Brand and Model,Count
+0,California,2010,Ford Ranger,51
+1,California,2010,Mini Hardtop 2 Door EV,119
+2,California,2010,Tesla Roadster,431
+3,California,2010,Toyota Prius Plug-in,153
+4,California,2011,Chevrolet Volt,1320
+5,California,2011,Ford Ranger,42
+6,California,2011,Ford Transit Connect Electric,3
+7,California,2011,Mini Hardtop 2 Door EV,92
+8,California,2011,Nissan Leaf,3638
+9,California,2011,Smart forTwo EV,43
+10,California,2011,Tesla Roadster,557
+11,California,2011,Toyota Prius Plug-in,162
+12,California,2012,BMW Active E,515
+13,California,2012,Chevrolet Volt,5712
+14,California,2012,Fisker Karma,298
+15,California,2012,Ford Focus EV,127
+16,California,2012,Ford Ranger,41
+17,California,2012,Ford Transit Connect Electric,46
+18,California,2012,Honda Fit EV,20
+19,California,2012,Mini Hardtop 2 Door EV,14
+20,California,2012,Mitsubishi i,115
+21,California,2012,Nissan Leaf,5899
+22,California,2012,Smart forTwo EV,429
+23,California,2012,Tesla Model S,98
+24,California,2012,Tesla Roadster,575
+25,California,2012,Toyota Prius Plug-in,4444
+26,California,2012,Toyota RAV4 EV,23
+27,California,2013,BMW Active E,515
+28,California,2013,Chevrolet Spark,239
+29,California,2013,Chevrolet Volt,14775
+30,California,2013,Fiat 500e,317
+31,California,2013,Fisker Karma,354
+32,California,2013,Ford C-Max Energi,1628
+33,California,2013,Ford Focus EV,1018
+34,California,2013,Ford Fusion Energi,1242
+35,California,2013,Ford Ranger,36
+36,California,2013,Ford Transit Connect Electric,58
+37,California,2013,Honda Accord Plug In,210
+38,California,2013,Honda Fit EV,319
+39,California,2013,Mini Hardtop 2 Door EV,8
+40,California,2013,Mitsubishi i,278
+41,California,2013,Nissan Leaf,12845
+42,California,2013,Scion iQ,92
+43,California,2013,Smart forTwo EV,654
+44,California,2013,Tesla Model S,7291
+45,California,2013,Tesla Roadster,568
+46,California,2013,Toyota Prius Plug-in,9072
+47,California,2013,Toyota RAV4 EV,908
+48,California,2014,BMW Active E,251
+49,California,2014,BMW i3,327
+50,California,2014,BMW i3 REx,538
+51,California,2014,BMW i8,3
+52,California,2014,Cadillac ELR,197
+53,California,2014,Chevrolet Spark,1311
+54,California,2014,Chevrolet Volt,23618
+55,California,2014,Fiat 500e,5868
+56,California,2014,Fisker Karma,365
+57,California,2014,Ford C-Max Energi,5267
+58,California,2014,Ford Focus EV,1997
+59,California,2014,Ford Fusion Energi,6661
+60,California,2014,Ford Ranger,35
+61,California,2014,Ford Transit Connect Electric,63
+62,California,2014,Honda Accord Plug In,508
+63,California,2014,Honda Fit EV,601
+64,California,2014,Kia Soul EV,30
+65,California,2014,Mclaren P1,8
+66,California,2014,Mercedes B-Class Electric,91
+67,California,2014,Mini Hardtop 2 Door EV,10
+68,California,2014,Mitsubishi i,325
+69,California,2014,Nissan Leaf,21623
+70,California,2014,Porsche 918 Spyder,5
+71,California,2014,Porsche Panamera S E-Hybrid,169
+72,California,2014,Scion iQ,92
+73,California,2014,Smart forTwo EV,1842
+74,California,2014,Tesla Model S,13114
+75,California,2014,Tesla Roadster,559
+76,California,2014,Toyota Prius Plug-in,21425
+77,California,2014,Toyota RAV4 EV,2036
+78,California,2015,BMW Active E,2
+79,California,2015,BMW X5,7
+80,California,2015,BMW i3,1698
+81,California,2015,BMW i3 REx,3951
+82,California,2015,BMW i8,441
+83,California,2015,Cadillac ELR,419
+84,California,2015,Chevrolet Spark,3087
+85,California,2015,Chevrolet Volt,30807
+86,California,2015,Fiat 500e,12152
+87,California,2015,Fisker Karma,351
+88,California,2015,Ford C-Max Energi,8804
+89,California,2015,Ford Focus EV,3095
+90,California,2015,Ford Fusion Energi,11415
+91,California,2015,Ford Ranger,35
+92,California,2015,Ford Transit Connect Electric,62
+93,California,2015,Honda Accord Plug In,673
+94,California,2015,Honda Fit EV,640
+95,California,2015,Kia Soul EV,770
+96,California,2015,Mclaren P1,25
+97,California,2015,Mercedes B-Class Electric,1842
+98,California,2015,Mercedes S550e,28
+99,California,2015,Mini Hardtop 2 Door EV,10
+100,California,2015,Mitsubishi i,373
+101,California,2015,Nissan Leaf,28351
+102,California,2015,Porsche 918 Spyder,44
+103,California,2015,Porsche Cayenne S E-Hybrid,209
+104,California,2015,Porsche Panamera S E-Hybrid,379
+105,California,2015,Scion iQ,92
+106,California,2015,Smart forTwo EV,2513
+107,California,2015,Tesla Model S,22936
+108,California,2015,Tesla Roadster,562
+109,California,2015,Toyota Prius Plug-in,25929
+110,California,2015,Toyota RAV4 EV,2308
+111,California,2015,Volkswagen e-Golf,2158
+112,California,2016,Audi e-tron Sportback,1558
+113,California,2016,BMW 3-Series Plug in,110
+114,California,2016,BMW X5,1651
+115,California,2016,BMW i3,3110
+116,California,2016,BMW i3 REx,8802
+117,California,2016,BMW i8,1116
+118,California,2016,Cadillac ELR,580
+119,California,2016,Chevrolet Spark,5425
+120,California,2016,Chevrolet Volt,41847
+121,California,2016,Fiat 500e,16002
+122,California,2016,Fisker Karma,348
+123,California,2016,Ford C-Max Energi,11838
+124,California,2016,Ford Focus EV,3370
+125,California,2016,Ford Fusion Energi,16987
+126,California,2016,Ford Ranger,33
+127,California,2016,Ford Transit Connect Electric,60
+128,California,2016,Honda Accord Plug In,678
+129,California,2016,Honda Fit EV,644
+130,California,2016,Hyundai Sonata Plug In,794
+131,California,2016,Kia Soul EV,1617
+132,California,2016,Mclaren P1,23
+133,California,2016,Mercedes B-Class Electric,2440
+134,California,2016,Mercedes GLE 550e Plug In Hybrid,57
+135,California,2016,Mercedes S550e,302
+136,California,2016,Mini Hardtop 2 Door EV,7
+137,California,2016,Mitsubishi i,398
+138,California,2016,Nissan Leaf,31694
+139,California,2016,Porsche 918 Spyder,45
+140,California,2016,Porsche Cayenne S E-Hybrid,748
+141,California,2016,Porsche Panamera S E-Hybrid,517
+142,California,2016,Scion iQ,91
+143,California,2016,Smart forTwo EV,3026
+144,California,2016,Tesla Model S,34343
+145,California,2016,Tesla Model X,4680
+146,California,2016,Tesla Roadster,568
+147,California,2016,Toyota Prius Plug-in,26180
+148,California,2016,Toyota RAV4 EV,2156
+149,California,2016,Volkswagen e-Golf,5905
+150,California,2016,Volvo XC90 Plug In,421
+151,California,2017,Audi e-tron Sportback,4258
+152,California,2017,BMW 3-Series Plug in,2290
+153,California,2017,BMW 5-Series Plug in,1421
+154,California,2017,BMW 7-Series Plug in,171
+155,California,2017,BMW X5,3140
+156,California,2017,BMW i3,3965
+157,California,2017,BMW i3 REx,10870
+158,California,2017,BMW i8,1359
+159,California,2017,Cadillac CT6,117
+160,California,2017,Cadillac ELR,567
+161,California,2017,Chevrolet Bolt EV,12545
+162,California,2017,Chevrolet Spark,5273
+163,California,2017,Chevrolet Volt,54641
+164,California,2017,Chrysler Pacifica,1079
+165,California,2017,Fiat 500e,18748
+166,California,2017,Fisker Karma,323
+167,California,2017,Ford C-Max Energi,15127
+168,California,2017,Ford Focus EV,3636
+169,California,2017,Ford Fusion Energi,22221
+170,California,2017,Ford Ranger,32
+171,California,2017,Ford Transit Connect Electric,58
+172,California,2017,Honda Accord Plug In,684
+173,California,2017,Honda Clarity BEV,727
+174,California,2017,Honda Clarity Plug In,169
+175,California,2017,Honda Fit EV,667
+176,California,2017,Hyundai Ioniq EV,342
+177,California,2017,Hyundai Sonata Plug In,1718
+178,California,2017,Karma Revero,7
+179,California,2017,Kia Niro Plug In,1
+180,California,2017,Kia Optima Plug In,851
+181,California,2017,Kia Soul EV,2521
+182,California,2017,Mclaren P1,23
+183,California,2017,Mercedes B-Class Electric,2701
+184,California,2017,Mercedes C350e Plug In,910
+185,California,2017,Mercedes GLE 550e Plug In Hybrid,359
+186,California,2017,Mercedes S550e,1087
+187,California,2017,Mini Countryman Plug In,75
+188,California,2017,Mini Hardtop 2 Door EV,4
+189,California,2017,Mitsubishi i,390
+190,California,2017,Nissan Leaf,32853
+191,California,2017,Porsche 918 Spyder,46
+192,California,2017,Porsche Cayenne S E-Hybrid,1278
+193,California,2017,Porsche Panamera S E-Hybrid,520
+194,California,2017,Scion iQ,73
+195,California,2017,Smart forTwo EV,1954
+196,California,2017,Tesla Model 3,876
+197,California,2017,Tesla Model S,47580
+198,California,2017,Tesla Model X,12737
+199,California,2017,Tesla Roadster,554
+200,California,2017,Toyota Prius Plug-in,26084
+201,California,2017,Toyota Prius Prime,10123
+202,California,2017,Toyota RAV4 EV,1724
+203,California,2017,Volkswagen e-Golf,9745
+204,California,2017,Volvo S90 Plug In,24
+205,California,2017,Volvo XC60 Plug In,97
+206,California,2017,Volvo XC90 Plug In,1417
+207,California,2018,Audi e-tron Sportback,6040
+208,California,2018,BMW 3-Series Plug in,3788
+209,California,2018,BMW 5-Series Plug in,6255
+210,California,2018,BMW 7-Series Plug in,308
+211,California,2018,BMW X5,4337
+212,California,2018,BMW i3,4700
+213,California,2018,BMW i3 REx,12305
+214,California,2018,BMW i8,1414
+215,California,2018,Cadillac CT6,149
+216,California,2018,Cadillac ELR,589
+217,California,2018,Chevrolet Bolt EV,22310
+218,California,2018,Chevrolet Spark,4260
+219,California,2018,Chevrolet Volt,62616
+220,California,2018,Chrysler Pacifica,3977
+221,California,2018,Fiat 500e,15023
+222,California,2018,Fisker Karma,307
+223,California,2018,Ford C-Max Energi,14775
+224,California,2018,Ford Focus EV,3328
+225,California,2018,Ford Fusion Energi,24852
+226,California,2018,Ford Ranger,30
+227,California,2018,Ford Transit Connect Electric,54
+228,California,2018,Honda Accord Plug In,676
+229,California,2018,Honda Clarity BEV,1844
+230,California,2018,Honda Clarity Plug In,8115
+231,California,2018,Honda Fit EV,494
+232,California,2018,Hyundai Ioniq EV,762
+233,California,2018,Hyundai Ioniq Plug In,1369
+234,California,2018,Hyundai Sonata Plug In,1937
+235,California,2018,Jaguar I-Pace,100
+236,California,2018,Karma Revero,58
+237,California,2018,Kia Niro Plug In,1910
+238,California,2018,Kia Optima Plug In,1345
+239,California,2018,Kia Soul EV,2653
+240,California,2018,Mclaren P1,19
+241,California,2018,Mercedes B-Class Electric,1722
+242,California,2018,Mercedes C350e Plug In,1695
+243,California,2018,Mercedes GLC 350e Hybrid,512
+244,California,2018,Mercedes GLE 550e Plug In Hybrid,697
+245,California,2018,Mercedes S550e,952
+246,California,2018,Mini Countryman Plug In,425
+247,California,2018,Mini Hardtop 2 Door EV,3
+248,California,2018,Mitsubishi Outlander Plug In,1050
+249,California,2018,Mitsubishi i,385
+250,California,2018,Nissan Leaf,32638
+251,California,2018,Porsche 918 Spyder,37
+252,California,2018,Porsche Cayenne S E-Hybrid,1479
+253,California,2018,Porsche Panamera S E-Hybrid,789
+254,California,2018,Scion iQ,48
+255,California,2018,Smart forTwo EV,2050
+256,California,2018,Tesla Model 3,51950
+257,California,2018,Tesla Model S,55816
+258,California,2018,Tesla Model X,20993
+259,California,2018,Tesla Roadster,541
+260,California,2018,Toyota Prius Plug-in,25400
+261,California,2018,Toyota Prius Prime,23306
+262,California,2018,Toyota RAV4 EV,1564
+263,California,2018,Volkswagen e-Golf,8971
+264,California,2018,Volvo S90 Plug In,130
+265,California,2018,Volvo XC60 Plug In,871
+266,California,2018,Volvo XC90 Plug In,1844
+267,California,2019,Audi e-tron,1449
+268,California,2019,Audi e-tron Sportback,5722
+269,California,2019,BMW 3-Series Plug in,4152
+270,California,2019,BMW 5-Series Plug in,10762
+271,California,2019,BMW 7-Series Plug in,367
+272,California,2019,BMW X5,3923
+273,California,2019,BMW i3,5257
+274,California,2019,BMW i3 REx,13045
+275,California,2019,BMW i8,1645
+276,California,2019,Cadillac CT6,127
+277,California,2019,Cadillac ELR,589
+278,California,2019,Chevrolet Bolt EV,30440
+279,California,2019,Chevrolet Spark,2762
+280,California,2019,Chevrolet Volt,60523
+281,California,2019,Chrysler Pacifica,5705
+282,California,2019,Fiat 500e,11322
+283,California,2019,Fisker Karma,294
+284,California,2019,Ford C-Max Energi,14232
+285,California,2019,Ford Focus EV,2745
+286,California,2019,Ford Fusion Energi,26849
+287,California,2019,Ford Ranger,28
+288,California,2019,Ford Transit Connect Electric,44
+289,California,2019,Honda Accord Plug In,661
+290,California,2019,Honda Clarity BEV,2398
+291,California,2019,Honda Clarity Plug In,15740
+292,California,2019,Honda Fit EV,172
+293,California,2019,Hyundai Ioniq EV,1428
+294,California,2019,Hyundai Ioniq Plug In,2588
+295,California,2019,Hyundai Kona Electric,1697
+296,California,2019,Hyundai Sonata Plug In,2091
+297,California,2019,Jaguar I-Pace,920
+298,California,2019,Karma Revero,94
+299,California,2019,Kia Niro EV,1148
+300,California,2019,Kia Niro Plug In,3865
+301,California,2019,Kia Optima Plug In,1439
+302,California,2019,Kia Soul EV,2221
+303,California,2019,Land Rover Range Rover Plug In,90
+304,California,2019,Mclaren P1,19
+305,California,2019,Mercedes B-Class Electric,1230
+306,California,2019,Mercedes C350e Plug In,1587
+307,California,2019,Mercedes GLC 350e Hybrid,3881
+308,California,2019,Mercedes GLE 550e Plug In Hybrid,562
+309,California,2019,Mercedes S550e,791
+310,California,2019,Mini Countryman Plug In,606
+311,California,2019,Mini Hardtop 2 Door EV,3
+312,California,2019,Mitsubishi Outlander Plug In,1750
+313,California,2019,Mitsubishi i,371
+314,California,2019,Nissan Leaf,31600
+315,California,2019,Porsche 918 Spyder,38
+316,California,2019,Porsche Cayenne S E-Hybrid,1746
+317,California,2019,Porsche Panamera S E-Hybrid,1057
+318,California,2019,Porsche Taycan,1
+319,California,2019,Scion iQ,17
+320,California,2019,Smart EQ ForTwo,181
+321,California,2019,Smart forTwo EV,2016
+322,California,2019,Subaru Crosstrek Hybrid,1097
+323,California,2019,Tesla Model 3,109791
+324,California,2019,Tesla Model S,59798
+325,California,2019,Tesla Model X,27347
+326,California,2019,Tesla Roadster,517
+327,California,2019,Toyota Prius Plug-in,24928
+328,California,2019,Toyota Prius Prime,35042
+329,California,2019,Toyota RAV4 EV,1463
+330,California,2019,Volkswagen e-Golf,10081
+331,California,2019,Volvo S60 Plug In,117
+332,California,2019,Volvo S90 Plug In,167
+333,California,2019,Volvo V60 Plug In,4
+334,California,2019,Volvo XC60 Plug In,1403
+335,California,2019,Volvo XC90 Plug In,2224
+336,Colorado,2010,Chevrolet S10 Electric,3
+337,Colorado,2010,E-Ride EXV,2
+338,Colorado,2010,Ford Ranger,3
+339,Colorado,2010,Ford Think Neighbor,12
+340,Colorado,2010,GEM NEV,119
+341,Colorado,2010,Miles ZX40ST,5
+342,Colorado,2010,Tesla Roadster,43
+343,Colorado,2010,Toyota Prius Plug-in,18
+344,Colorado,2010,Toyota RAV4 EV,3
+345,Colorado,2010,ZAP EV,12
+346,Colorado,2011,Azure Transit Connect,5
+347,Colorado,2011,Chevrolet S10 Electric,1
+348,Colorado,2011,Chevrolet Volt,54
+349,Colorado,2011,E-Ride EXV,2
+350,Colorado,2011,Ford Ranger,4
+351,Colorado,2011,Ford Think Neighbor,8
+352,Colorado,2011,GEM NEV,121
+353,Colorado,2011,Miles ZX40ST,4
+354,Colorado,2011,Nissan Leaf,9
+355,Colorado,2011,Smart forTwo EV,11
+356,Colorado,2011,Tesla Roadster,52
+357,Colorado,2011,Toyota Prius Plug-in,28
+358,Colorado,2011,Toyota RAV4 EV,3
+359,Colorado,2011,ZAP EV,15
+360,Colorado,2012,Azure Transit Connect,6
+361,Colorado,2012,Chevrolet S10 Electric,1
+362,Colorado,2012,Chevrolet Volt,524
+363,Colorado,2012,E-Ride EXV,2
+364,Colorado,2012,Fisker Karma,9
+365,Colorado,2012,Ford C-Max Energi,19
+366,Colorado,2012,Ford Focus EV,3
+367,Colorado,2012,Ford Ranger,3
+368,Colorado,2012,Ford Think Neighbor,9
+369,Colorado,2012,GEM NEV,118
+370,Colorado,2012,Miles ZX40ST,5
+371,Colorado,2012,Mitsubishi i,9
+372,Colorado,2012,Nissan Leaf,227
+373,Colorado,2012,Smart forTwo EV,10
+374,Colorado,2012,Smith EV,2
+375,Colorado,2012,Tesla Model S,14
+376,Colorado,2012,Tesla Roadster,53
+377,Colorado,2012,Th!nk City,1
+378,Colorado,2012,Toyota Prius Plug-in,28
+379,Colorado,2012,Toyota RAV4 EV,3
+380,Colorado,2012,ZAP EV,8
+381,Colorado,2013,Azure Transit Connect,4
+382,Colorado,2013,Chevrolet S10 Electric,1
+383,Colorado,2013,Chevrolet Volt,987
+384,Colorado,2013,E-Ride EXV,2
+385,Colorado,2013,Fisker Karma,9
+386,Colorado,2013,Ford C-Max Energi,156
+387,Colorado,2013,Ford Focus EV,36
+388,Colorado,2013,Ford Fusion Energi,47
+389,Colorado,2013,Ford Ranger,3
+390,Colorado,2013,Ford Think Neighbor,4
+391,Colorado,2013,GEM NEV,119
+392,Colorado,2013,Miles ZX40ST,6
+393,Colorado,2013,Mitsubishi i,16
+394,Colorado,2013,Nissan Leaf,635
+395,Colorado,2013,Smart forTwo EV,11
+396,Colorado,2013,Smith EV,2
+397,Colorado,2013,Tesla Model S,372
+398,Colorado,2013,Tesla Roadster,39
+399,Colorado,2013,Th!nk City,1
+400,Colorado,2013,Toyota Prius Plug-in,68
+401,Colorado,2013,Toyota RAV4 EV,11
+402,Colorado,2013,Wheego Life,1
+403,Colorado,2013,ZAP EV,9
+404,Colorado,2014,Azure Transit Connect,4
+405,Colorado,2014,BMW i3,35
+406,Colorado,2014,BMW i3 REx,19
+407,Colorado,2014,Cadillac ELR,9
+408,Colorado,2014,Chevrolet S10 Electric,1
+409,Colorado,2014,Chevrolet Spark,2
+410,Colorado,2014,Chevrolet Volt,1448
+411,Colorado,2014,Coda EV,8
+412,Colorado,2014,E-Ride EXV,2
+413,Colorado,2014,Fiat 500e,1
+414,Colorado,2014,Fisker Karma,10
+415,Colorado,2014,Ford C-Max Energi,270
+416,Colorado,2014,Ford Focus EV,55
+417,Colorado,2014,Ford Fusion Energi,203
+418,Colorado,2014,Ford Ranger,1
+419,Colorado,2014,Ford Think Neighbor,4
+420,Colorado,2014,GEM NEV,116
+421,Colorado,2014,Miles ZX40ST,5
+422,Colorado,2014,Mitsubishi i,24
+423,Colorado,2014,Nissan Leaf,1208
+424,Colorado,2014,Porsche Panamera S E-Hybrid,3
+425,Colorado,2014,Smart forTwo EV,28
+426,Colorado,2014,Smith EV,2
+427,Colorado,2014,Tesla Model S,534
+428,Colorado,2014,Tesla Roadster,37
+429,Colorado,2014,Th!nk City,3
+430,Colorado,2014,Toyota Prius Plug-in,91
+431,Colorado,2014,Toyota RAV4 EV,11
+432,Colorado,2014,Wheego Life,1
+433,Colorado,2014,ZAP EV,4
+434,Colorado,2015,Azure Transit Connect,5
+435,Colorado,2015,BMW X5,2
+436,Colorado,2015,BMW i3,75
+437,Colorado,2015,BMW i3 REx,140
+438,Colorado,2015,BMW i8,25
+439,Colorado,2015,Cadillac ELR,30
+440,Colorado,2015,Chevrolet S10 Electric,1
+441,Colorado,2015,Chevrolet Spark,5
+442,Colorado,2015,Chevrolet Volt,1724
+443,Colorado,2015,Coda EV,11
+444,Colorado,2015,E-Ride EXV,2
+445,Colorado,2015,Fiat 500e,4
+446,Colorado,2015,Fisker Karma,10
+447,Colorado,2015,Ford C-Max Energi,353
+448,Colorado,2015,Ford Focus EV,74
+449,Colorado,2015,Ford Fusion Energi,319
+450,Colorado,2015,Ford Ranger,1
+451,Colorado,2015,Ford Think Neighbor,4
+452,Colorado,2015,GEM NEV,113
+453,Colorado,2015,Mercedes B-Class Electric,2
+454,Colorado,2015,Miles ZX40ST,4
+455,Colorado,2015,Mitsubishi i,33
+456,Colorado,2015,Nissan Leaf,1813
+457,Colorado,2015,Porsche 918 Spyder,4
+458,Colorado,2015,Porsche Cayenne S E-Hybrid,21
+459,Colorado,2015,Porsche Panamera S E-Hybrid,7
+460,Colorado,2015,Smart forTwo EV,45
+461,Colorado,2015,Smith EV,2
+462,Colorado,2015,Tesla Model S,1073
+463,Colorado,2015,Tesla Roadster,34
+464,Colorado,2015,Th!nk City,3
+465,Colorado,2015,Toyota Prius Plug-in,120
+466,Colorado,2015,Toyota RAV4 EV,12
+467,Colorado,2015,ZAP EV,2
+468,Colorado,2016,Audi A3 Plug In,54
+469,Colorado,2016,Azure Transit Connect,4
+470,Colorado,2016,BMW 3-Series Plug in,1
+471,Colorado,2016,BMW X5,155
+472,Colorado,2016,BMW i3,130
+473,Colorado,2016,BMW i3 REx,263
+474,Colorado,2016,BMW i8,44
+475,Colorado,2016,BYD 45' Transit Bus,3
+476,Colorado,2016,Cadillac ELR,36
+477,Colorado,2016,Chevrolet Spark,16
+478,Colorado,2016,Chevrolet Volt,2183
+479,Colorado,2016,Coda EV,6
+480,Colorado,2016,E-Ride EXV,2
+481,Colorado,2016,Fiat 500e,28
+482,Colorado,2016,Fisker Karma,12
+483,Colorado,2016,Ford C-Max Energi,412
+484,Colorado,2016,Ford Focus EV,112
+485,Colorado,2016,Ford Fusion Energi,475
+486,Colorado,2016,Ford Think Neighbor,2
+487,Colorado,2016,GEM NEV,120
+488,Colorado,2016,Honda Accord Plug In,1
+489,Colorado,2016,Hyundai Sonata Plug In,3
+490,Colorado,2016,Kia Soul EV,6
+491,Colorado,2016,Mercedes B-Class Electric,16
+492,Colorado,2016,Mercedes GLE55e,4
+493,Colorado,2016,Miles ZX40ST,3
+494,Colorado,2016,Mitsubishi i,32
+495,Colorado,2016,Nissan Leaf,2644
+496,Colorado,2016,Porsche 918 Spyder,4
+497,Colorado,2016,Porsche Cayenne S E-Hybrid,58
+498,Colorado,2016,Porsche Panamera S E-Hybrid,7
+499,Colorado,2016,Smart forTwo EV,50
+500,Colorado,2016,Smart forTwo EV Cabrio,5
+501,Colorado,2016,Smith EV,2
+502,Colorado,2016,Tesla Model S,1461
+503,Colorado,2016,Tesla Model X,324
+504,Colorado,2016,Tesla Roadster,33
+505,Colorado,2016,Th!nk City,3
+506,Colorado,2016,Toyota Prius Plug-in,147
+507,Colorado,2016,Toyota Prius Prime,4
+508,Colorado,2016,Toyota RAV4 EV,29
+509,Colorado,2016,Volvo XC90 Plug In,76
+510,Colorado,2016,ZAP EV,3
+511,Colorado,2017,Audi A3 Plug In,111
+512,Colorado,2017,Azure Transit Connect,4
+513,Colorado,2017,BMW 3-Series Plug in,17
+514,Colorado,2017,BMW 5-Series Plug in,29
+515,Colorado,2017,BMW 7-Series Plug in,3
+516,Colorado,2017,BMW X5,349
+517,Colorado,2017,BMW i3,154
+518,Colorado,2017,BMW i3 REx,276
+519,Colorado,2017,BMW i8,49
+520,Colorado,2017,BYD 45' Transit Bus,50
+521,Colorado,2017,Cadillac ELR,36
+522,Colorado,2017,Chevrolet Bolt EV,310
+523,Colorado,2017,Chevrolet Spark,39
+524,Colorado,2017,Chevrolet Volt,2600
+525,Colorado,2017,Chrysler Pacifica,48
+526,Colorado,2017,Coda EV,4
+527,Colorado,2017,E-Ride EXV,2
+528,Colorado,2017,Fiat 500e,135
+529,Colorado,2017,Fisker Karma,12
+530,Colorado,2017,Ford C-Max Energi,474
+531,Colorado,2017,Ford Focus EV,109
+532,Colorado,2017,Ford Fusion Energi,543
+533,Colorado,2017,Ford Ranger,1
+534,Colorado,2017,Ford Think Neighbor,2
+535,Colorado,2017,GEM NEV,137
+536,Colorado,2017,Honda Accord Plug In,5
+537,Colorado,2017,Honda Clarity Plug In,1
+538,Colorado,2017,Hyundai Sonata Plug In,3
+539,Colorado,2017,Kia Optima Plug In,69
+540,Colorado,2017,Kia Soul EV,12
+541,Colorado,2017,Mercedes B-Class Electric,20
+542,Colorado,2017,Mercedes GLE55e,15
+543,Colorado,2017,Miles ZX40ST,3
+544,Colorado,2017,Mini Countryman Plug In,6
+545,Colorado,2017,Mitsubishi i,30
+546,Colorado,2017,Nissan Leaf,4136
+547,Colorado,2017,Porsche 918 Spyder,4
+548,Colorado,2017,Porsche Cayenne S E-Hybrid,117
+549,Colorado,2017,Porsche Panamera S E-Hybrid,9
+550,Colorado,2017,Smart forTwo EV,70
+551,Colorado,2017,Smart forTwo EV Cabrio,15
+552,Colorado,2017,Smith EV,2
+553,Colorado,2017,Tesla Model 3,3
+554,Colorado,2017,Tesla Model S,1894
+555,Colorado,2017,Tesla Model X,689
+556,Colorado,2017,Tesla Roadster,36
+557,Colorado,2017,Th!nk City,2
+558,Colorado,2017,Toyota Prius Plug-in,201
+559,Colorado,2017,Toyota Prius Prime,190
+560,Colorado,2017,Toyota RAV4 EV,46
+561,Colorado,2017,Volkswagen e-Golf,15
+562,Colorado,2017,Volvo XC60 Plug In,10
+563,Colorado,2017,Volvo XC90 Plug In,157
+564,Colorado,2017,ZAP EV,2
+565,Colorado,2018,Audi A3 Plug In,146
+566,Colorado,2018,Azure Transit Connect,4
+567,Colorado,2018,BMW 3-Series Plug in,29
+568,Colorado,2018,BMW 5-Series Plug in,141
+569,Colorado,2018,BMW 7-Series Plug in,15
+570,Colorado,2018,BMW X5,558
+571,Colorado,2018,BMW i3,195
+572,Colorado,2018,BMW i3 REx,275
+573,Colorado,2018,BMW i8,66
+574,Colorado,2018,BYD 45' Transit Bus,35
+575,Colorado,2018,Cadillac CT6,1
+576,Colorado,2018,Cadillac ELR,36
+577,Colorado,2018,Chevrolet Bolt EV,694
+578,Colorado,2018,Chevrolet Spark,64
+579,Colorado,2018,Chevrolet Volt,2665
+580,Colorado,2018,Chrysler Pacifica,198
+581,Colorado,2018,Coda EV,7
+582,Colorado,2018,E-Ride EXV,2
+583,Colorado,2018,Fiat 500e,179
+584,Colorado,2018,Fisker Karma,11
+585,Colorado,2018,Ford C-Max Energi,475
+586,Colorado,2018,Ford Focus EV,103
+587,Colorado,2018,Ford Fusion Energi,625
+588,Colorado,2018,Ford Ranger,1
+589,Colorado,2018,Ford Think Neighbor,4
+590,Colorado,2018,GEM NEV,130
+591,Colorado,2018,Honda Accord Plug In,6
+592,Colorado,2018,Honda Clarity Plug In,190
+593,Colorado,2018,Hyundai Ioniq Plug In,3
+594,Colorado,2018,Hyundai Sonata Plug In,18
+595,Colorado,2018,Jaguar I-Pace,3
+596,Colorado,2018,Kia Niro Plug In,73
+597,Colorado,2018,Kia Optima Plug In,78
+598,Colorado,2018,Kia Soul EV,16
+599,Colorado,2018,Mercedes B-Class Electric,21
+600,Colorado,2018,Mercedes GLC 350e Hybrid,3
+601,Colorado,2018,Mercedes GLE55e,28
+602,Colorado,2018,Miles ZX40ST,3
+603,Colorado,2018,Mini Countryman Plug In,138
+604,Colorado,2018,Mitsubishi Outlander Plug In,102
+605,Colorado,2018,Mitsubishi i,32
+606,Colorado,2018,Nissan Leaf,4244
+607,Colorado,2018,Porsche 918 Spyder,4
+608,Colorado,2018,Porsche Cayenne S E-Hybrid,146
+609,Colorado,2018,Porsche Panamera S E-Hybrid,38
+610,Colorado,2018,Smart forTwo EV,81
+611,Colorado,2018,Smart forTwo EV Cabrio,20
+612,Colorado,2018,Smith EV,2
+613,Colorado,2018,Tesla Model 3,1744
+614,Colorado,2018,Tesla Model S,2224
+615,Colorado,2018,Tesla Model X,1101
+616,Colorado,2018,Tesla Roadster,35
+617,Colorado,2018,Th!nk City,2
+618,Colorado,2018,Toyota Prius Plug-in,191
+619,Colorado,2018,Toyota Prius Prime,490
+620,Colorado,2018,Toyota RAV4 EV,43
+621,Colorado,2018,Volkswagen e-Golf,26
+622,Colorado,2018,Volvo S90 Plug In,14
+623,Colorado,2018,Volvo XC60 Plug In,93
+624,Colorado,2018,Volvo XC90 Plug In,222
+625,Colorado,2018,ZAP EV,1
+626,Colorado,2019,Audi A3 Plug In,1165
+627,Colorado,2019,Audi e-tron,1446
+628,Colorado,2019,Azure Transit Connect,19
+629,Colorado,2019,BMW 3-Series Plug in,318
+630,Colorado,2019,BMW 5-Series Plug in,1612
+631,Colorado,2019,BMW 7-Series Plug in,154
+632,Colorado,2019,BMW X5,3810
+633,Colorado,2019,BMW i3,2136
+634,Colorado,2019,BMW i3 REx,2078
+635,Colorado,2019,BMW i8,499
+636,Colorado,2019,BYD 45' Transit Bus,196
+637,Colorado,2019,Cadillac ELR,291
+638,Colorado,2019,Chevrolet Bolt EV,7761
+639,Colorado,2019,Chevrolet Spark,939
+640,Colorado,2019,Chevrolet Volt,21061
+641,Colorado,2019,Chrysler Pacifica,2652
+642,Colorado,2019,Coda EV,9
+643,Colorado,2019,E-Ride EXV,18
+644,Colorado,2019,Fiat 500e,1875
+645,Colorado,2019,Fisker Karma,82
+646,Colorado,2019,Ford C-Max Energi,3629
+647,Colorado,2019,Ford Focus EV,703
+648,Colorado,2019,Ford Fusion Energi,5382
+649,Colorado,2019,Ford Ranger,1
+650,Colorado,2019,Ford Think Neighbor,17
+651,Colorado,2019,GEM NEV,953
+652,Colorado,2019,Honda Accord Plug In,37
+653,Colorado,2019,Honda Clarity Plug In,1975
+654,Colorado,2019,Hyundai Ioniq EV,77
+655,Colorado,2019,Hyundai Ioniq Plug In,467
+656,Colorado,2019,Hyundai Kona Electric,487
+657,Colorado,2019,Hyundai Sonata Plug In,490
+658,Colorado,2019,Jaguar I-Pace,462
+659,Colorado,2019,Karma Revero,18
+660,Colorado,2019,Kia Niro EV,1554
+661,Colorado,2019,Kia Niro Plug In,1721
+662,Colorado,2019,Kia Optima Plug In,584
+663,Colorado,2019,Kia Soul EV,383
+664,Colorado,2019,Mercedes B-Class Electric,218
+665,Colorado,2019,Mercedes GLC 350e Hybrid,492
+666,Colorado,2019,Mercedes GLE55e,162
+667,Colorado,2019,Miles ZX40ST,23
+668,Colorado,2019,Mini Countryman Plug In,2167
+669,Colorado,2019,Mitsubishi Outlander Plug In,1757
+670,Colorado,2019,Mitsubishi i,209
+671,Colorado,2019,New Flyer Xcelsior CHARGE,69
+672,Colorado,2019,Nissan Leaf,39371
+673,Colorado,2019,Porsche 918 Spyder,26
+674,Colorado,2019,Porsche Cayenne S E-Hybrid,1300
+675,Colorado,2019,Porsche Panamera S E-Hybrid,426
+676,Colorado,2019,Proterra Electric Transit Bus,19
+677,Colorado,2019,Smart EQ ForTwo,8
+678,Colorado,2019,Smart forTwo EV,704
+679,Colorado,2019,Smart forTwo EV Cabrio,148
+680,Colorado,2019,Subaru Crosstrek Hybrid,241
+681,Colorado,2019,Tesla Model 3,43466
+682,Colorado,2019,Tesla Model S,17573
+683,Colorado,2019,Tesla Model X,10293
+684,Colorado,2019,Tesla Roadster,250
+685,Colorado,2019,Th!nk City,10
+686,Colorado,2019,Toyota Prius Plug-in,1635
+687,Colorado,2019,Toyota Prius Prime,5685
+688,Colorado,2019,Toyota RAV4 EV,272
+689,Colorado,2019,Volkswagen e-Golf,648
+690,Colorado,2019,Volvo S60 Plug In,201
+691,Colorado,2019,Volvo S90 Plug In,156
+692,Colorado,2019,Volvo XC60 Plug In,1201
+693,Colorado,2019,Volvo XC90 Plug In,1809
+694,Colorado,2019,ZAP EV,11
+695,Colorado,2020,Audi A3 Plug In,1185
+696,Colorado,2020,Audi Q5 Plug In,873
+697,Colorado,2020,Audi e-tron,2277
+698,Colorado,2020,Audi e-tron Sportback,28
+699,Colorado,2020,Azure Transit Connect,30
+700,Colorado,2020,BMW 3-Series Plug in,217
+701,Colorado,2020,BMW 5-Series Plug in,1773
+702,Colorado,2020,BMW 7-Series Plug in,124
+703,Colorado,2020,BMW X3,239
+704,Colorado,2020,BMW X5,4409
+705,Colorado,2020,BMW i3,1674
+706,Colorado,2020,BMW i3 REx,2030
+707,Colorado,2020,BMW i8,435
+708,Colorado,2020,BYD 45' Transit Bus,293
+709,Colorado,2020,Bentley Bentayga,6
+710,Colorado,2020,Cadillac CT6,15
+711,Colorado,2020,Cadillac ELR,277
+712,Colorado,2020,Chevrolet Bolt EV,8891
+713,Colorado,2020,Chevrolet Spark,735
+714,Colorado,2020,Chevrolet Volt,21592
+715,Colorado,2020,Chrysler Pacifica,2924
+716,Colorado,2020,Coda EV,40
+717,Colorado,2020,E-Ride EXV,3
+718,Colorado,2020,Fiat 500e,1804
+719,Colorado,2020,Fisker Karma,89
+720,Colorado,2020,Ford C-Max Energi,3334
+721,Colorado,2020,Ford Focus EV,759
+722,Colorado,2020,Ford Fusion Energi,5430
+723,Colorado,2020,Ford Ranger,14
+724,Colorado,2020,Ford Think Neighbor,11
+725,Colorado,2020,GEM NEV,907
+726,Colorado,2020,Honda Accord Plug In,50
+727,Colorado,2020,Honda Clarity Plug In,2414
+728,Colorado,2020,Hyundai Ioniq EV,100
+729,Colorado,2020,Hyundai Ioniq Plug In,347
+730,Colorado,2020,Hyundai Kona Electric,483
+731,Colorado,2020,Hyundai Sonata Plug In,746
+732,Colorado,2020,Jaguar I-Pace,695
+733,Colorado,2020,Karma Revero,11
+734,Colorado,2020,Kia Niro EV,1886
+735,Colorado,2020,Kia Niro Plug In,2175
+736,Colorado,2020,Kia Optima Plug In,554
+737,Colorado,2020,Kia Soul EV,418
+738,Colorado,2020,Land Rover Range Rover Plug In,132
+739,Colorado,2020,Lincoln Aviator Plug In,175
+740,Colorado,2020,Mercedes B-Class Electric,169
+741,Colorado,2020,Mercedes C350e Plug In,3
+742,Colorado,2020,Mercedes GLC 350e Hybrid,455
+743,Colorado,2020,Mercedes GLE55e,211
+744,Colorado,2020,Miles ZX40ST,19
+745,Colorado,2020,Mini Countryman Plug In,2000
+746,Colorado,2020,Mini Hardtop 2 Door EV,106
+747,Colorado,2020,Mitsubishi Outlander Plug In,2730
+748,Colorado,2020,Mitsubishi i,263
+749,Colorado,2020,New Flyer Xcelsior CHARGE,31
+750,Colorado,2020,Nissan Leaf,42012
+751,Colorado,2020,Porsche 918 Spyder,30
+752,Colorado,2020,Porsche Cayenne S E-Hybrid,1598
+753,Colorado,2020,Porsche Panamera S E-Hybrid,454
+754,Colorado,2020,Porsche Taycan,257
+755,Colorado,2020,Proterra Electric Transit Bus,20
+756,Colorado,2020,Smart EQ ForTwo,20
+757,Colorado,2020,Smart forTwo EV,577
+758,Colorado,2020,Smart forTwo EV Cabrio,128
+759,Colorado,2020,Subaru Crosstrek Hybrid,333
+760,Colorado,2020,Tesla Model 3,53068
+761,Colorado,2020,Tesla Model S,20760
+762,Colorado,2020,Tesla Model X,13433
+763,Colorado,2020,Tesla Model Y,6064
+764,Colorado,2020,Tesla Roadster,179
+765,Colorado,2020,Th!nk City,8
+766,Colorado,2020,Toyota Prius Plug-in,1690
+767,Colorado,2020,Toyota Prius Prime,6434
+768,Colorado,2020,Toyota RAV4 EV,306
+769,Colorado,2020,Toyota RAV4 Prime,61
+770,Colorado,2020,Volkswagen e-Golf,1023
+771,Colorado,2020,Volvo S60 Plug In,286
+772,Colorado,2020,Volvo S90 Plug In,119
+773,Colorado,2020,Volvo XC60 Plug In,1981
+774,Colorado,2020,Volvo XC90 Plug In,2709
+775,Colorado,2020,ZAP EV,4
+776,Colorado,2021,Audi A3 Plug In,10
+777,Colorado,2021,Audi A7 Plug In,1
+778,Colorado,2021,Audi Q5 Plug In,27
+779,Colorado,2021,Audi e-tron,38
+780,Colorado,2021,Audi e-tron Sportback,8
+781,Colorado,2021,BMW 3-Series Plug in,4
+782,Colorado,2021,BMW 5-Series Plug in,14
+783,Colorado,2021,BMW 7-Series Plug in,3
+784,Colorado,2021,BMW X3,14
+785,Colorado,2021,BMW X5,66
+786,Colorado,2021,BMW i3,11
+787,Colorado,2021,BMW i3 REx,20
+788,Colorado,2021,BYD 45' Transit Bus,1
+789,Colorado,2021,Cadillac ELR,1
+790,Colorado,2021,Chevrolet Bolt EV,120
+791,Colorado,2021,Chevrolet Spark,8
+792,Colorado,2021,Chevrolet Volt,238
+793,Colorado,2021,Chrysler Pacifica,45
+794,Colorado,2021,Coda EV,2
+795,Colorado,2021,Fiat 500e,15
+796,Colorado,2021,Fisker Karma,1
+797,Colorado,2021,Ford C-Max Energi,24
+798,Colorado,2021,Ford Focus EV,12
+799,Colorado,2021,Ford Fusion Energi,53
+800,Colorado,2021,GEM NEV,7
+801,Colorado,2021,Honda Accord Plug In,1
+802,Colorado,2021,Honda Clarity Plug In,24
+803,Colorado,2021,Hyundai Ioniq Plug In,6
+804,Colorado,2021,Hyundai Kona Electric,4
+805,Colorado,2021,Hyundai Sonata Plug In,9
+806,Colorado,2021,Jaguar I-Pace,12
+807,Colorado,2021,Kia Niro EV,19
+808,Colorado,2021,Kia Niro Plug In,27
+809,Colorado,2021,Kia Optima Plug In,8
+810,Colorado,2021,Kia Soul EV,2
+811,Colorado,2021,Land Rover Range Rover Plug In,4
+812,Colorado,2021,Lincoln Aviator Plug In,4
+813,Colorado,2021,Mercedes B-Class Electric,3
+814,Colorado,2021,Mercedes GLC 350e Hybrid,5
+815,Colorado,2021,Mini Countryman Plug In,27
+816,Colorado,2021,Mini Hardtop 2 Door EV,9
+817,Colorado,2021,Mitsubishi Outlander Plug In,33
+818,Colorado,2021,Mitsubishi i,2
+819,Colorado,2021,Nissan Leaf,482
+820,Colorado,2021,Porsche Cayenne S E-Hybrid,16
+821,Colorado,2021,Porsche Panamera S E-Hybrid,5
+822,Colorado,2021,Porsche Taycan,10
+823,Colorado,2021,Proterra Electric Transit Bus,3
+824,Colorado,2021,Smart EQ ForTwo,1
+825,Colorado,2021,Smart forTwo EV,7
+826,Colorado,2021,Smart forTwo EV Cabrio,2
+827,Colorado,2021,Subaru Crosstrek Hybrid,3
+828,Colorado,2021,Tesla Model 3,717
+829,Colorado,2021,Tesla Model S,215
+830,Colorado,2021,Tesla Model X,172
+831,Colorado,2021,Tesla Model Y,372
+832,Colorado,2021,Tesla Roadster,3
+833,Colorado,2021,Toyota Prius Plug-in,20
+834,Colorado,2021,Toyota Prius Prime,61
+835,Colorado,2021,Toyota RAV4 EV,3
+836,Colorado,2021,Toyota RAV4 Prime,16
+837,Colorado,2021,Volkswagen e-Golf,15
+838,Colorado,2021,Volvo S60 Plug In,7
+839,Colorado,2021,Volvo XC60 Plug In,30
+840,Colorado,2021,Volvo XC90 Plug In,39
+841,Connecticut,2011,Chevrolet Volt,1
+842,Connecticut,2012,Chevrolet Volt,1
+843,Connecticut,2012,Ford Focus EV,1
+844,Connecticut,2012,Ford Fusion Energi,2
+845,Connecticut,2012,Nissan Leaf,3
+846,Connecticut,2012,Tesla Model S,3
+847,Connecticut,2012,Toyota Prius Plug-in,13
+848,Connecticut,2013,BMW Active E,1
+849,Connecticut,2013,BMW i3 REx,1
+850,Connecticut,2013,Chevrolet Volt,14
+851,Connecticut,2013,Ford C-Max Energi,10
+852,Connecticut,2013,Ford Fusion Energi,13
+853,Connecticut,2013,Honda Fit EV,4
+854,Connecticut,2013,Mercedes B-Class Electric,1
+855,Connecticut,2013,Nissan Leaf,2
+856,Connecticut,2013,Porsche Cayenne S E-Hybrid,1
+857,Connecticut,2013,Smart forTwo EV,1
+858,Connecticut,2013,Tesla Model S,7
+859,Connecticut,2013,Tesla Roadster,1
+860,Connecticut,2013,Toyota Prius Plug-in,27
+861,Connecticut,2014,BMW i3,5
+862,Connecticut,2014,BMW i3 REx,3
+863,Connecticut,2014,BMW i8,9
+864,Connecticut,2014,Cadillac ELR,3
+865,Connecticut,2014,Chevrolet Volt,97
+866,Connecticut,2014,Fisker Karma,1
+867,Connecticut,2014,Ford C-Max Energi,32
+868,Connecticut,2014,Ford Focus EV,4
+869,Connecticut,2014,Ford Fusion Energi,24
+870,Connecticut,2014,GEM NEV,1
+871,Connecticut,2014,Honda Fit EV,7
+872,Connecticut,2014,Mclaren P1,1
+873,Connecticut,2014,Mercedes B-Class Electric,3
+874,Connecticut,2014,Nissan Leaf,42
+875,Connecticut,2014,Porsche 918 Spyder,1
+876,Connecticut,2014,Porsche Cayenne S E-Hybrid,1
+877,Connecticut,2014,Porsche Panamera S E-Hybrid,2
+878,Connecticut,2014,Smart forTwo EV,2
+879,Connecticut,2014,Tesla Model S,70
+880,Connecticut,2014,Tesla Roadster,4
+881,Connecticut,2014,Toyota Prius Plug-in,173
+882,Connecticut,2014,Volkswagen e-Golf,6
+883,Connecticut,2015,BMW X5,2
+884,Connecticut,2015,BMW i3,6
+885,Connecticut,2015,BMW i3 REx,81
+886,Connecticut,2015,BMW i8,17
+887,Connecticut,2015,Cadillac ELR,6
+888,Connecticut,2015,Chevrolet Volt,393
+889,Connecticut,2015,Coda EV,1
+890,Connecticut,2015,Fiat 500e,1
+891,Connecticut,2015,Fisker Karma,2
+892,Connecticut,2015,Ford C-Max Energi,115
+893,Connecticut,2015,Ford Focus EV,22
+894,Connecticut,2015,Ford Fusion Energi,134
+895,Connecticut,2015,Ford Ranger,1
+896,Connecticut,2015,GEM NEV,2
+897,Connecticut,2015,Honda Accord Plug In,1
+898,Connecticut,2015,Honda Fit EV,5
+899,Connecticut,2015,Hyundai Sonata Plug In,1
+900,Connecticut,2015,International Estar,1
+901,Connecticut,2015,Mclaren P1,1
+902,Connecticut,2015,Mercedes B-Class Electric,12
+903,Connecticut,2015,Mitsubishi i,8
+904,Connecticut,2015,Nissan Leaf,137
+905,Connecticut,2015,Porsche 918 Spyder,5
+906,Connecticut,2015,Porsche Cayenne S E-Hybrid,19
+907,Connecticut,2015,Porsche Panamera S E-Hybrid,5
+908,Connecticut,2015,Smart forTwo EV,15
+909,Connecticut,2015,Tesla Model S,331
+910,Connecticut,2015,Tesla Roadster,7
+911,Connecticut,2015,Th!nk City,1
+912,Connecticut,2015,Toyota Prius Plug-in,411
+913,Connecticut,2015,Volkswagen e-Golf,61
+914,Connecticut,2016,Audi A3 Plug In,12
+915,Connecticut,2016,Azure Transit Connect,1
+916,Connecticut,2016,BMW X5,17
+917,Connecticut,2016,BMW i3,6
+918,Connecticut,2016,BMW i3 REx,33
+919,Connecticut,2016,BMW i8,8
+920,Connecticut,2016,Cadillac ELR,4
+921,Connecticut,2016,Chevrolet Volt,277
+922,Connecticut,2016,Fisker Karma,3
+923,Connecticut,2016,Ford C-Max Energi,70
+924,Connecticut,2016,Ford Focus EV,9
+925,Connecticut,2016,Ford Fusion Energi,128
+926,Connecticut,2016,Honda Accord Plug In,2
+927,Connecticut,2016,Honda Fit EV,8
+928,Connecticut,2016,Hyundai Sonata Plug In,5
+929,Connecticut,2016,International Estar,1
+930,Connecticut,2016,Kia Soul EV,5
+931,Connecticut,2016,Mclaren P1,1
+932,Connecticut,2016,Mercedes B-Class Electric,3
+933,Connecticut,2016,Mitsubishi i,3
+934,Connecticut,2016,Nissan Leaf,107
+935,Connecticut,2016,Porsche Cayenne S E-Hybrid,15
+936,Connecticut,2016,Porsche Panamera S E-Hybrid,6
+937,Connecticut,2016,Smart forTwo EV,15
+938,Connecticut,2016,Tesla Model S,287
+939,Connecticut,2016,Tesla Model X,62
+940,Connecticut,2016,Tesla Roadster,7
+941,Connecticut,2016,Toyota Prius Plug-in,183
+942,Connecticut,2016,Volkswagen e-Golf,16
+943,Connecticut,2016,Volvo XC90 Plug In,16
+944,Connecticut,2018,Audi A3 Plug In,37
+945,Connecticut,2018,Azure Transit Connect,1
+946,Connecticut,2018,BMW 3-Series Plug in,21
+947,Connecticut,2018,BMW 5-Series Plug in,33
+948,Connecticut,2018,BMW 7-Series Plug in,3
+949,Connecticut,2018,BMW X5,151
+950,Connecticut,2018,BMW i3,4
+951,Connecticut,2018,BMW i3 REx,176
+952,Connecticut,2018,BMW i8,46
+953,Connecticut,2018,Cadillac ELR,22
+954,Connecticut,2018,Chevrolet Bolt EV,195
+955,Connecticut,2018,Chevrolet Spark,1
+956,Connecticut,2018,Chevrolet Volt,1234
+957,Connecticut,2018,Chrysler Pacifica,30
+958,Connecticut,2018,Coda EV,1
+959,Connecticut,2018,E-Ride EXV,5
+960,Connecticut,2018,Fiat 500e,5
+961,Connecticut,2018,Fisker Karma,9
+962,Connecticut,2018,Ford C-Max Energi,357
+963,Connecticut,2018,Ford Focus EV,29
+964,Connecticut,2018,Ford Fusion Energi,489
+965,Connecticut,2018,GEM NEV,4
+966,Connecticut,2018,HINO 195,1
+967,Connecticut,2018,Honda Accord Plug In,6
+968,Connecticut,2018,Honda Clarity Plug In,10
+969,Connecticut,2018,Honda Fit EV,3
+970,Connecticut,2018,Hyundai Sonata Plug In,17
+971,Connecticut,2018,International Estar,1
+972,Connecticut,2018,Kia Optima Plug In,13
+973,Connecticut,2018,Kia Soul EV,4
+974,Connecticut,2018,Mclaren P1,4
+975,Connecticut,2018,Mercedes B-Class Electric,12
+976,Connecticut,2018,Mercedes C350e Plug In,1
+977,Connecticut,2018,Mercedes GLE55e,7
+978,Connecticut,2018,Mini Countryman Plug In,9
+979,Connecticut,2018,Mitsubishi i,4
+980,Connecticut,2018,Nissan Leaf,196
+981,Connecticut,2018,Porsche 918 Spyder,4
+982,Connecticut,2018,Porsche Cayenne S E-Hybrid,92
+983,Connecticut,2018,Porsche Panamera S E-Hybrid,23
+984,Connecticut,2018,Smart forTwo EV,12
+985,Connecticut,2018,Smart forTwo EV Cabrio,3
+986,Connecticut,2018,Smith EV,1
+987,Connecticut,2018,Tesla Model S,1264
+988,Connecticut,2018,Tesla Model X,301
+989,Connecticut,2018,Tesla Roadster,14
+990,Connecticut,2018,Th!nk City,1
+991,Connecticut,2018,Toyota Prius Plug-in,660
+992,Connecticut,2018,Toyota Prius Prime,569
+993,Connecticut,2018,Toyota RAV4 EV,2
+994,Connecticut,2018,Volkswagen e-Golf,32
+995,Connecticut,2018,Volvo XC60 Plug In,6
+996,Connecticut,2018,Volvo XC90 Plug In,95
+997,Florida,2018,Audi A3 Plug In,144
+998,Florida,2018,BMW 3-Series Plug in,1102
+999,Florida,2018,BMW 5-Series Plug in,90
+1000,Florida,2018,BMW 7-Series Plug in,132
+1001,Florida,2018,BMW X5,1118
+1002,Florida,2018,BMW i3,2653
+1003,Florida,2018,BMW i8,1286
+1004,Florida,2018,Cadillac CT6,102
+1005,Florida,2018,Cadillac ELR,495
+1006,Florida,2018,Chevrolet Bolt EV,748
+1007,Florida,2018,Chevrolet Spark,127
+1008,Florida,2018,Chevrolet Volt,7469
+1009,Florida,2018,Chrysler Pacifica,1508
+1010,Florida,2018,Fiat 500e,415
+1011,Florida,2018,Fisker Karma,166
+1012,Florida,2018,Ford C-Max Energi,113
+1013,Florida,2018,Ford Focus EV,212
+1014,Florida,2018,Ford Fusion Energi,3233
+1015,Florida,2018,Honda Accord PHEV,45
+1016,Florida,2018,Honda Clarity Plug In,542
+1017,Florida,2018,Hyundai Ioniq EV,7
+1018,Florida,2018,Hyundai Ioniq Plug In,7
+1019,Florida,2018,Hyundai Sonata Plug In,4
+1020,Florida,2018,Jaguar I-Pace,8
+1021,Florida,2018,Karma Revero,42
+1022,Florida,2018,Kia Niro Plug In,40
+1023,Florida,2018,Kia Optima Plug In,72
+1024,Florida,2018,Kia Soul EV,58
+1025,Florida,2018,Mclaren P1,13
+1026,Florida,2018,Mercedes B-Class Electric,77
+1027,Florida,2018,Mercedes GLE 550e Hybrid,57
+1028,Florida,2018,Mercedes S550 Plug In,11
+1029,Florida,2018,Mini Countryman Plug In,118
+1030,Florida,2018,Mitsubishi Outlander Plug In,367
+1031,Florida,2018,Nissan Leaf,4145
+1032,Florida,2018,Porsche 918 Spyder,5
+1033,Florida,2018,Porsche Cayenne S E-Hybrid,2130
+1034,Florida,2018,Porsche Panamera S E-Hybrid,391
+1035,Florida,2018,Smart forTwo EV,1766
+1036,Florida,2018,Tesla Model 3,9076
+1037,Florida,2018,Tesla Model S,17124
+1038,Florida,2018,Tesla Model X,6983
+1039,Florida,2018,Tesla Roadster,100
+1040,Florida,2018,Toyota Prius Plug-in,1002
+1041,Florida,2018,Toyota Prius Prime,1082
+1042,Florida,2018,Toyota RAV4 EV,15
+1043,Florida,2018,Volkswagen e-Golf,52
+1044,Florida,2018,Volvo S90 Plug In,127
+1045,Florida,2018,Volvo XC60 Plug In,180
+1046,Florida,2018,Volvo XC90 Plug In,443
+1047,Florida,2018,Wheego Life,7
+1048,Florida,2019,Audi A3 Plug In,203
+1049,Florida,2019,Audi e-tron,312
+1050,Florida,2019,Azure Transit Connect,2
+1051,Florida,2019,BMW 3-Series Plug in,596
+1052,Florida,2019,BMW 5-Series Plug in,80
+1053,Florida,2019,BMW 7-Series Plug in,86
+1054,Florida,2019,BMW X5,768
+1055,Florida,2019,BMW i3,1613
+1056,Florida,2019,BMW i8,843
+1057,Florida,2019,Cadillac CT6,41
+1058,Florida,2019,Cadillac ELR,241
+1059,Florida,2019,Chevrolet Bolt EV,1241
+1060,Florida,2019,Chevrolet Volt,5759
+1061,Florida,2019,Chrysler Pacifica,901
+1062,Florida,2019,Fiat 500e,309
+1063,Florida,2019,Fisker Karma,136
+1064,Florida,2019,Ford C-Max Energi,70
+1065,Florida,2019,Ford Focus EV,100
+1066,Florida,2019,Ford Fusion Energi,1923
+1067,Florida,2019,Honda Accord PHEV,23
+1068,Florida,2019,Honda Clarity Plug In,727
+1069,Florida,2019,Hyundai Ioniq EV,4
+1070,Florida,2019,Hyundai Ioniq Plug In,26
+1071,Florida,2019,Hyundai Kona Electric,26
+1072,Florida,2019,Hyundai Sonata Plug In,5
+1073,Florida,2019,International Estar,2
+1074,Florida,2019,Jaguar I-Pace,333
+1075,Florida,2019,Karma Revero,68
+1076,Florida,2019,Kia Niro EV,166
+1077,Florida,2019,Kia Niro Plug In,5
+1078,Florida,2019,Kia Optima Plug In,42
+1079,Florida,2019,Kia Soul EV,35
+1080,Florida,2019,Mclaren P1,8
+1081,Florida,2019,Mercedes B-Class Electric,60
+1082,Florida,2019,Mercedes C50e Plug In,27
+1083,Florida,2019,Mercedes GLC 350e Hybrid,93
+1084,Florida,2019,Mercedes GLE 550e Hybrid,36
+1085,Florida,2019,Mercedes S550 Plug In,21
+1086,Florida,2019,Mini Countryman Plug In,167
+1087,Florida,2019,Mitsubishi Outlander Plug In,337
+1088,Florida,2019,Mitsubishi i,77
+1089,Florida,2019,Nissan Leaf,2862
+1090,Florida,2019,Porsche 918 Spyder,1
+1091,Florida,2019,Porsche Cayenne S E-Hybrid,1413
+1092,Florida,2019,Porsche Panamera S E-Hybrid,441
+1093,Florida,2019,Smart forTwo EV,1177
+1094,Florida,2019,Subaru Crosstrek Hybrid,2
+1095,Florida,2019,Tesla Model 3,16100
+1096,Florida,2019,Tesla Model S,10001
+1097,Florida,2019,Tesla Model X,5194
+1098,Florida,2019,Tesla Roadster,54
+1099,Florida,2019,Toyota Prius Plug-in,514
+1100,Florida,2019,Toyota Prius Prime,954
+1101,Florida,2019,Toyota RAV4 EV,7
+1102,Florida,2019,Volkswagen e-Golf,113
+1103,Florida,2019,Volvo S90 Plug In,117
+1104,Florida,2019,Volvo XC60 Plug In,193
+1105,Florida,2019,Volvo XC90 Plug In,324
+1106,Florida,2019,Wheego Life,1
+1107,Florida,2020,Audi A3 Plug In,213
+1108,Florida,2020,Audi Q5 Plug In,81
+1109,Florida,2020,Audi e-tron,525
+1110,Florida,2020,BMW 3-Series Plug in,585
+1111,Florida,2020,BMW 5-Series Plug in,148
+1112,Florida,2020,BMW 7-Series Plug in,84
+1113,Florida,2020,BMW X5,791
+1114,Florida,2020,BMW i3,577
+1115,Florida,2020,BMW i3 REx,1061
+1116,Florida,2020,BMW i8,862
+1117,Florida,2020,Cadillac CT6,69
+1118,Florida,2020,Cadillac ELR,244
+1119,Florida,2020,Chevrolet Bolt EV,1560
+1120,Florida,2020,Chevrolet Spark,125
+1121,Florida,2020,Chevrolet Volt,5596
+1122,Florida,2020,Chrysler Pacifica,929
+1123,Florida,2020,Fiat 500e,364
+1124,Florida,2020,Fisker Karma,131
+1125,Florida,2020,Ford C-Max Energi,1396
+1126,Florida,2020,Ford Focus EV,105
+1127,Florida,2020,Ford Fusion Energi,1956
+1128,Florida,2020,Honda Accord Plug In,23
+1129,Florida,2020,Honda Clarity Plug In,709
+1130,Florida,2020,Hyundai Ioniq EV,13
+1131,Florida,2020,Hyundai Ioniq Plug In,43
+1132,Florida,2020,Hyundai Kona Electric,36
+1133,Florida,2020,Hyundai Sonata Plug In,42
+1134,Florida,2020,International Estar,1
+1135,Florida,2020,Jaguar I-Pace,554
+1136,Florida,2020,Karma Revero,77
+1137,Florida,2020,Kia Niro EV,11
+1138,Florida,2020,Kia Niro Plug In,173
+1139,Florida,2020,Kia Optima Plug In,43
+1140,Florida,2020,Kia Soul EV,43
+1141,Florida,2020,Land Rover Range Rover Plug In,101
+1142,Florida,2020,Lincoln Aviator Plug In,47
+1143,Florida,2020,Mclaren P1,9
+1144,Florida,2020,Mercedes B-Class Electric,61
+1145,Florida,2020,Mercedes C350e Plug In,29
+1146,Florida,2020,Mercedes GLC 350e Hybrid,111
+1147,Florida,2020,Mercedes GLE55e,28
+1148,Florida,2020,Mercedes S550e,33
+1149,Florida,2020,Mini Countryman Plug In,162
+1150,Florida,2020,Mitsubishi Outlander Plug In,339
+1151,Florida,2020,Mitsubishi i,71
+1152,Florida,2020,Nissan Leaf,2808
+1153,Florida,2020,Porsche 918 Spyder,1
+1154,Florida,2020,Porsche Cayenne S E-Hybrid,38
+1155,Florida,2020,Porsche Panamera S E-Hybrid,506
+1156,Florida,2020,Porsche Taycan,141
+1157,Florida,2020,Smart forTwo EV,859
+1158,Florida,2020,Smart forTwo EV Cabrio,290
+1159,Florida,2020,Subaru Crosstrek Hybrid,3
+1160,Florida,2020,Tesla Model 3,18326
+1161,Florida,2020,Tesla Model S,10150
+1162,Florida,2020,Tesla Model X,5683
+1163,Florida,2020,Tesla Model Y,644
+1164,Florida,2020,Tesla Roadster,48
+1165,Florida,2020,Toyota Prius Plug-in,510
+1166,Florida,2020,Toyota Prius Prime,1076
+1167,Florida,2020,Toyota RAV4 EV,8
+1168,Florida,2020,Volkswagen e-Golf,118
+1169,Florida,2020,Volvo S60 Plug In,1808
+1170,Florida,2020,Volvo S90 Plug In,71
+1171,Florida,2020,Volvo XC60 Plug In,218
+1172,Florida,2020,Volvo XC90 Plug In,281
+1173,Florida,2020,Wheego Life,2
+1174,Michigan,2013,Chevrolet Volt,1
+1175,Michigan,2013,Ford C-Max Energi,1
+1176,Michigan,2013,Tesla Model S,1
+1177,Michigan,2014,Azure Transit Connect,1
+1178,Michigan,2014,BMW i3,1
+1179,Michigan,2014,BMW i3 REx,1
+1180,Michigan,2014,BMW i8,1
+1181,Michigan,2014,Cadillac ELR,6
+1182,Michigan,2014,Chevrolet Spark,1
+1183,Michigan,2014,Chevrolet Volt,220
+1184,Michigan,2014,Fiat 500e,6
+1185,Michigan,2014,Ford C-Max Energi,24
+1186,Michigan,2014,Ford Focus EV,2
+1187,Michigan,2014,Ford Fusion Energi,20
+1188,Michigan,2014,Ford Ranger,1
+1189,Michigan,2014,Ford Think Neighbor,3
+1190,Michigan,2014,GEM NEV,17
+1191,Michigan,2014,Mitsubishi i,7
+1192,Michigan,2014,Nissan Leaf,36
+1193,Michigan,2014,Porsche Cayenne S E-Hybrid,1
+1194,Michigan,2014,Smart forTwo EV,1
+1195,Michigan,2014,Tesla Model S,2
+1196,Michigan,2014,Volkswagen e-Golf,1
+1197,Michigan,2015,BMW X5,2
+1198,Michigan,2015,BMW i3,2
+1199,Michigan,2015,BMW i3 REx,3
+1200,Michigan,2015,BMW i8,4
+1201,Michigan,2015,Cadillac ELR,13
+1202,Michigan,2015,Chevrolet S10 Electric,1
+1203,Michigan,2015,Chevrolet Spark,1
+1204,Michigan,2015,Chevrolet Volt,261
+1205,Michigan,2015,Fiat 500e,3
+1206,Michigan,2015,Fisker Karma,3
+1207,Michigan,2015,Ford C-Max Energi,65
+1208,Michigan,2015,Ford Focus EV,6
+1209,Michigan,2015,Ford Fusion Energi,80
+1210,Michigan,2015,Ford Ranger,1
+1211,Michigan,2015,Ford Think Neighbor,2
+1212,Michigan,2015,GEM NEV,12
+1213,Michigan,2015,Kia Soul EV,1
+1214,Michigan,2015,Mercedes B-Class Electric,1
+1215,Michigan,2015,Nissan Leaf,37
+1216,Michigan,2015,Porsche Cayenne S E-Hybrid,4
+1217,Michigan,2015,Smart forTwo EV,1
+1218,Michigan,2015,Tesla Model S,13
+1219,Michigan,2015,Toyota Prius Plug-in,6
+1220,Michigan,2016,BMW i3,3
+1221,Michigan,2016,BMW i3 REx,5
+1222,Michigan,2016,BMW i8,3
+1223,Michigan,2016,Cadillac ELR,22
+1224,Michigan,2016,Chevrolet Spark,4
+1225,Michigan,2016,Chevrolet Volt,320
+1226,Michigan,2016,Chrysler Pacifica,2
+1227,Michigan,2016,Fiat 500e,6
+1228,Michigan,2016,Fisker Karma,3
+1229,Michigan,2016,Ford C-Max Energi,80
+1230,Michigan,2016,Ford Focus EV,9
+1231,Michigan,2016,Ford Fusion Energi,123
+1232,Michigan,2016,Ford Ranger,1
+1233,Michigan,2016,Ford Think Neighbor,3
+1234,Michigan,2016,GEM NEV,34
+1235,Michigan,2016,Mercedes B-Class Electric,1
+1236,Michigan,2016,Mitsubishi i,2
+1237,Michigan,2016,Nissan Leaf,37
+1238,Michigan,2016,Porsche Cayenne S E-Hybrid,3
+1239,Michigan,2016,Porsche Panamera S E-Hybrid,1
+1240,Michigan,2016,Smart forTwo EV,3
+1241,Michigan,2016,Tesla Model S,32
+1242,Michigan,2016,Tesla Model X,2
+1243,Michigan,2016,Tesla Roadster,1
+1244,Michigan,2016,Toyota Prius Plug-in,7
+1245,Michigan,2016,Volkswagen e-Golf,1
+1246,Michigan,2016,Volvo XC90 Plug In,1
+1247,Michigan,2017,Audi A3 Plug In,26
+1248,Michigan,2017,BMW 3-Series Plug in,13
+1249,Michigan,2017,BMW 5-Series Plug in,5
+1250,Michigan,2017,BMW 7-Series Plug in,3
+1251,Michigan,2017,BMW X5,47
+1252,Michigan,2017,BMW i3,24
+1253,Michigan,2017,BMW i3 REx,71
+1254,Michigan,2017,BMW i8,36
+1255,Michigan,2017,Cadillac CT6,3
+1256,Michigan,2017,Cadillac ELR,147
+1257,Michigan,2017,Chevrolet Bolt EV,133
+1258,Michigan,2017,Chevrolet Spark,8
+1259,Michigan,2017,Chevrolet Volt,3339
+1260,Michigan,2017,Chrysler Pacifica,136
+1261,Michigan,2017,Fiat 500e,23
+1262,Michigan,2017,Fisker Karma,24
+1263,Michigan,2017,Ford C-Max Energi,1131
+1264,Michigan,2017,Ford Focus EV,75
+1265,Michigan,2017,Ford Fusion Energi,630
+1266,Michigan,2017,Ford Think Neighbor,5
+1267,Michigan,2017,GEM NEV,106
+1268,Michigan,2017,Honda Accord Plug In,4
+1269,Michigan,2017,Honda Clarity Plug In,1
+1270,Michigan,2017,Hyundai Sonata Plug In,3
+1271,Michigan,2017,Kia Optima Plug In,9
+1272,Michigan,2017,Kia Soul EV,4
+1273,Michigan,2017,Mercedes B-Class Electric,1
+1274,Michigan,2017,Mercedes C350e Plug In,1
+1275,Michigan,2017,Mercedes GLE55e,1
+1276,Michigan,2017,Mini Countryman Plug In,1
+1277,Michigan,2017,Mitsubishi i,24
+1278,Michigan,2017,Nissan Leaf,276
+1279,Michigan,2017,Porsche 918 Spyder,2
+1280,Michigan,2017,Porsche Cayenne S E-Hybrid,44
+1281,Michigan,2017,Porsche Panamera S E-Hybrid,5
+1282,Michigan,2017,Smart forTwo EV,5
+1283,Michigan,2017,Tesla Model 3,2
+1284,Michigan,2017,Tesla Model S,517
+1285,Michigan,2017,Tesla Model X,158
+1286,Michigan,2017,Tesla Roadster,9
+1287,Michigan,2017,Toyota Prius Plug-in,120
+1288,Michigan,2017,Toyota Prius Prime,77
+1289,Michigan,2017,Volkswagen e-Golf,3
+1290,Michigan,2017,Volvo XC60 Plug In,3
+1291,Michigan,2017,Volvo XC90 Plug In,26
+1292,Michigan,2018,Audi A3 Plug In,14
+1293,Michigan,2018,Azure Transit Connect,2
+1294,Michigan,2018,BMW 3-Series Plug in,14
+1295,Michigan,2018,BMW 5-Series Plug in,24
+1296,Michigan,2018,BMW 7-Series Plug in,5
+1297,Michigan,2018,BMW X5,49
+1298,Michigan,2018,BMW i3,17
+1299,Michigan,2018,BMW i3 REx,68
+1300,Michigan,2018,BMW i8,30
+1301,Michigan,2018,Cadillac CT6,6
+1302,Michigan,2018,Cadillac ELR,95
+1303,Michigan,2018,Chevrolet Bolt EV,239
+1304,Michigan,2018,Chevrolet Spark,4
+1305,Michigan,2018,Chevrolet Volt,2375
+1306,Michigan,2018,Chrysler Pacifica,153
+1307,Michigan,2018,Fiat 500e,28
+1308,Michigan,2018,Fisker Karma,12
+1309,Michigan,2018,Ford C-Max Energi,1421
+1310,Michigan,2018,Ford Focus EV,44
+1311,Michigan,2018,Ford Fusion Energi,874
+1312,Michigan,2018,Ford Think Neighbor,1
+1313,Michigan,2018,GEM NEV,59
+1314,Michigan,2018,Honda Accord Plug In,3
+1315,Michigan,2018,Honda Clarity Plug In,40
+1316,Michigan,2018,Hyundai Ioniq Plug In,1
+1317,Michigan,2018,Hyundai Sonata Plug In,5
+1318,Michigan,2018,Jaguar I-Pace,2
+1319,Michigan,2018,Kia Niro EV,3
+1320,Michigan,2018,Kia Niro Plug In,11
+1321,Michigan,2018,Kia Optima Plug In,7
+1322,Michigan,2018,Kia Soul EV,2
+1323,Michigan,2018,Mercedes B-Class Electric,1
+1324,Michigan,2018,Mercedes GLC 350e Hybrid,1
+1325,Michigan,2018,Mercedes GLE55e,1
+1326,Michigan,2018,Mercedes S550e,1
+1327,Michigan,2018,Mini Countryman Plug In,9
+1328,Michigan,2018,Mitsubishi Outlander Plug In,13
+1329,Michigan,2018,Mitsubishi i,19
+1330,Michigan,2018,Nissan Leaf,214
+1331,Michigan,2018,Porsche 918 Spyder,3
+1332,Michigan,2018,Porsche Cayenne S E-Hybrid,30
+1333,Michigan,2018,Porsche Panamera S E-Hybrid,11
+1334,Michigan,2018,Smart forTwo EV,3
+1335,Michigan,2018,Tesla Model 3,260
+1336,Michigan,2018,Tesla Model S,468
+1337,Michigan,2018,Tesla Model X,180
+1338,Michigan,2018,Tesla Roadster,4
+1339,Michigan,2018,Toyota Prius Plug-in,89
+1340,Michigan,2018,Toyota Prius Prime,97
+1341,Michigan,2018,Volkswagen e-Golf,4
+1342,Michigan,2018,Volvo S90 Plug In,1
+1343,Michigan,2018,Volvo XC60 Plug In,5
+1344,Michigan,2018,Volvo XC90 Plug In,27
+1345,Michigan,2019,Audi A3 Plug In,38
+1346,Michigan,2019,Audi e-tron,167
+1347,Michigan,2019,Azure Transit Connect,10
+1348,Michigan,2019,BMW 3-Series Plug in,47
+1349,Michigan,2019,BMW 5-Series Plug in,100
+1350,Michigan,2019,BMW 7-Series Plug in,20
+1351,Michigan,2019,BMW X5,149
+1352,Michigan,2019,BMW i3,70
+1353,Michigan,2019,BMW i3 REx,248
+1354,Michigan,2019,BMW i8,115
+1355,Michigan,2019,Cadillac CT6,22
+1356,Michigan,2019,Cadillac ELR,242
+1357,Michigan,2019,Chevrolet Bolt EV,1091
+1358,Michigan,2019,Chevrolet Spark,32
+1359,Michigan,2019,Chevrolet Volt,7291
+1360,Michigan,2019,Chrysler Pacifica,817
+1361,Michigan,2019,Fiat 500e,111
+1362,Michigan,2019,Fisker Karma,29
+1363,Michigan,2019,Ford C-Max Energi,2273
+1364,Michigan,2019,Ford Focus EV,129
+1365,Michigan,2019,Ford Fusion Energi,2534
+1366,Michigan,2019,Ford Think Neighbor,8
+1367,Michigan,2019,GEM NEV,204
+1368,Michigan,2019,Honda Accord Plug In,10
+1369,Michigan,2019,Honda Clarity Plug In,178
+1370,Michigan,2019,Hyundai Ioniq Plug In,11
+1371,Michigan,2019,Hyundai Kona Electric,6
+1372,Michigan,2019,Hyundai Sonata Plug In,39
+1373,Michigan,2019,Jaguar I-Pace,48
+1374,Michigan,2019,Karma Revero,5
+1375,Michigan,2019,Kia Niro EV,41
+1376,Michigan,2019,Kia Niro Plug In,121
+1377,Michigan,2019,Kia Optima Plug In,34
+1378,Michigan,2019,Kia Soul EV,16
+1379,Michigan,2019,Land Rover Range Rover Plug In,1
+1380,Michigan,2019,Mercedes B-Class Electric,8
+1381,Michigan,2019,Mercedes C350e Plug In,2
+1382,Michigan,2019,Mercedes GLC 350e Hybrid,58
+1383,Michigan,2019,Mercedes GLE55e,4
+1384,Michigan,2019,Mercedes S550e,1
+1385,Michigan,2019,Mini Countryman Plug In,44
+1386,Michigan,2019,Mitsubishi Outlander Plug In,108
+1387,Michigan,2019,Mitsubishi i,52
+1388,Michigan,2019,Nissan Leaf,756
+1389,Michigan,2019,Porsche 918 Spyder,3
+1390,Michigan,2019,Porsche Cayenne S E-Hybrid,98
+1391,Michigan,2019,Porsche Panamera S E-Hybrid,48
+1392,Michigan,2019,Smart EQ ForTwo,1
+1393,Michigan,2019,Smart forTwo EV,25
+1394,Michigan,2019,Subaru Crosstrek Hybrid,4
+1395,Michigan,2019,Tesla Model 3,2401
+1396,Michigan,2019,Tesla Model S,1526
+1397,Michigan,2019,Tesla Model X,708
+1398,Michigan,2019,Tesla Roadster,13
+1399,Michigan,2019,Toyota Prius Plug-in,263
+1400,Michigan,2019,Toyota Prius Prime,438
+1401,Michigan,2019,Volkswagen e-Golf,31
+1402,Michigan,2019,Volvo S90 Plug In,8
+1403,Michigan,2019,Volvo XC60 Plug In,41
+1404,Michigan,2019,Volvo XC90 Plug In,77
+1405,Michigan,2020,Audi A3 Plug In,1
+1406,Michigan,2020,Audi Q5 Plug In,2
+1407,Michigan,2020,Audi e-tron,9
+1408,Michigan,2020,BMW 3-Series Plug in,3
+1409,Michigan,2020,BMW 5-Series Plug in,9
+1410,Michigan,2020,BMW 7-Series Plug in,1
+1411,Michigan,2020,BMW X5,9
+1412,Michigan,2020,BMW i3,7
+1413,Michigan,2020,BMW i3 REx,17
+1414,Michigan,2020,BMW i8,6
+1415,Michigan,2020,Cadillac CT6,1
+1416,Michigan,2020,Cadillac ELR,17
+1417,Michigan,2020,Chevrolet Bolt EV,87
+1418,Michigan,2020,Chevrolet Spark,2
+1419,Michigan,2020,Chevrolet Volt,412
+1420,Michigan,2020,Chrysler Pacifica,54
+1421,Michigan,2020,Fiat 500e,9
+1422,Michigan,2020,Ford C-Max Energi,110
+1423,Michigan,2020,Ford Focus EV,7
+1424,Michigan,2020,Ford Fusion Energi,153
+1425,Michigan,2020,GEM NEV,7
+1426,Michigan,2020,Honda Accord Plug In,2
+1427,Michigan,2020,Honda Clarity Plug In,10
+1428,Michigan,2020,Hyundai Ioniq EV,1
+1429,Michigan,2020,Hyundai Ioniq Plug In,1
+1430,Michigan,2020,Hyundai Sonata Plug In,3
+1431,Michigan,2020,Jaguar I-Pace,1
+1432,Michigan,2020,Kia Niro EV,1
+1433,Michigan,2020,Kia Niro Plug In,16
+1434,Michigan,2020,Kia Optima Plug In,2
+1435,Michigan,2020,Kia Soul EV,3
+1436,Michigan,2020,Lincoln Aviator Plug In,1
+1437,Michigan,2020,Mercedes GLC 350e Hybrid,3
+1438,Michigan,2020,Mini Countryman Plug In,3
+1439,Michigan,2020,Mitsubishi Outlander Plug In,9
+1440,Michigan,2020,Nissan Leaf,32
+1441,Michigan,2020,Porsche Cayenne S E-Hybrid,3
+1442,Michigan,2020,Porsche Panamera S E-Hybrid,7
+1443,Michigan,2020,Smart forTwo EV,1
+1444,Michigan,2020,Subaru Crosstrek Hybrid,1
+1445,Michigan,2020,Tesla Model 3,202
+1446,Michigan,2020,Tesla Model S,96
+1447,Michigan,2020,Tesla Model X,53
+1448,Michigan,2020,Tesla Roadster,2
+1449,Michigan,2020,Toyota Prius Plug-in,13
+1450,Michigan,2020,Toyota Prius Prime,20
+1451,Michigan,2020,Volkswagen e-Golf,2
+1452,Michigan,2020,Volvo XC60 Plug In,3
+1453,Michigan,2020,Volvo XC90 Plug In,5
+1454,Minnesota,2008,E-Ride EXV,3
+1455,Minnesota,2008,GEM NEV,6
+1456,Minnesota,2009,Chevrolet S10 Electric,1
+1457,Minnesota,2009,GEM NEV,2
+1458,Minnesota,2011,Azure Transit Connect,1
+1459,Minnesota,2011,GEM NEV,2
+1460,Minnesota,2012,Chevrolet Volt,4
+1461,Minnesota,2012,GEM NEV,4
+1462,Minnesota,2013,Chevrolet Volt,5
+1463,Minnesota,2013,E-Ride EXV,3
+1464,Minnesota,2013,Tesla Model S,1
+1465,Minnesota,2014,E-Ride EXV,1
+1466,Minnesota,2014,Ford C-Max Energi,1
+1467,Minnesota,2014,Porsche Panamera S E-Hybrid,1
+1468,Minnesota,2015,E-Ride EXV,3
+1469,Minnesota,2015,Ford Think Neighbor,1
+1470,Minnesota,2015,Nissan Leaf,1
+1471,Minnesota,2015,Tesla Model S,1
+1472,Minnesota,2016,Audi A3 Plug In,9
+1473,Minnesota,2016,BMW X5,18
+1474,Minnesota,2016,BMW i3,5
+1475,Minnesota,2016,BMW i3 REx,3
+1476,Minnesota,2016,Cadillac ELR,1
+1477,Minnesota,2016,Chevrolet Spark,3
+1478,Minnesota,2016,Chevrolet Volt,453
+1479,Minnesota,2016,Fiat 500e,1
+1480,Minnesota,2016,Ford C-Max Energi,83
+1481,Minnesota,2016,Ford Focus EV,7
+1482,Minnesota,2016,Ford Fusion Energi,77
+1483,Minnesota,2016,GEM NEV,18
+1484,Minnesota,2016,Honda Accord Plug In,1
+1485,Minnesota,2016,Hyundai Sonata Plug In,1
+1486,Minnesota,2016,Mercedes B-Class Electric,1
+1487,Minnesota,2016,Mitsubishi i,7
+1488,Minnesota,2016,Nissan Leaf,208
+1489,Minnesota,2016,Porsche 918 Spyder,1
+1490,Minnesota,2016,Porsche Cayenne S E-Hybrid,3
+1491,Minnesota,2016,Porsche Panamera S E-Hybrid,1
+1492,Minnesota,2016,Tesla Model S,224
+1493,Minnesota,2016,Tesla Model X,62
+1494,Minnesota,2016,Tesla Roadster,1
+1495,Minnesota,2016,Toyota Prius Plug-in,70
+1496,Minnesota,2016,Toyota Prius Prime,4
+1497,Minnesota,2016,Toyota RAV4 EV,1
+1498,Minnesota,2016,Volkswagen e-Golf,5
+1499,Minnesota,2016,Volvo XC90 Plug In,20
+1500,Minnesota,2017,Audi A3 Plug In,22
+1501,Minnesota,2017,BMW 3-Series Plug in,6
+1502,Minnesota,2017,BMW 5-Series Plug in,14
+1503,Minnesota,2017,BMW 7-Series Plug in,1
+1504,Minnesota,2017,BMW X5,26
+1505,Minnesota,2017,BMW i3,12
+1506,Minnesota,2017,BMW i3 REx,39
+1507,Minnesota,2017,BMW i8,5
+1508,Minnesota,2017,Cadillac ELR,10
+1509,Minnesota,2017,Chevrolet Bolt EV,151
+1510,Minnesota,2017,Chevrolet Spark,1
+1511,Minnesota,2017,Chevrolet Volt,707
+1512,Minnesota,2017,Chrysler Pacifica,76
+1513,Minnesota,2017,E-Ride EXV,1
+1514,Minnesota,2017,Fiat 500e,20
+1515,Minnesota,2017,Fisker Karma,4
+1516,Minnesota,2017,Ford C-Max Energi,201
+1517,Minnesota,2017,Ford Focus EV,13
+1518,Minnesota,2017,Ford Fusion Energi,182
+1519,Minnesota,2017,Ford Think Neighbor,1
+1520,Minnesota,2017,GEM NEV,28
+1521,Minnesota,2017,Honda Clarity Plug In,7
+1522,Minnesota,2017,Hyundai Sonata Plug In,4
+1523,Minnesota,2017,Kia Optima Plug In,4
+1524,Minnesota,2017,Kia Soul EV,1
+1525,Minnesota,2017,Mercedes B-Class Electric,3
+1526,Minnesota,2017,Mercedes GLE55e,2
+1527,Minnesota,2017,Mini Countryman Plug In,3
+1528,Minnesota,2017,Mitsubishi Outlander Plug In,4
+1529,Minnesota,2017,Mitsubishi i,11
+1530,Minnesota,2017,Nissan Leaf,404
+1531,Minnesota,2017,Porsche Cayenne S E-Hybrid,9
+1532,Minnesota,2017,Porsche Panamera S E-Hybrid,2
+1533,Minnesota,2017,Tesla Model 3,1
+1534,Minnesota,2017,Tesla Model S,463
+1535,Minnesota,2017,Tesla Model X,197
+1536,Minnesota,2017,Tesla Roadster,6
+1537,Minnesota,2017,Toyota Prius Plug-in,55
+1538,Minnesota,2017,Toyota Prius Prime,95
+1539,Minnesota,2017,Toyota RAV4 EV,2
+1540,Minnesota,2017,Volkswagen e-Golf,17
+1541,Minnesota,2017,Volvo XC60 Plug In,14
+1542,Minnesota,2017,Volvo XC90 Plug In,43
+1543,Minnesota,2018,Audi A3 Plug In,101
+1544,Minnesota,2018,Azure Transit Connect,12
+1545,Minnesota,2018,BMW 3-Series Plug in,15
+1546,Minnesota,2018,BMW 5-Series Plug in,91
+1547,Minnesota,2018,BMW 7-Series Plug in,10
+1548,Minnesota,2018,BMW X5,191
+1549,Minnesota,2018,BMW i3,93
+1550,Minnesota,2018,BMW i3 REx,255
+1551,Minnesota,2018,BMW i8,35
+1552,Minnesota,2018,Cadillac ELR,35
+1553,Minnesota,2018,Chevrolet Bolt EV,649
+1554,Minnesota,2018,Chevrolet S10 Electric,1
+1555,Minnesota,2018,Chevrolet Spark,27
+1556,Minnesota,2018,Chevrolet Volt,3095
+1557,Minnesota,2018,Chrysler Pacifica,456
+1558,Minnesota,2018,E-Ride EXV,33
+1559,Minnesota,2018,Fiat 500e,71
+1560,Minnesota,2018,Fisker Karma,9
+1561,Minnesota,2018,Ford C-Max Energi,808
+1562,Minnesota,2018,Ford Focus EV,51
+1563,Minnesota,2018,Ford Fusion Energi,881
+1564,Minnesota,2018,Ford Ranger,2
+1565,Minnesota,2018,Ford Think Neighbor,3
+1566,Minnesota,2018,GEM NEV,174
+1567,Minnesota,2018,HINO 195,1
+1568,Minnesota,2018,Honda Accord Plug In,3
+1569,Minnesota,2018,Honda Clarity Plug In,217
+1570,Minnesota,2018,Hyundai Ioniq EV,2
+1571,Minnesota,2018,Hyundai Ioniq Plug In,4
+1572,Minnesota,2018,Hyundai Sonata Plug In,19
+1573,Minnesota,2018,Jaguar I-Pace,3
+1574,Minnesota,2018,Kia Niro EV,4
+1575,Minnesota,2018,Kia Niro Plug In,53
+1576,Minnesota,2018,Kia Optima Plug In,15
+1577,Minnesota,2018,Kia Soul EV,6
+1578,Minnesota,2018,Mclaren P1,1
+1579,Minnesota,2018,Mercedes B-Class Electric,7
+1580,Minnesota,2018,Mercedes GLC 350e Hybrid,6
+1581,Minnesota,2018,Mercedes GLE55e,5
+1582,Minnesota,2018,Mercedes S550e,1
+1583,Minnesota,2018,Miles ZX40ST,3
+1584,Minnesota,2018,Mini Countryman Plug In,35
+1585,Minnesota,2018,Mitsubishi Outlander Plug In,306
+1586,Minnesota,2018,Mitsubishi i,44
+1587,Minnesota,2018,Nissan Leaf,1943
+1588,Minnesota,2018,Porsche 918 Spyder,4
+1589,Minnesota,2018,Porsche Cayenne S E-Hybrid,65
+1590,Minnesota,2018,Porsche Panamera S E-Hybrid,32
+1591,Minnesota,2018,Smart forTwo EV,23
+1592,Minnesota,2018,Smart forTwo EV Cabrio,9
+1593,Minnesota,2018,Tesla Model 3,2146
+1594,Minnesota,2018,Tesla Model S,1989
+1595,Minnesota,2018,Tesla Model X,816
+1596,Minnesota,2018,Tesla Roadster,9
+1597,Minnesota,2018,Toyota Prius Plug-in,317
+1598,Minnesota,2018,Toyota Prius Prime,488
+1599,Minnesota,2018,Toyota RAV4 EV,8
+1600,Minnesota,2018,Volkswagen e-Golf,94
+1601,Minnesota,2018,Volvo S90 Plug In,6
+1602,Minnesota,2018,Volvo XC60 Plug In,104
+1603,Minnesota,2018,Volvo XC90 Plug In,195
+1604,Minnesota,2018,Wheego Life,1
+1605,Minnesota,2019,Audi A3 Plug In,32
+1606,Minnesota,2019,Audi e-tron,81
+1607,Minnesota,2019,Azure Transit Connect,1
+1608,Minnesota,2019,BMW 3-Series Plug in,9
+1609,Minnesota,2019,BMW 5-Series Plug in,54
+1610,Minnesota,2019,BMW 7-Series Plug in,3
+1611,Minnesota,2019,BMW X5,58
+1612,Minnesota,2019,BMW i3,23
+1613,Minnesota,2019,BMW i3 REx,94
+1614,Minnesota,2019,BMW i8,14
+1615,Minnesota,2019,Cadillac CT6,1
+1616,Minnesota,2019,Cadillac ELR,6
+1617,Minnesota,2019,Chevrolet Bolt EV,358
+1618,Minnesota,2019,Chevrolet Spark,12
+1619,Minnesota,2019,Chevrolet Volt,937
+1620,Minnesota,2019,Chrysler Pacifica,180
+1621,Minnesota,2019,E-Ride EXV,1
+1622,Minnesota,2019,Fiat 500e,32
+1623,Minnesota,2019,Fisker Karma,1
+1624,Minnesota,2019,Ford C-Max Energi,259
+1625,Minnesota,2019,Ford Focus EV,16
+1626,Minnesota,2019,Ford Fusion Energi,293
+1627,Minnesota,2019,Ford Think Neighbor,1
+1628,Minnesota,2019,GEM NEV,33
+1629,Minnesota,2019,Honda Clarity Plug In,90
+1630,Minnesota,2019,Hyundai Ioniq Plug In,6
+1631,Minnesota,2019,Hyundai Kona Electric,13
+1632,Minnesota,2019,Hyundai Sonata Plug In,12
+1633,Minnesota,2019,Jaguar I-Pace,20
+1634,Minnesota,2019,Kia Niro EV,12
+1635,Minnesota,2019,Kia Niro Plug In,61
+1636,Minnesota,2019,Kia Optima Plug In,4
+1637,Minnesota,2019,Kia Soul EV,1
+1638,Minnesota,2019,Mercedes B-Class Electric,4
+1639,Minnesota,2019,Mercedes GLC 350e Hybrid,24
+1640,Minnesota,2019,Mercedes GLE55e,1
+1641,Minnesota,2019,Mini Countryman Plug In,14
+1642,Minnesota,2019,Mitsubishi Outlander Plug In,178
+1643,Minnesota,2019,Mitsubishi i,6
+1644,Minnesota,2019,Nissan Leaf,675
+1645,Minnesota,2019,Porsche Cayenne S E-Hybrid,26
+1646,Minnesota,2019,Porsche Panamera S E-Hybrid,13
+1647,Minnesota,2019,Smart forTwo EV,8
+1648,Minnesota,2019,Smart forTwo EV Cabrio,2
+1649,Minnesota,2019,Subaru Crosstrek Hybrid,1
+1650,Minnesota,2019,Tesla Model 3,1875
+1651,Minnesota,2019,Tesla Model S,683
+1652,Minnesota,2019,Tesla Model X,382
+1653,Minnesota,2019,Tesla Roadster,3
+1654,Minnesota,2019,Toyota Prius Plug-in,62
+1655,Minnesota,2019,Toyota Prius Prime,236
+1656,Minnesota,2019,Toyota RAV4 EV,2
+1657,Minnesota,2019,Volkswagen e-Golf,97
+1658,Minnesota,2019,Volvo S60 Plug In,12
+1659,Minnesota,2019,Volvo S90 Plug In,8
+1660,Minnesota,2019,Volvo XC60 Plug In,47
+1661,Minnesota,2019,Volvo XC90 Plug In,48
+1662,Minnesota,2020,Audi A3 Plug In,3
+1663,Minnesota,2020,Audi e-tron,8
+1664,Minnesota,2020,BMW 5-Series Plug in,2
+1665,Minnesota,2020,BMW X5,2
+1666,Minnesota,2020,BMW i3,4
+1667,Minnesota,2020,BMW i3 REx,2
+1668,Minnesota,2020,Cadillac ELR,1
+1669,Minnesota,2020,Chevrolet Bolt EV,14
+1670,Minnesota,2020,Chevrolet Spark,1
+1671,Minnesota,2020,Chevrolet Volt,29
+1672,Minnesota,2020,Chrysler Pacifica,4
+1673,Minnesota,2020,Fiat 500e,4
+1674,Minnesota,2020,Ford C-Max Energi,7
+1675,Minnesota,2020,Ford Fusion Energi,7
+1676,Minnesota,2020,Hyundai Sonata Plug In,1
+1677,Minnesota,2020,Jaguar I-Pace,4
+1678,Minnesota,2020,Kia Niro Plug In,9
+1679,Minnesota,2020,Mini Countryman Plug In,1
+1680,Minnesota,2020,Mitsubishi Outlander Plug In,7
+1681,Minnesota,2020,Mitsubishi i,2
+1682,Minnesota,2020,Nissan Leaf,34
+1683,Minnesota,2020,Porsche Cayenne S E-Hybrid,1
+1684,Minnesota,2020,Tesla Model 3,112
+1685,Minnesota,2020,Tesla Model S,24
+1686,Minnesota,2020,Tesla Model X,13
+1687,Minnesota,2020,Toyota Prius Plug-in,4
+1688,Minnesota,2020,Toyota Prius Prime,12
+1689,Minnesota,2020,Volkswagen e-Golf,3
+1690,Minnesota,2020,Volvo XC60 Plug In,1
+1691,Minnesota,2020,Volvo XC90 Plug In,2
+1692,Montana,2003,GEM NEV,1
+1693,Montana,2004,GEM NEV,9
+1694,Montana,2005,GEM NEV,3
+1695,Montana,2006,Ford Think Neighbor,1
+1696,Montana,2007,GEM NEV,1
+1697,Montana,2008,Miles EV,9
+1698,Montana,2008,Miles ZX40ST,2
+1699,Montana,2008,ZAP EV,2
+1700,Montana,2009,GEM NEV,10
+1701,Montana,2010,GEM NEV,7
+1702,Montana,2011,GEM NEV,3
+1703,Montana,2011,Tesla Roadster,3
+1704,Montana,2012,Chevrolet Volt,1
+1705,Montana,2012,Fisker Karma,1
+1706,Montana,2012,Ford Ranger,2
+1707,Montana,2012,Ford Think Neighbor,2
+1708,Montana,2012,GEM NEV,7
+1709,Montana,2012,Nissan Leaf,1
+1710,Montana,2013,Chevrolet Volt,8
+1711,Montana,2013,Fisker Karma,2
+1712,Montana,2013,Ford C-Max Energi,1
+1713,Montana,2013,GEM NEV,4
+1714,Montana,2013,Miles ZX40ST,1
+1715,Montana,2013,Nissan Leaf,3
+1716,Montana,2013,Tesla Model S,5
+1717,Montana,2014,BMW i8,3
+1718,Montana,2014,Cadillac ELR,1
+1719,Montana,2014,Chevrolet Volt,7
+1720,Montana,2014,Fisker Karma,1
+1721,Montana,2014,GEM NEV,8
+1722,Montana,2014,Mclaren P1,1
+1723,Montana,2014,Nissan Leaf,2
+1724,Montana,2014,Smart forTwo EV,2
+1725,Montana,2014,Tesla Model S,7
+1726,Montana,2014,Tesla Roadster,1
+1727,Montana,2015,BMW i8,2
+1728,Montana,2015,Cadillac ELR,1
+1729,Montana,2015,Chevrolet Volt,6
+1730,Montana,2015,Ford C-Max Energi,1
+1731,Montana,2015,Ford Fusion Energi,1
+1732,Montana,2015,Ford Think Neighbor,2
+1733,Montana,2015,GEM NEV,8
+1734,Montana,2015,Mclaren P1,3
+1735,Montana,2015,Porsche 918 Spyder,9
+1736,Montana,2015,Smart forTwo EV,1
+1737,Montana,2015,Tesla Model S,10
+1738,Montana,2015,Toyota Prius Plug-in,1
+1739,Montana,2016,BMW i8,3
+1740,Montana,2016,Chevrolet Volt,2
+1741,Montana,2016,Fisker Karma,1
+1742,Montana,2016,Ford C-Max Energi,1
+1743,Montana,2016,Ford Fusion Energi,2
+1744,Montana,2016,Ford Think Neighbor,2
+1745,Montana,2016,GEM NEV,16
+1746,Montana,2016,Mclaren P1,2
+1747,Montana,2016,Nissan Leaf,3
+1748,Montana,2016,Porsche 918 Spyder,1
+1749,Montana,2016,Tesla Model S,7
+1750,Montana,2016,Tesla Model X,5
+1751,Montana,2016,Tesla Roadster,1
+1752,Montana,2016,Toyota Prius Plug-in,2
+1753,Montana,2016,Wheego Life,1
+1754,Montana,2017,BMW 7-Series Plug in,1
+1755,Montana,2017,BMW X5,1
+1756,Montana,2017,BMW i3,2
+1757,Montana,2017,BMW i3 REx,2
+1758,Montana,2017,BMW i8,2
+1759,Montana,2017,Chevrolet Bolt EV,9
+1760,Montana,2017,Chevrolet Volt,11
+1761,Montana,2017,Chrysler Pacifica,1
+1762,Montana,2017,Fisker Karma,4
+1763,Montana,2017,Ford C-Max Energi,4
+1764,Montana,2017,Ford Focus EV,1
+1765,Montana,2017,Ford Fusion Energi,2
+1766,Montana,2017,Ford Think Neighbor,2
+1767,Montana,2017,GEM NEV,9
+1768,Montana,2017,Mclaren P1,5
+1769,Montana,2017,Mercedes B-Class Electric,4
+1770,Montana,2017,Nissan Leaf,4
+1771,Montana,2017,Porsche 918 Spyder,10
+1772,Montana,2017,Porsche Cayenne S E-Hybrid,3
+1773,Montana,2017,Porsche Panamera S E-Hybrid,3
+1774,Montana,2017,Tesla Model S,30
+1775,Montana,2017,Tesla Model X,12
+1776,Montana,2017,Toyota Prius Plug-in,2
+1777,Montana,2017,Volvo XC90 Plug In,2
+1778,Montana,2018,Audi A3 Plug In,8
+1779,Montana,2018,BMW 5-Series Plug in,2
+1780,Montana,2018,BMW 7-Series Plug in,2
+1781,Montana,2018,BMW X5,12
+1782,Montana,2018,BMW i3,2
+1783,Montana,2018,BMW i3 REx,5
+1784,Montana,2018,BMW i8,15
+1785,Montana,2018,Cadillac ELR,3
+1786,Montana,2018,Chevrolet Bolt EV,15
+1787,Montana,2018,Chevrolet Spark,4
+1788,Montana,2018,Chevrolet Volt,103
+1789,Montana,2018,Chrysler Pacifica,21
+1790,Montana,2018,Fiat 500e,8
+1791,Montana,2018,Fisker Karma,8
+1792,Montana,2018,Ford C-Max Energi,22
+1793,Montana,2018,Ford Fusion Energi,27
+1794,Montana,2018,GEM NEV,13
+1795,Montana,2018,Honda Clarity Plug In,5
+1796,Montana,2018,Hyundai Ioniq Plug In,3
+1797,Montana,2018,Hyundai Sonata Plug In,1
+1798,Montana,2018,Karma Revero,1
+1799,Montana,2018,Kia Niro Plug In,2
+1800,Montana,2018,Kia Optima Plug In,4
+1801,Montana,2018,Mclaren P1,13
+1802,Montana,2018,Mercedes B-Class Electric,1
+1803,Montana,2018,Mercedes GLE55e,9
+1804,Montana,2018,Miles ZX40ST,3
+1805,Montana,2018,Mitsubishi Outlander Plug In,1
+1806,Montana,2018,Mitsubishi i,1
+1807,Montana,2018,Nissan Leaf,35
+1808,Montana,2018,Porsche 918 Spyder,30
+1809,Montana,2018,Porsche Cayenne S E-Hybrid,3
+1810,Montana,2018,Porsche Panamera S E-Hybrid,8
+1811,Montana,2018,Smart forTwo EV,5
+1812,Montana,2018,Tesla Model 3,102
+1813,Montana,2018,Tesla Model S,148
+1814,Montana,2018,Tesla Model X,71
+1815,Montana,2018,Tesla Roadster,5
+1816,Montana,2018,Toyota Prius Plug-in,8
+1817,Montana,2018,Toyota Prius Prime,34
+1818,Montana,2018,Volkswagen e-Golf,1
+1819,Montana,2018,Volvo XC60 Plug In,5
+1820,Montana,2018,Volvo XC90 Plug In,8
+1821,Montana,2019,Audi A3 Plug In,5
+1822,Montana,2019,Audi e-tron,2
+1823,Montana,2019,BMW 3-Series Plug in,2
+1824,Montana,2019,BMW 5-Series Plug in,1
+1825,Montana,2019,BMW X5,3
+1826,Montana,2019,BMW i3 REx,1
+1827,Montana,2019,BMW i8,6
+1828,Montana,2019,Cadillac ELR,1
+1829,Montana,2019,Chevrolet Bolt EV,8
+1830,Montana,2019,Chevrolet Spark,2
+1831,Montana,2019,Chevrolet Volt,45
+1832,Montana,2019,Chrysler Pacifica,7
+1833,Montana,2019,Fisker Karma,4
+1834,Montana,2019,Ford C-Max Energi,11
+1835,Montana,2019,Ford Focus EV,3
+1836,Montana,2019,Ford Fusion Energi,11
+1837,Montana,2019,Ford Ranger,2
+1838,Montana,2019,GEM NEV,1
+1839,Montana,2019,Hyundai Ioniq Plug In,1
+1840,Montana,2019,Jaguar I-Pace,2
+1841,Montana,2019,Kia Niro Plug In,2
+1842,Montana,2019,Kia Optima Plug In,2
+1843,Montana,2019,Kia Soul EV,1
+1844,Montana,2019,Mclaren P1,4
+1845,Montana,2019,Mercedes GLE55e,1
+1846,Montana,2019,Miles ZX40ST,1
+1847,Montana,2019,Mitsubishi Outlander Plug In,1
+1848,Montana,2019,Nissan Leaf,15
+1849,Montana,2019,Porsche 918 Spyder,9
+1850,Montana,2019,Porsche Cayenne S E-Hybrid,1
+1851,Montana,2019,Porsche Panamera S E-Hybrid,2
+1852,Montana,2019,Smith EV,1
+1853,Montana,2019,Tesla Model 3,64
+1854,Montana,2019,Tesla Model S,51
+1855,Montana,2019,Tesla Model X,47
+1856,Montana,2019,Tesla Roadster,1
+1857,Montana,2019,Toyota Prius Plug-in,2
+1858,Montana,2019,Toyota Prius Prime,17
+1859,Montana,2019,Volkswagen e-Golf,1
+1860,Montana,2019,Volvo XC60 Plug In,1
+1861,Montana,2019,Volvo XC90 Plug In,2
+1862,Montana,2020,Audi A3 Plug In,6
+1863,Montana,2020,Audi Q5 Plug In,13
+1864,Montana,2020,Audi e-tron,11
+1865,Montana,2020,Audi e-tron Sportback,1
+1866,Montana,2020,BMW 3-Series Plug in,2
+1867,Montana,2020,BMW 5-Series Plug in,5
+1868,Montana,2020,BMW 7-Series Plug in,1
+1869,Montana,2020,BMW X3,1
+1870,Montana,2020,BMW X5,9
+1871,Montana,2020,BMW i3,3
+1872,Montana,2020,BMW i3 REx,8
+1873,Montana,2020,BMW i8,18
+1874,Montana,2020,Cadillac CT6,1
+1875,Montana,2020,Cadillac ELR,1
+1876,Montana,2020,Chevrolet Bolt EV,31
+1877,Montana,2020,Chevrolet Spark,5
+1878,Montana,2020,Chevrolet Volt,102
+1879,Montana,2020,Chrysler Pacifica,26
+1880,Montana,2020,Fiat 500e,19
+1881,Montana,2020,Fisker Karma,7
+1882,Montana,2020,Ford C-Max Energi,20
+1883,Montana,2020,Ford Focus EV,1
+1884,Montana,2020,Ford Fusion Energi,47
+1885,Montana,2020,Ford Think Neighbor,1
+1886,Montana,2020,GEM NEV,7
+1887,Montana,2020,Honda Accord Plug In,1
+1888,Montana,2020,Honda Clarity Plug In,12
+1889,Montana,2020,Hyundai Ioniq Plug In,4
+1890,Montana,2020,Hyundai Sonata Plug In,3
+1891,Montana,2020,Jaguar I-Pace,5
+1892,Montana,2020,Kia Niro EV,1
+1893,Montana,2020,Kia Niro Plug In,6
+1894,Montana,2020,Kia Optima Plug In,4
+1895,Montana,2020,Kia Soul EV,4
+1896,Montana,2020,Land Rover Range Rover Plug In,3
+1897,Montana,2020,Lincoln Aviator Plug In,2
+1898,Montana,2020,Mclaren P1,10
+1899,Montana,2020,Mercedes B-Class Electric,1
+1900,Montana,2020,Mercedes GLC 350e Hybrid,1
+1901,Montana,2020,Mercedes GLE55e,2
+1902,Montana,2020,Mini Countryman Plug In,1
+1903,Montana,2020,Mitsubishi Outlander Plug In,3
+1904,Montana,2020,Mitsubishi i,1
+1905,Montana,2020,Nissan Leaf,50
+1906,Montana,2020,Porsche 918 Spyder,25
+1907,Montana,2020,Porsche Cayenne S E-Hybrid,9
+1908,Montana,2020,Porsche Panamera S E-Hybrid,13
+1909,Montana,2020,Porsche Taycan,16
+1910,Montana,2020,Smart forTwo EV,2
+1911,Montana,2020,Subaru Crosstrek Hybrid,1
+1912,Montana,2020,Tesla Model 3,190
+1913,Montana,2020,Tesla Model S,162
+1914,Montana,2020,Tesla Model X,124
+1915,Montana,2020,Tesla Model Y,76
+1916,Montana,2020,Tesla Roadster,1
+1917,Montana,2020,Toyota Prius Plug-in,9
+1918,Montana,2020,Toyota Prius Prime,43
+1919,Montana,2020,Toyota RAV4 Prime,1
+1920,Montana,2020,Volkswagen e-Golf,6
+1921,Montana,2020,Volvo XC60 Plug In,2
+1922,Montana,2020,Volvo XC90 Plug In,12
+1923,Montana,2021,BMW X5,1
+1924,Montana,2021,Tesla Model 3,1
+1925,New Jersey,2017,Audi A3 Plug In,86
+1926,New Jersey,2017,Azure Transit Connect,62
+1927,New Jersey,2017,BMW 3-Series Plug in,146
+1928,New Jersey,2017,BMW 5-Series Plug in,188
+1929,New Jersey,2017,BMW 7-Series Plug in,115
+1930,New Jersey,2017,BMW X5,1165
+1931,New Jersey,2017,BMW i3,202
+1932,New Jersey,2017,BMW i3 REx,1108
+1933,New Jersey,2017,BMW i8,446
+1934,New Jersey,2017,Cadillac CT6,2
+1935,New Jersey,2017,Cadillac ELR,117
+1936,New Jersey,2017,Chevrolet Bolt EV,353
+1937,New Jersey,2017,Chevrolet Spark,5
+1938,New Jersey,2017,Chevrolet Volt,2474
+1939,New Jersey,2017,Chrysler Pacifica,55
+1940,New Jersey,2017,E-Ride EXV,19
+1941,New Jersey,2017,Fiat 500e,13
+1942,New Jersey,2017,Fisker Karma,47
+1943,New Jersey,2017,Ford C-Max Energi,1350
+1944,New Jersey,2017,Ford Focus EV,95
+1945,New Jersey,2017,Ford Fusion Energi,2638
+1946,New Jersey,2017,Ford Think Neighbor,5
+1947,New Jersey,2017,GEM NEV,414
+1948,New Jersey,2017,HINO 195,24
+1949,New Jersey,2017,Honda Accord Plug In,25
+1950,New Jersey,2017,Honda Clarity Plug In,4
+1951,New Jersey,2017,Honda Fit EV,125
+1952,New Jersey,2017,Hyundai Sonata Plug In,58
+1953,New Jersey,2017,Karma Revero,1
+1954,New Jersey,2017,Kia Optima Plug In,45
+1955,New Jersey,2017,Kia Soul EV,92
+1956,New Jersey,2017,Mclaren P1,6
+1957,New Jersey,2017,Mercedes B-Class Electric,96
+1958,New Jersey,2017,Mercedes GLE55e,19
+1959,New Jersey,2017,Mercedes S550e,6
+1960,New Jersey,2017,Miles EV,4
+1961,New Jersey,2017,Miles ZX40ST,24
+1962,New Jersey,2017,Mini Countryman Plug In,43
+1963,New Jersey,2017,Mitsubishi i,53
+1964,New Jersey,2017,Nissan Leaf,976
+1965,New Jersey,2017,Porsche 918 Spyder,9
+1966,New Jersey,2017,Porsche Cayenne S E-Hybrid,272
+1967,New Jersey,2017,Porsche Panamera S E-Hybrid,69
+1968,New Jersey,2017,Smart forTwo EV,286
+1969,New Jersey,2017,Smart forTwo EV Cabrio,16
+1970,New Jersey,2017,Smith EV,14
+1971,New Jersey,2017,Tesla Model 3,2
+1972,New Jersey,2017,Tesla Model S,5893
+1973,New Jersey,2017,Tesla Model X,1204
+1974,New Jersey,2017,Tesla Roadster,52
+1975,New Jersey,2017,Th!nk City,2
+1976,New Jersey,2017,Toyota Mirai,1
+1977,New Jersey,2017,Toyota Prius Plug-in,2361
+1978,New Jersey,2017,Toyota Prius Prime,844
+1979,New Jersey,2017,Toyota RAV4 EV,6
+1980,New Jersey,2017,Volkswagen e-Golf,154
+1981,New Jersey,2017,Volvo XC60 Plug In,7
+1982,New Jersey,2017,Volvo XC90 Plug In,176
+1983,New Jersey,2018,Audi A3 Plug In,141
+1984,New Jersey,2018,Azure Transit Connect,47
+1985,New Jersey,2018,BMW 3-Series Plug in,243
+1986,New Jersey,2018,BMW 5-Series Plug in,837
+1987,New Jersey,2018,BMW 7-Series Plug in,273
+1988,New Jersey,2018,BMW X5,1978
+1989,New Jersey,2018,BMW i3,540
+1990,New Jersey,2018,BMW i3 REx,1208
+1991,New Jersey,2018,BMW i8,614
+1992,New Jersey,2018,Cadillac CT6,13
+1993,New Jersey,2018,Cadillac ELR,97
+1994,New Jersey,2018,Chevrolet Bolt EV,1055
+1995,New Jersey,2018,Chevrolet Impala,1
+1996,New Jersey,2018,Chevrolet Spark,17
+1997,New Jersey,2018,Chevrolet Volt,2872
+1998,New Jersey,2018,Chrysler Pacifica,300
+1999,New Jersey,2018,E-Ride EXV,16
+2000,New Jersey,2018,Fiat 500e,33
+2001,New Jersey,2018,Fisker Karma,43
+2002,New Jersey,2018,Ford C-Max Energi,1354
+2003,New Jersey,2018,Ford Focus EV,122
+2004,New Jersey,2018,Ford Fusion Energi,3025
+2005,New Jersey,2018,Ford Think Neighbor,6
+2006,New Jersey,2018,GEM NEV,515
+2007,New Jersey,2018,HINO 195,34
+2008,New Jersey,2018,Honda Accord Plug In,25
+2009,New Jersey,2018,Honda Clarity Plug In,1038
+2010,New Jersey,2018,Honda Fit EV,67
+2011,New Jersey,2018,Hyundai Ioniq EV,4
+2012,New Jersey,2018,Hyundai Ioniq Plug In,10
+2013,New Jersey,2018,Hyundai Sonata Plug In,89
+2014,New Jersey,2018,Jaguar I-Pace,2
+2015,New Jersey,2018,Karma Revero,3
+2016,New Jersey,2018,Kia Niro EV,5
+2017,New Jersey,2018,Kia Niro Plug In,41
+2018,New Jersey,2018,Kia Optima Plug In,139
+2019,New Jersey,2018,Kia Soul EV,200
+2020,New Jersey,2018,Mclaren P1,5
+2021,New Jersey,2018,Mercedes B-Class Electric,53
+2022,New Jersey,2018,Mercedes C350e Plug In,5
+2023,New Jersey,2018,Mercedes GLC 350e Hybrid,30
+2024,New Jersey,2018,Mercedes GLE55e,59
+2025,New Jersey,2018,Mercedes S550e,10
+2026,New Jersey,2018,Miles EV,4
+2027,New Jersey,2018,Miles ZX40ST,26
+2028,New Jersey,2018,Mini Countryman Plug In,195
+2029,New Jersey,2018,Mitsubishi Outlander Plug In,104
+2030,New Jersey,2018,Mitsubishi i,48
+2031,New Jersey,2018,Nissan Leaf,1258
+2032,New Jersey,2018,Porsche 918 Spyder,9
+2033,New Jersey,2018,Porsche Cayenne S E-Hybrid,446
+2034,New Jersey,2018,Porsche Panamera S E-Hybrid,141
+2035,New Jersey,2018,Smart forTwo EV,315
+2036,New Jersey,2018,Smart forTwo EV Cabrio,37
+2037,New Jersey,2018,Smith EV,8
+2038,New Jersey,2018,Tesla Model 3,3893
+2039,New Jersey,2018,Tesla Model S,8249
+2040,New Jersey,2018,Tesla Model X,3274
+2041,New Jersey,2018,Tesla Roadster,47
+2042,New Jersey,2018,Th!nk City,2
+2043,New Jersey,2018,Toyota Mirai,2
+2044,New Jersey,2018,Toyota Prius Plug-in,1903
+2045,New Jersey,2018,Toyota Prius Prime,2908
+2046,New Jersey,2018,Toyota RAV4 EV,8
+2047,New Jersey,2018,Volkswagen e-Golf,126
+2048,New Jersey,2018,Volvo S90 Plug In,27
+2049,New Jersey,2018,Volvo XC60 Plug In,71
+2050,New Jersey,2018,Volvo XC90 Plug In,363
+2051,New Jersey,2019,Audi A3 Plug In,137
+2052,New Jersey,2019,Audi e-tron,169
+2053,New Jersey,2019,Azure Transit Connect,46
+2054,New Jersey,2019,BMW 3-Series Plug in,184
+2055,New Jersey,2019,BMW 5-Series Plug in,1217
+2056,New Jersey,2019,BMW 7-Series Plug in,262
+2057,New Jersey,2019,BMW X5,1549
+2058,New Jersey,2019,BMW i3,802
+2059,New Jersey,2019,BMW i3 REx,804
+2060,New Jersey,2019,BMW i8,629
+2061,New Jersey,2019,Cadillac CT6,16
+2062,New Jersey,2019,Cadillac ELR,71
+2063,New Jersey,2019,Chevrolet Bolt EV,1462
+2064,New Jersey,2019,Chevrolet Impala,2
+2065,New Jersey,2019,Chevrolet Spark,41
+2066,New Jersey,2019,Chevrolet Volt,2911
+2067,New Jersey,2019,Chrysler Pacifica,524
+2068,New Jersey,2019,E-Ride EXV,16
+2069,New Jersey,2019,Fiat 500e,65
+2070,New Jersey,2019,Fisker Karma,42
+2071,New Jersey,2019,Ford C-Max Energi,1176
+2072,New Jersey,2019,Ford Focus EV,104
+2073,New Jersey,2019,Ford Fusion Energi,2875
+2074,New Jersey,2019,Ford Think Neighbor,6
+2075,New Jersey,2019,GEM NEV,575
+2076,New Jersey,2019,HINO 195,46
+2077,New Jersey,2019,Honda Accord Plug In,23
+2078,New Jersey,2019,Honda Clarity Plug In,2050
+2079,New Jersey,2019,Honda Fit EV,32
+2080,New Jersey,2019,Hyundai Ioniq EV,161
+2081,New Jersey,2019,Hyundai Ioniq Plug In,108
+2082,New Jersey,2019,Hyundai Kona Electric,202
+2083,New Jersey,2019,Hyundai Sonata Plug In,152
+2084,New Jersey,2019,Jaguar I-Pace,124
+2085,New Jersey,2019,Karma Revero,6
+2086,New Jersey,2019,Kia Niro EV,80
+2087,New Jersey,2019,Kia Niro Plug In,239
+2088,New Jersey,2019,Kia Optima Plug In,147
+2089,New Jersey,2019,Kia Soul EV,197
+2090,New Jersey,2019,Land Rover Range Rover Plug In,4
+2091,New Jersey,2019,Mclaren P1,4
+2092,New Jersey,2019,Mercedes B-Class Electric,37
+2093,New Jersey,2019,Mercedes C350e Plug In,7
+2094,New Jersey,2019,Mercedes GLC 350e Hybrid,353
+2095,New Jersey,2019,Mercedes GLE55e,72
+2096,New Jersey,2019,Mercedes S550e,8
+2097,New Jersey,2019,Miles EV,3
+2098,New Jersey,2019,Miles ZX40ST,22
+2099,New Jersey,2019,Mini Countryman Plug In,229
+2100,New Jersey,2019,Mini Hardtop 2 Door EV,21
+2101,New Jersey,2019,Mitsubishi Outlander Plug In,200
+2102,New Jersey,2019,Mitsubishi i,44
+2103,New Jersey,2019,Nissan Leaf,1498
+2104,New Jersey,2019,Porsche 918 Spyder,8
+2105,New Jersey,2019,Porsche Cayenne S E-Hybrid,463
+2106,New Jersey,2019,Porsche Panamera S E-Hybrid,249
+2107,New Jersey,2019,Smart EQ ForTwo,3
+2108,New Jersey,2019,Smart forTwo EV,348
+2109,New Jersey,2019,Smart forTwo EV Cabrio,44
+2110,New Jersey,2019,Smith EV,7
+2111,New Jersey,2019,Subaru Crosstrek Hybrid,106
+2112,New Jersey,2019,Tesla Model 3,13782
+2113,New Jersey,2019,Tesla Model S,9324
+2114,New Jersey,2019,Tesla Model X,4848
+2115,New Jersey,2019,Tesla Roadster,45
+2116,New Jersey,2019,Th!nk City,1
+2117,New Jersey,2019,Toyota Mirai,4
+2118,New Jersey,2019,Toyota Prius Plug-in,1790
+2119,New Jersey,2019,Toyota Prius Prime,3814
+2120,New Jersey,2019,Toyota RAV4 EV,7
+2121,New Jersey,2019,Volkswagen e-Golf,213
+2122,New Jersey,2019,Volvo S60 Plug In,340
+2123,New Jersey,2019,Volvo S90 Plug In,41
+2124,New Jersey,2019,Volvo XC60 Plug In,161
+2125,New Jersey,2019,Volvo XC90 Plug In,388
+2126,New Jersey,2020,Audi A3 Plug In,65
+2127,New Jersey,2020,Audi Q5 Plug In,31
+2128,New Jersey,2020,Audi e-tron,193
+2129,New Jersey,2020,Azure Transit Connect,24
+2130,New Jersey,2020,BMW 3-Series Plug in,82
+2131,New Jersey,2020,BMW 5-Series Plug in,683
+2132,New Jersey,2020,BMW 7-Series Plug in,153
+2133,New Jersey,2020,BMW X3,21
+2134,New Jersey,2020,BMW X5,702
+2135,New Jersey,2020,BMW i3,450
+2136,New Jersey,2020,BMW i3 REx,322
+2137,New Jersey,2020,BMW i8,342
+2138,New Jersey,2020,Cadillac CT6,8
+2139,New Jersey,2020,Cadillac ELR,34
+2140,New Jersey,2020,Chevrolet Bolt EV,921
+2141,New Jersey,2020,Chevrolet Impala,1
+2142,New Jersey,2020,Chevrolet Spark,30
+2143,New Jersey,2020,Chevrolet Volt,1445
+2144,New Jersey,2020,Chrysler Pacifica,298
+2145,New Jersey,2020,E-Ride EXV,8
+2146,New Jersey,2020,Fiat 500e,39
+2147,New Jersey,2020,Fisker Karma,22
+2148,New Jersey,2020,Ford C-Max Energi,557
+2149,New Jersey,2020,Ford Focus EV,52
+2150,New Jersey,2020,Ford Fusion Energi,1585
+2151,New Jersey,2020,Ford Think Neighbor,3
+2152,New Jersey,2020,GEM NEV,283
+2153,New Jersey,2020,HINO 195,24
+2154,New Jersey,2020,Honda Accord Plug In,13
+2155,New Jersey,2020,Honda Clarity Plug In,1057
+2156,New Jersey,2020,Honda Fit EV,13
+2157,New Jersey,2020,Hyundai Ioniq EV,178
+2158,New Jersey,2020,Hyundai Ioniq Plug In,367
+2159,New Jersey,2020,Hyundai Kona Electric,200
+2160,New Jersey,2020,Hyundai Sonata Plug In,104
+2161,New Jersey,2020,Jaguar I-Pace,112
+2162,New Jersey,2020,Karma Revero,3
+2163,New Jersey,2020,Kia Niro EV,80
+2164,New Jersey,2020,Kia Niro Plug In,163
+2165,New Jersey,2020,Kia Optima Plug In,67
+2166,New Jersey,2020,Kia Soul EV,95
+2167,New Jersey,2020,Land Rover Range Rover Plug In,28
+2168,New Jersey,2020,Lincoln Aviator Plug In,9
+2169,New Jersey,2020,Mclaren P1,2
+2170,New Jersey,2020,Mercedes B-Class Electric,18
+2171,New Jersey,2020,Mercedes C350e Plug In,4
+2172,New Jersey,2020,Mercedes GLC 350e Hybrid,216
+2173,New Jersey,2020,Mercedes GLE55e,38
+2174,New Jersey,2020,Mercedes S550e,3
+2175,New Jersey,2020,Miles EV,1
+2176,New Jersey,2020,Miles ZX40ST,9
+2177,New Jersey,2020,Mini Countryman Plug In,118
+2178,New Jersey,2020,Mini Hardtop 2 Door EV,32
+2179,New Jersey,2020,Mitsubishi Outlander Plug In,113
+2180,New Jersey,2020,Mitsubishi i,21
+2181,New Jersey,2020,Nissan Leaf,834
+2182,New Jersey,2020,Porsche 918 Spyder,4
+2183,New Jersey,2020,Porsche Cayenne S E-Hybrid,279
+2184,New Jersey,2020,Porsche Panamera S E-Hybrid,158
+2185,New Jersey,2020,Porsche Taycan,14
+2186,New Jersey,2020,Smart EQ ForTwo,2
+2187,New Jersey,2020,Smart forTwo EV,181
+2188,New Jersey,2020,Smart forTwo EV Cabrio,24
+2189,New Jersey,2020,Smith EV,3
+2190,New Jersey,2020,Subaru Crosstrek Hybrid,147
+2191,New Jersey,2020,Tesla Model 3,9836
+2192,New Jersey,2020,Tesla Model S,4966
+2193,New Jersey,2020,Tesla Model X,2929
+2194,New Jersey,2020,Tesla Model Y,81
+2195,New Jersey,2020,Tesla Roadster,21
+2196,New Jersey,2020,Toyota Mirai,2
+2197,New Jersey,2020,Toyota Prius Plug-in,876
+2198,New Jersey,2020,Toyota Prius Prime,2202
+2199,New Jersey,2020,Toyota RAV4 EV,4
+2200,New Jersey,2020,Volkswagen e-Golf,156
+2201,New Jersey,2020,Volvo S60 Plug In,208
+2202,New Jersey,2020,Volvo S90 Plug In,26
+2203,New Jersey,2020,Volvo XC60 Plug In,108
+2204,New Jersey,2020,Volvo XC90 Plug In,218
+2205,New York,2011,Azure Transit Connect,2
+2206,New York,2011,Chevrolet S10 Electric,4
+2207,New York,2011,Chevrolet Volt,55
+2208,New York,2011,E-Ride EXV,16
+2209,New York,2011,Ford Ranger,30
+2210,New York,2011,Ford Think Neighbor,263
+2211,New York,2011,GEM NEV,1783
+2212,New York,2011,Miles EV,5
+2213,New York,2011,Miles ZX40ST,15
+2214,New York,2011,Smart forTwo EV,10
+2215,New York,2011,Smith EV,7
+2216,New York,2011,Tesla Roadster,37
+2217,New York,2011,Toyota RAV4 EV,3
+2218,New York,2011,ZAP EV,1
+2219,New York,2012,Azure Transit Connect,79
+2220,New York,2012,BMW Active E,48
+2221,New York,2012,Chevrolet S10 Electric,6
+2222,New York,2012,Chevrolet Volt,1762
+2223,New York,2012,Coda EV,1
+2224,New York,2012,E-Ride EXV,33
+2225,New York,2012,Fisker Karma,48
+2226,New York,2012,Ford C-Max Energi,114
+2227,New York,2012,Ford Focus EV,26
+2228,New York,2012,Ford Ranger,58
+2229,New York,2012,Ford Think Neighbor,444
+2230,New York,2012,GEM NEV,3273
+2231,New York,2012,Honda Accord Plug In,1
+2232,New York,2012,International Estar,45
+2233,New York,2012,Miles EV,10
+2234,New York,2012,Miles ZX40ST,26
+2235,New York,2012,Mitsubishi i,45
+2236,New York,2012,Nissan Leaf,316
+2237,New York,2012,Smart forTwo EV,21
+2238,New York,2012,Smith EV,82
+2239,New York,2012,Tesla Model S,77
+2240,New York,2012,Tesla Roadster,80
+2241,New York,2012,Th!nk City,11
+2242,New York,2012,Toyota Prius Plug-in,1359
+2243,New York,2012,Toyota RAV4 EV,6
+2244,New York,2012,ZAP EV,6
+2245,New York,2013,Azure Transit Connect,39
+2246,New York,2013,BMW Active E,30
+2247,New York,2013,BYD e6,1
+2248,New York,2013,Cadillac ELR,2
+2249,New York,2013,Chevrolet S10 Electric,3
+2250,New York,2013,Chevrolet Volt,2040
+2251,New York,2013,Coda EV,1
+2252,New York,2013,E-Ride EXV,17
+2253,New York,2013,EVI EV,5
+2254,New York,2013,Fisker Karma,31
+2255,New York,2013,Ford C-Max Energi,594
+2256,New York,2013,Ford Focus EV,100
+2257,New York,2013,Ford Fusion Energi,369
+2258,New York,2013,Ford Ranger,29
+2259,New York,2013,Ford Think Neighbor,194
+2260,New York,2013,GEM NEV,1650
+2261,New York,2013,Honda Accord Plug In,155
+2262,New York,2013,Honda Fit EV,89
+2263,New York,2013,International Estar,14
+2264,New York,2013,Miles EV,5
+2265,New York,2013,Miles ZX40ST,13
+2266,New York,2013,Mitsubishi i,62
+2267,New York,2013,Nissan Leaf,552
+2268,New York,2013,Porsche Panamera S E-Hybrid,2
+2269,New York,2013,Smart forTwo EV,124
+2270,New York,2013,Smith EV,56
+2271,New York,2013,Tesla Model S,829
+2272,New York,2013,Tesla Roadster,38
+2273,New York,2013,Th!nk City,3
+2274,New York,2013,Toyota Prius Plug-in,3484
+2275,New York,2013,Toyota RAV4 EV,6
+2276,New York,2013,Wheego Life,1
+2277,New York,2013,ZAP EV,3
+2278,New York,2014,Azure Transit Connect,143
+2279,New York,2014,BMW Active E,1
+2280,New York,2014,BMW i3,135
+2281,New York,2014,BMW i3 REx,284
+2282,New York,2014,BMW i8,97
+2283,New York,2014,BYD e6,2
+2284,New York,2014,Cadillac ELR,187
+2285,New York,2014,Chevrolet S10 Electric,2
+2286,New York,2014,Chevrolet Spark,5
+2287,New York,2014,Chevrolet Volt,7895
+2288,New York,2014,Coda EV,14
+2289,New York,2014,E-Ride EXV,155
+2290,New York,2014,EVI EV,11
+2291,New York,2014,Fisker Karma,55
+2292,New York,2014,Ford C-Max Energi,4510
+2293,New York,2014,Ford Focus EV,819
+2294,New York,2014,Ford Fusion Energi,2408
+2295,New York,2014,Ford Ranger,30
+2296,New York,2014,Ford Think Neighbor,616
+2297,New York,2014,GEM NEV,3825
+2298,New York,2014,Honda Accord Plug In,565
+2299,New York,2014,Honda Fit EV,190
+2300,New York,2014,International Estar,87
+2301,New York,2014,Mclaren P1,17
+2302,New York,2014,Mercedes B-Class Electric,78
+2303,New York,2014,Miles EV,46
+2304,New York,2014,Miles ZX40ST,221
+2305,New York,2014,Mitsubishi i,63
+2306,New York,2014,Nissan Leaf,5059
+2307,New York,2014,Porsche 918 Spyder,28
+2308,New York,2014,Porsche Cayenne S E-Hybrid,16
+2309,New York,2014,Porsche Panamera S E-Hybrid,57
+2310,New York,2014,Smart forTwo EV,444
+2311,New York,2014,Smith EV,129
+2312,New York,2014,Tesla Model S,2765
+2313,New York,2014,Tesla Roadster,92
+2314,New York,2014,Th!nk City,11
+2315,New York,2014,Toyota Prius Plug-in,9561
+2316,New York,2014,Toyota RAV4 EV,9
+2317,New York,2014,Volkswagen e-Golf,42
+2318,New York,2014,Wheego Life,4
+2319,New York,2014,ZAP EV,1
+2320,New York,2015,Azure Transit Connect,46
+2321,New York,2015,BMW X5,119
+2322,New York,2015,BMW i3,224
+2323,New York,2015,BMW i3 REx,735
+2324,New York,2015,BMW i8,364
+2325,New York,2015,Cadillac ELR,283
+2326,New York,2015,Chevrolet Spark,4
+2327,New York,2015,Chevrolet Volt,7298
+2328,New York,2015,Coda EV,12
+2329,New York,2015,E-Ride EXV,45
+2330,New York,2015,EVI EV,6
+2331,New York,2015,Fiat 500e,2
+2332,New York,2015,Fisker Karma,40
+2333,New York,2015,Ford C-Max Energi,3235
+2334,New York,2015,Ford Focus EV,293
+2335,New York,2015,Ford Fusion Energi,4983
+2336,New York,2015,Ford Think Neighbor,75
+2337,New York,2015,GEM NEV,3982
+2338,New York,2015,Honda Accord Plug In,279
+2339,New York,2015,Honda Fit EV,229
+2340,New York,2015,Hyundai Sonata Plug In,39
+2341,New York,2015,International Estar,116
+2342,New York,2015,Kia Soul EV,6
+2343,New York,2015,Mclaren P1,7
+2344,New York,2015,Mercedes B-Class Electric,149
+2345,New York,2015,Miles ZX40ST,5
+2346,New York,2015,Mitsubishi i,104
+2347,New York,2015,Nissan Leaf,3974
+2348,New York,2015,Porsche 918 Spyder,51
+2349,New York,2015,Porsche Cayenne S E-Hybrid,173
+2350,New York,2015,Porsche Panamera S E-Hybrid,70
+2351,New York,2015,Smart forTwo EV,439
+2352,New York,2015,Smith EV,162
+2353,New York,2015,Tesla Model S,6944
+2354,New York,2015,Tesla Model X,12
+2355,New York,2015,Tesla Roadster,111
+2356,New York,2015,Toyota Prius Plug-in,7338
+2357,New York,2015,Toyota RAV4 EV,25
+2358,New York,2015,Volkswagen e-Golf,254
+2359,New York,2015,Wheego Life,6
+2360,New York,2015,ZAP EV,3
+2361,New York,2016,Audi A3 Plug In,660
+2362,New York,2016,Azure Transit Connect,34
+2363,New York,2016,BMW 3-Series Plug in,112
+2364,New York,2016,BMW 7-Series Plug in,9
+2365,New York,2016,BMW X5,3484
+2366,New York,2016,BMW i3,282
+2367,New York,2016,BMW i3 REx,2223
+2368,New York,2016,BMW i8,1515
+2369,New York,2016,BYD e6,15
+2370,New York,2016,Cadillac ELR,526
+2371,New York,2016,Chevrolet Spark,43
+2372,New York,2016,Chevrolet Volt,15592
+2373,New York,2016,Coda EV,20
+2374,New York,2016,E-Ride EXV,356
+2375,New York,2016,Fisker Karma,105
+2376,New York,2016,Ford C-Max Energi,6102
+2377,New York,2016,Ford Focus EV,490
+2378,New York,2016,Ford Fusion Energi,15024
+2379,New York,2016,Ford Ranger,10
+2380,New York,2016,Ford Think Neighbor,608
+2381,New York,2016,GEM NEV,4092
+2382,New York,2016,Honda Accord Plug In,402
+2383,New York,2016,Honda Fit EV,192
+2384,New York,2016,Hyundai Sonata Plug In,238
+2385,New York,2016,International Estar,81
+2386,New York,2016,Kia Optima Plug In,4
+2387,New York,2016,Kia Soul EV,282
+2388,New York,2016,Mclaren P1,62
+2389,New York,2016,Mercedes B-Class Electric,141
+2390,New York,2016,Mercedes GLE55e,132
+2391,New York,2016,Mercedes S550e,2
+2392,New York,2016,Miles EV,18
+2393,New York,2016,Miles ZX40ST,24
+2394,New York,2016,Mitsubishi i,182
+2395,New York,2016,Nissan Leaf,7635
+2396,New York,2016,Porsche 918 Spyder,69
+2397,New York,2016,Porsche Cayenne S E-Hybrid,882
+2398,New York,2016,Porsche Panamera S E-Hybrid,128
+2399,New York,2016,Smart forTwo EV,812
+2400,New York,2016,Smart forTwo EV Cabrio,210
+2401,New York,2016,Smith EV,187
+2402,New York,2016,Tesla Model S,13498
+2403,New York,2016,Tesla Model X,5910
+2404,New York,2016,Tesla Roadster,161
+2405,New York,2016,Th!nk City,23
+2406,New York,2016,Toyota Prius Plug-in,11721
+2407,New York,2016,Toyota Prius Prime,1148
+2408,New York,2016,Toyota RAV4 EV,9
+2409,New York,2016,Volkswagen e-Golf,531
+2410,New York,2016,Volvo XC90 Plug In,1023
+2411,New York,2016,Wheego Life,8
+2412,New York,2017,Audi A3 Plug In,1235
+2413,New York,2017,Azure Transit Connect,33
+2414,New York,2017,BMW 3-Series Plug in,708
+2415,New York,2017,BMW 5-Series Plug in,2214
+2416,New York,2017,BMW 7-Series Plug in,1002
+2417,New York,2017,BMW X5,8936
+2418,New York,2017,BMW i3,557
+2419,New York,2017,BMW i3 REx,3987
+2420,New York,2017,BMW i8,2079
+2421,New York,2017,BYD e6,21
+2422,New York,2017,Cadillac CT6,20
+2423,New York,2017,Cadillac ELR,904
+2424,New York,2017,Chevrolet Bolt EV,14420
+2425,New York,2017,Chevrolet Spark,47
+2426,New York,2017,Chevrolet Volt,32321
+2427,New York,2017,Chrysler Pacifica,1312
+2428,New York,2017,Coda EV,7
+2429,New York,2017,E-Ride EXV,36
+2430,New York,2017,Fiat 500e,232
+2431,New York,2017,Fisker Karma,173
+2432,New York,2017,Ford C-Max Energi,14359
+2433,New York,2017,Ford Focus EV,771
+2434,New York,2017,Ford Fusion Energi,26686
+2435,New York,2017,Ford Think Neighbor,99
+2436,New York,2017,GEM NEV,10471
+2437,New York,2017,Honda Accord Plug In,390
+2438,New York,2017,Honda Clarity Plug In,249
+2439,New York,2017,Honda Fit EV,398
+2440,New York,2017,Hyundai Sonata Plug In,648
+2441,New York,2017,International Estar,88
+2442,New York,2017,Kia Niro Plug In,13
+2443,New York,2017,Kia Optima Plug In,2091
+2444,New York,2017,Kia Soul EV,6251
+2445,New York,2017,Mclaren P1,22
+2446,New York,2017,Mercedes B-Class Electric,434
+2447,New York,2017,Mercedes GLE55e,369
+2448,New York,2017,Mercedes S550e,61
+2449,New York,2017,Miles EV,86
+2450,New York,2017,Mini Countryman Plug In,373
+2451,New York,2017,Mitsubishi i,346
+2452,New York,2017,New Flyer Xcelsior CHARGE,185
+2453,New York,2017,Nissan Leaf,9468
+2454,New York,2017,Porsche 918 Spyder,218
+2455,New York,2017,Porsche Cayenne S E-Hybrid,2004
+2456,New York,2017,Porsche Panamera S E-Hybrid,287
+2457,New York,2017,Proterra Electric Transit Bus,175
+2458,New York,2017,Smart forTwo EV,6343
+2459,New York,2017,Smart forTwo EV Cabrio,575
+2460,New York,2017,Smith EV,90
+2461,New York,2017,Tesla Model 3,29
+2462,New York,2017,Tesla Model S,33621
+2463,New York,2017,Tesla Model X,14283
+2464,New York,2017,Tesla Roadster,278
+2465,New York,2017,Toyota Prius Plug-in,17382
+2466,New York,2017,Toyota Prius Prime,40934
+2467,New York,2017,Toyota RAV4 EV,142
+2468,New York,2017,Volkswagen e-Golf,1100
+2469,New York,2017,Volvo S90 Plug In,12
+2470,New York,2017,Volvo XC60 Plug In,162
+2471,New York,2017,Volvo XC90 Plug In,2036
+2472,New York,2017,Wheego Life,5
+2473,New York,2018,Audi A3 Plug In,2014
+2474,New York,2018,Azure Transit Connect,175
+2475,New York,2018,BMW 3-Series Plug in,983
+2476,New York,2018,BMW 5-Series Plug in,9823
+2477,New York,2018,BMW 7-Series Plug in,1023
+2478,New York,2018,BMW X5,14144
+2479,New York,2018,BMW i3,3203
+2480,New York,2018,BMW i3 REx,4730
+2481,New York,2018,BMW i8,3013
+2482,New York,2018,BYD e6,23
+2483,New York,2018,Cadillac CT6,136
+2484,New York,2018,Cadillac ELR,1051
+2485,New York,2018,Chanje V81000 Panel Van,72
+2486,New York,2018,Chevrolet Bolt EV,18124
+2487,New York,2018,Chevrolet Spark,214
+2488,New York,2018,Chevrolet Volt,48116
+2489,New York,2018,Chrysler Pacifica,5078
+2490,New York,2018,Coda EV,11
+2491,New York,2018,E-Ride EXV,90
+2492,New York,2018,Fiat 500e,293
+2493,New York,2018,Fisker Karma,251
+2494,New York,2018,Ford C-Max Energi,13815
+2495,New York,2018,Ford Focus EV,1346
+2496,New York,2018,Ford Fusion Energi,33699
+2497,New York,2018,Ford Ranger,1
+2498,New York,2018,Ford Think Neighbor,770
+2499,New York,2018,GEM NEV,7862
+2500,New York,2018,Honda Accord Plug In,567
+2501,New York,2018,Honda Clarity Plug In,31442
+2502,New York,2018,Honda Fit EV,212
+2503,New York,2018,Hyundai Ioniq EV,124
+2504,New York,2018,Hyundai Ioniq Plug In,581
+2505,New York,2018,Hyundai Sonata Plug In,988
+2506,New York,2018,International Estar,132
+2507,New York,2018,Jaguar I-Pace,101
+2508,New York,2018,Karma Revero,137
+2509,New York,2018,Kia Niro EV,262
+2510,New York,2018,Kia Niro Plug In,2485
+2511,New York,2018,Kia Optima Plug In,3767
+2512,New York,2018,Kia Soul EV,3408
+2513,New York,2018,Lion LionC Bus,35
+2514,New York,2018,Mclaren P1,103
+2515,New York,2018,Mercedes B-Class Electric,264
+2516,New York,2018,Mercedes C350e Plug In,90
+2517,New York,2018,Mercedes GLC 350e Hybrid,831
+2518,New York,2018,Mercedes GLE55e,716
+2519,New York,2018,Mercedes S550e,25
+2520,New York,2018,Miles ZX40ST,25
+2521,New York,2018,Mini Countryman Plug In,1288
+2522,New York,2018,Mitsubishi Fuso eCanter,139
+2523,New York,2018,Mitsubishi Outlander Plug In,6925
+2524,New York,2018,Mitsubishi i,281
+2525,New York,2018,New Flyer Xcelsior CHARGE,48
+2526,New York,2018,Nissan Leaf,13676
+2527,New York,2018,Orange EV T-Series N Standard Duty,34
+2528,New York,2018,Porsche 918 Spyder,116
+2529,New York,2018,Porsche Cayenne S E-Hybrid,2906
+2530,New York,2018,Porsche Panamera S E-Hybrid,1425
+2531,New York,2018,Proterra Electric Transit Bus,48
+2532,New York,2018,Smart forTwo EV,6941
+2533,New York,2018,Smart forTwo EV Cabrio,861
+2534,New York,2018,Smith EV,263
+2535,New York,2018,Tesla Model 3,69274
+2536,New York,2018,Tesla Model S,47087
+2537,New York,2018,Tesla Model X,30425
+2538,New York,2018,Tesla Roadster,415
+2539,New York,2018,Th!nk City,43
+2540,New York,2018,Toyota Prius Plug-in,24506
+2541,New York,2018,Toyota Prius Prime,77607
+2542,New York,2018,Toyota RAV4 EV,106
+2543,New York,2018,Volkswagen e-Golf,1248
+2544,New York,2018,Volvo S90 Plug In,356
+2545,New York,2018,Volvo XC60 Plug In,1255
+2546,New York,2018,Volvo XC90 Plug In,2920
+2547,New York,2018,Wheego Life,22
+2548,New York,2019,Audi A3 Plug In,1234
+2549,New York,2019,Audi e-tron,2151
+2550,New York,2019,Azure Transit Connect,38
+2551,New York,2019,BMW 3-Series Plug in,714
+2552,New York,2019,BMW 5-Series Plug in,12103
+2553,New York,2019,BMW 7-Series Plug in,1110
+2554,New York,2019,BMW X5,8716
+2555,New York,2019,BMW i3,3671
+2556,New York,2019,BMW i3 REx,3643
+2557,New York,2019,BMW i8,4899
+2558,New York,2019,Blue Bird All American RE Electric,12
+2559,New York,2019,Cadillac CT6,69
+2560,New York,2019,Cadillac ELR,1101
+2561,New York,2019,Chevrolet Bolt EV,18900
+2562,New York,2019,Chevrolet Spark,330
+2563,New York,2019,Chevrolet Volt,42529
+2564,New York,2019,Chrysler Pacifica,6707
+2565,New York,2019,Coda EV,18
+2566,New York,2019,E-Ride EXV,40
+2567,New York,2019,Fiat 500e,763
+2568,New York,2019,Fisker Karma,197
+2569,New York,2019,Ford C-Max Energi,13374
+2570,New York,2019,Ford Focus EV,609
+2571,New York,2019,Ford Fusion Energi,37612
+2572,New York,2019,Ford Think Neighbor,38
+2573,New York,2019,GEM NEV,7068
+2574,New York,2019,Honda Accord Plug In,365
+2575,New York,2019,Honda Clarity Plug In,19804
+2576,New York,2019,Honda Fit EV,47
+2577,New York,2019,Hyundai Ioniq EV,5001
+2578,New York,2019,Hyundai Ioniq Plug In,3734
+2579,New York,2019,Hyundai Kona Electric,3411
+2580,New York,2019,Hyundai Sonata Plug In,2028
+2581,New York,2019,International Estar,132
+2582,New York,2019,Jaguar I-Pace,1171
+2583,New York,2019,Karma Revero,256
+2584,New York,2019,Kia Niro EV,1941
+2585,New York,2019,Kia Niro Plug In,5216
+2586,New York,2019,Kia Optima Plug In,2470
+2587,New York,2019,Kia Soul EV,4869
+2588,New York,2019,Land Rover Range Rover Plug In,91
+2589,New York,2019,Lion LionC Bus,60
+2590,New York,2019,Mclaren P1,19
+2591,New York,2019,Mercedes B-Class Electric,207
+2592,New York,2019,Mercedes C350e Plug In,14
+2593,New York,2019,Mercedes GLC 350e Hybrid,5395
+2594,New York,2019,Mercedes GLE55e,457
+2595,New York,2019,Mercedes S550e,76
+2596,New York,2019,Miles ZX40ST,6
+2597,New York,2019,Mini Countryman Plug In,1827
+2598,New York,2019,Mitsubishi Fuso eCanter,134
+2599,New York,2019,Mitsubishi Outlander Plug In,6767
+2600,New York,2019,Mitsubishi i,406
+2601,New York,2019,New Flyer Xcelsior CHARGE,561
+2602,New York,2019,Nissan Leaf,17297
+2603,New York,2019,Porsche 918 Spyder,186
+2604,New York,2019,Porsche Cayenne S E-Hybrid,3181
+2605,New York,2019,Porsche Panamera S E-Hybrid,1059
+2606,New York,2019,Porsche Taycan,15
+2607,New York,2019,Proterra Electric Transit Bus,118
+2608,New York,2019,Smart EQ ForTwo,25
+2609,New York,2019,Smart forTwo EV,7817
+2610,New York,2019,Smart forTwo EV Cabrio,955
+2611,New York,2019,Smith EV,65
+2612,New York,2019,Subaru Crosstrek Hybrid,4404
+2613,New York,2019,Tesla Model 3,86272
+2614,New York,2019,Tesla Model S,47977
+2615,New York,2019,Tesla Model X,31199
+2616,New York,2019,Tesla Roadster,292
+2617,New York,2019,Th!nk City,16
+2618,New York,2019,Toyota Mirai,15
+2619,New York,2019,Toyota Prius Plug-in,18920
+2620,New York,2019,Toyota Prius Prime,76530
+2621,New York,2019,Toyota RAV4 EV,183
+2622,New York,2019,Volkswagen e-Golf,2327
+2623,New York,2019,Volvo S60 Plug In,3391
+2624,New York,2019,Volvo S90 Plug In,269
+2625,New York,2019,Volvo XC60 Plug In,1494
+2626,New York,2019,Volvo XC90 Plug In,2780
+2627,New York,2020,Audi A3 Plug In,698
+2628,New York,2020,Audi A7 Plug In,2
+2629,New York,2020,Audi A8 Plug In,39
+2630,New York,2020,Audi Q5 Plug In,687
+2631,New York,2020,Audi e-tron,1160
+2632,New York,2020,Audi e-tron Sportback,130
+2633,New York,2020,Azure Transit Connect,50
+2634,New York,2020,BMW 3-Series Plug in,408
+2635,New York,2020,BMW 5-Series Plug in,4355
+2636,New York,2020,BMW 7-Series Plug in,503
+2637,New York,2020,BMW X3,868
+2638,New York,2020,BMW X5,3863
+2639,New York,2020,BMW i3,1551
+2640,New York,2020,BMW i3 REx,1362
+2641,New York,2020,BMW i8,1150
+2642,New York,2020,BYD e6,6
+2643,New York,2020,Bentley Bentayga,19
+2644,New York,2020,Blue Bird All American RE Electric,48
+2645,New York,2020,Cadillac CT6,41
+2646,New York,2020,Cadillac ELR,283
+2647,New York,2020,Chanje V81000 Panel Van,5
+2648,New York,2020,Chevrolet Bolt EV,9395
+2649,New York,2020,Chevrolet Spark,204
+2650,New York,2020,Chevrolet Volt,14573
+2651,New York,2020,Chrysler Pacifica,2651
+2652,New York,2020,E-Ride EXV,16
+2653,New York,2020,Fiat 500e,211
+2654,New York,2020,Fisker Karma,100
+2655,New York,2020,Ford C-Max Energi,4138
+2656,New York,2020,Ford Focus EV,409
+2657,New York,2020,Ford Fusion Energi,14994
+2658,New York,2020,Ford Think Neighbor,38
+2659,New York,2020,GEM NEV,1510
+2660,New York,2020,Honda Accord Plug In,156
+2661,New York,2020,Honda Clarity Plug In,9486
+2662,New York,2020,Honda Fit EV,4
+2663,New York,2020,Hyundai Ioniq EV,2078
+2664,New York,2020,Hyundai Ioniq Plug In,11602
+2665,New York,2020,Hyundai Kona Electric,1730
+2666,New York,2020,Hyundai Sonata Plug In,1463
+2667,New York,2020,International Estar,4
+2668,New York,2020,Jaguar I-Pace,628
+2669,New York,2020,Karma Revero,121
+2670,New York,2020,Kia Niro EV,1395
+2671,New York,2020,Kia Niro Plug In,1997
+2672,New York,2020,Kia Optima Plug In,939
+2673,New York,2020,Kia Soul EV,964
+2674,New York,2020,Land Rover Range Rover Plug In,455
+2675,New York,2020,Lincoln Aviator Plug In,251
+2676,New York,2020,Lion LionC Bus,65
+2677,New York,2020,Mclaren P1,27
+2678,New York,2020,Mercedes B-Class Electric,62
+2679,New York,2020,Mercedes C350e Plug In,29
+2680,New York,2020,Mercedes GLC 350e Hybrid,1621
+2681,New York,2020,Mercedes GLE55e,205
+2682,New York,2020,Mercedes S550e,18
+2683,New York,2020,Mini Countryman Plug In,427
+2684,New York,2020,Mini Hardtop 2 Door EV,139
+2685,New York,2020,Mitsubishi Fuso eCanter,13
+2686,New York,2020,Mitsubishi Outlander Plug In,3357
+2687,New York,2020,Mitsubishi i,128
+2688,New York,2020,New Flyer Xcelsior CHARGE,72
+2689,New York,2020,Nissan Leaf,6221
+2690,New York,2020,Orange EV T-Series N Standard Duty,12
+2691,New York,2020,Polestar 2,12
+2692,New York,2020,Porsche 918 Spyder,34
+2693,New York,2020,Porsche Cayenne S E-Hybrid,1549
+2694,New York,2020,Porsche Panamera S E-Hybrid,748
+2695,New York,2020,Porsche Taycan,910
+2696,New York,2020,Proterra Electric Transit Bus,192
+2697,New York,2020,Smart EQ ForTwo,11
+2698,New York,2020,Smart forTwo EV,1819
+2699,New York,2020,Smart forTwo EV Cabrio,358
+2700,New York,2020,Smith EV,22
+2701,New York,2020,Subaru Crosstrek Hybrid,2773
+2702,New York,2020,Tesla Model 3,46844
+2703,New York,2020,Tesla Model S,18917
+2704,New York,2020,Tesla Model X,16637
+2705,New York,2020,Tesla Model Y,15335
+2706,New York,2020,Tesla Roadster,150
+2707,New York,2020,Th!nk City,22
+2708,New York,2020,Toyota Prius Plug-in,7433
+2709,New York,2020,Toyota Prius Prime,35685
+2710,New York,2020,Toyota RAV4 EV,38
+2711,New York,2020,Toyota RAV4 Prime,1432
+2712,New York,2020,Volkswagen e-Golf,719
+2713,New York,2020,Volvo S60 Plug In,750
+2714,New York,2020,Volvo S90 Plug In,99
+2715,New York,2020,Volvo XC60 Plug In,920
+2716,New York,2020,Volvo XC90 Plug In,1795
+2717,New York,2020,Wheego Life,12
+2718,New York,2021,Audi A3 Plug In,9
+2719,New York,2021,Audi A7 Plug In,1
+2720,New York,2021,Audi A8 Plug In,2
+2721,New York,2021,Audi Q5 Plug In,11
+2722,New York,2021,Audi e-tron,16
+2723,New York,2021,Audi e-tron Sportback,7
+2724,New York,2021,BMW 3-Series Plug in,12
+2725,New York,2021,BMW 5-Series Plug in,47
+2726,New York,2021,BMW 7-Series Plug in,5
+2727,New York,2021,BMW X3,14
+2728,New York,2021,BMW X5,57
+2729,New York,2021,BMW i3,30
+2730,New York,2021,BMW i3 REx,20
+2731,New York,2021,BMW i8,18
+2732,New York,2021,Blue Bird All American RE Electric,4
+2733,New York,2021,Cadillac ELR,2
+2734,New York,2021,Chevrolet Bolt EV,102
+2735,New York,2021,Chevrolet Spark,3
+2736,New York,2021,Chevrolet Volt,179
+2737,New York,2021,Chrysler Pacifica,50
+2738,New York,2021,Fiat 500e,2
+2739,New York,2021,Ford C-Max Energi,51
+2740,New York,2021,Ford Focus EV,1
+2741,New York,2021,Ford Fusion Energi,157
+2742,New York,2021,GEM NEV,2
+2743,New York,2021,Honda Accord Plug In,1
+2744,New York,2021,Honda Clarity Plug In,98
+2745,New York,2021,Hyundai Ioniq EV,40
+2746,New York,2021,Hyundai Ioniq Plug In,91
+2747,New York,2021,Hyundai Kona Electric,31
+2748,New York,2021,Hyundai Sonata Plug In,16
+2749,New York,2021,Jaguar I-Pace,7
+2750,New York,2021,Kia Niro EV,20
+2751,New York,2021,Kia Niro Plug In,28
+2752,New York,2021,Kia Optima Plug In,6
+2753,New York,2021,Kia Soul EV,11
+2754,New York,2021,Land Rover Range Rover Plug In,4
+2755,New York,2021,Lincoln Aviator Plug In,9
+2756,New York,2021,Mercedes B-Class Electric,1
+2757,New York,2021,Mercedes GLC 350e Hybrid,20
+2758,New York,2021,Mini Countryman Plug In,7
+2759,New York,2021,Mini Hardtop 2 Door EV,4
+2760,New York,2021,Mitsubishi Outlander Plug In,33
+2761,New York,2021,Mitsubishi i,1
+2762,New York,2021,Nissan Leaf,94
+2763,New York,2021,Polestar 2,5
+2764,New York,2021,Porsche 918 Spyder,2
+2765,New York,2021,Porsche Cayenne S E-Hybrid,16
+2766,New York,2021,Porsche Panamera S E-Hybrid,9
+2767,New York,2021,Porsche Taycan,35
+2768,New York,2021,Smart forTwo EV,37
+2769,New York,2021,Smart forTwo EV Cabrio,9
+2770,New York,2021,Subaru Crosstrek Hybrid,28
+2771,New York,2021,Tesla Model 3,517
+2772,New York,2021,Tesla Model S,219
+2773,New York,2021,Tesla Model X,181
+2774,New York,2021,Tesla Model Y,397
+2775,New York,2021,Tesla Roadster,1
+2776,New York,2021,Toyota Prius Plug-in,87
+2777,New York,2021,Toyota Prius Prime,442
+2778,New York,2021,Toyota RAV4 Prime,76
+2779,New York,2021,Volkswagen e-Golf,15
+2780,New York,2021,Volvo S60 Plug In,9
+2781,New York,2021,Volvo XC60 Plug In,25
+2782,New York,2021,Volvo XC90 Plug In,46
+2783,Oregon,1999,Ford Ranger,3
+2784,Oregon,2006,Chevrolet S10 Electric,6
+2785,Oregon,2006,Ford Ranger,12
+2786,Oregon,2007,Chevrolet S10 Electric,3
+2787,Oregon,2007,Ford Think Neighbor,3
+2788,Oregon,2007,GEM NEV,9
+2789,Oregon,2008,Chevrolet S10 Electric,6
+2790,Oregon,2008,Ford Ranger,9
+2791,Oregon,2008,Ford Think Neighbor,6
+2792,Oregon,2009,Chevrolet S10 Electric,3
+2793,Oregon,2009,Ford Ranger,6
+2794,Oregon,2009,Tesla Roadster,6
+2795,Oregon,2010,Chevrolet S10 Electric,6
+2796,Oregon,2010,Ford Think Neighbor,6
+2797,Oregon,2011,Chevrolet S10 Electric,12
+2798,Oregon,2011,Chevrolet Volt,36
+2799,Oregon,2011,Ford Ranger,3
+2800,Oregon,2011,Ford Think Neighbor,3
+2801,Oregon,2011,GEM NEV,12
+2802,Oregon,2011,Nissan Leaf,342
+2803,Oregon,2012,Chevrolet S10 Electric,3
+2804,Oregon,2012,Chevrolet Volt,336
+2805,Oregon,2012,Fisker Karma,6
+2806,Oregon,2012,Ford Focus EV,6
+2807,Oregon,2012,Ford Ranger,3
+2808,Oregon,2012,Ford Think Neighbor,3
+2809,Oregon,2012,GEM NEV,3
+2810,Oregon,2012,Mitsubishi i,2
+2811,Oregon,2012,Nissan Leaf,276
+2812,Oregon,2012,Smart forTwo EV,90
+2813,Oregon,2012,Tesla Model S,12
+2814,Oregon,2012,Th!nk City,51
+2815,Oregon,2012,Toyota Prius Plug-in,183
+2816,Oregon,2013,Chevrolet Spark,45
+2817,Oregon,2013,Chevrolet Volt,255
+2818,Oregon,2013,Fisker Karma,3
+2819,Oregon,2013,Ford C-Max Energi,111
+2820,Oregon,2013,Ford Focus EV,93
+2821,Oregon,2013,Ford Fusion Energi,108
+2822,Oregon,2013,GEM NEV,3
+2823,Oregon,2013,Honda Fit EV,18
+2824,Oregon,2013,Mitsubishi i,24
+2825,Oregon,2013,Nissan Leaf,681
+2826,Oregon,2013,Smart forTwo EV,108
+2827,Oregon,2013,Tesla Model S,231
+2828,Oregon,2013,Tesla Roadster,6
+2829,Oregon,2013,Th!nk City,9
+2830,Oregon,2013,Toyota Prius Plug-in,336
+2831,Oregon,2013,Toyota RAV4 EV,3
+2832,Oregon,2014,BMW i3,36
+2833,Oregon,2014,BMW i3 REx,48
+2834,Oregon,2014,BMW i8,6
+2835,Oregon,2014,Cadillac ELR,18
+2836,Oregon,2014,Chevrolet Spark,84
+2837,Oregon,2014,Chevrolet Volt,258
+2838,Oregon,2014,E-Ride EXV,6
+2839,Oregon,2014,Fiat 500e,168
+2840,Oregon,2014,Ford C-Max Energi,222
+2841,Oregon,2014,Ford Focus EV,108
+2842,Oregon,2014,Ford Fusion Energi,288
+2843,Oregon,2014,Ford Ranger,6
+2844,Oregon,2014,Ford Think Neighbor,3
+2845,Oregon,2014,Honda Fit EV,72
+2846,Oregon,2014,Mercedes B-Class Electric,45
+2847,Oregon,2014,Mitsubishi i,3
+2848,Oregon,2014,Nissan Leaf,615
+2849,Oregon,2014,Smart forTwo EV,345
+2850,Oregon,2014,Tesla Model S,160
+2851,Oregon,2014,Tesla Roadster,9
+2852,Oregon,2014,Th!nk City,3
+2853,Oregon,2014,Toyota Prius Plug-in,75
+2854,Oregon,2014,Volkswagen e-Golf,12
+2855,Oregon,2015,Azure Transit Connect,3
+2856,Oregon,2015,BMW i3,72
+2857,Oregon,2015,BMW i3 REx,233
+2858,Oregon,2015,BMW i8,18
+2859,Oregon,2015,Cadillac ELR,12
+2860,Oregon,2015,Chevrolet Spark,418
+2861,Oregon,2015,Chevrolet Volt,253
+2862,Oregon,2015,E-Ride EXV,3
+2863,Oregon,2015,Fiat 500e,216
+2864,Oregon,2015,Ford C-Max Energi,201
+2865,Oregon,2015,Ford Focus EV,96
+2866,Oregon,2015,Ford Fusion Energi,255
+2867,Oregon,2015,Ford Ranger,3
+2868,Oregon,2015,GEM NEV,3
+2869,Oregon,2015,Hyundai Sonata Plug In,5
+2870,Oregon,2015,Kia Soul EV,30
+2871,Oregon,2015,Mclaren P1,3
+2872,Oregon,2015,Mercedes B-Class Electric,252
+2873,Oregon,2015,Mitsubishi i,6
+2874,Oregon,2015,Nissan Leaf,531
+2875,Oregon,2015,Porsche 918 Spyder,6
+2876,Oregon,2015,Porsche Cayenne S E-Hybrid,3
+2877,Oregon,2015,Porsche Panamera S E-Hybrid,9
+2878,Oregon,2015,Smart forTwo EV,96
+2879,Oregon,2015,Tesla Model S,302
+2880,Oregon,2015,Tesla Roadster,3
+2881,Oregon,2015,Toyota Prius Plug-in,39
+2882,Oregon,2015,Volkswagen e-Golf,141
+2883,Oregon,2016,Audi A3 Plug In,96
+2884,Oregon,2016,BMW 3-Series Plug in,6
+2885,Oregon,2016,BMW X5,94
+2886,Oregon,2016,BMW i3,83
+2887,Oregon,2016,BMW i3 REx,230
+2888,Oregon,2016,BMW i8,41
+2889,Oregon,2016,Cadillac ELR,9
+2890,Oregon,2016,Chevrolet Spark,415
+2891,Oregon,2016,Chevrolet Volt,585
+2892,Oregon,2016,Fiat 500e,71
+2893,Oregon,2016,Fisker Karma,3
+2894,Oregon,2016,Ford C-Max Energi,253
+2895,Oregon,2016,Ford Focus EV,62
+2896,Oregon,2016,Ford Fusion Energi,381
+2897,Oregon,2016,Ford Ranger,3
+2898,Oregon,2016,GEM NEV,9
+2899,Oregon,2016,Honda Fit EV,12
+2900,Oregon,2016,Hyundai Sonata Plug In,83
+2901,Oregon,2016,Kia Soul EV,91
+2902,Oregon,2016,Mercedes B-Class Electric,87
+2903,Oregon,2016,Mercedes S550e,3
+2904,Oregon,2016,Mitsubishi i,12
+2905,Oregon,2016,Nissan Leaf,759
+2906,Oregon,2016,Porsche 918 Spyder,6
+2907,Oregon,2016,Porsche Cayenne S E-Hybrid,29
+2908,Oregon,2016,Porsche Panamera S E-Hybrid,6
+2909,Oregon,2016,Smart forTwo EV,69
+2910,Oregon,2016,Tesla Model S,653
+2911,Oregon,2016,Tesla Model X,280
+2912,Oregon,2016,Tesla Roadster,3
+2913,Oregon,2016,Th!nk City,27
+2914,Oregon,2016,Toyota Prius Plug-in,117
+2915,Oregon,2016,Toyota Prius Prime,60
+2916,Oregon,2016,Toyota RAV4 EV,3
+2917,Oregon,2016,Volkswagen e-Golf,170
+2918,Oregon,2016,Volvo XC90 Plug In,61
+2919,Oregon,2017,Audi A3 Plug In,130
+2920,Oregon,2017,BMW 3-Series Plug in,62
+2921,Oregon,2017,BMW 5-Series Plug in,68
+2922,Oregon,2017,BMW 7-Series Plug in,11
+2923,Oregon,2017,BMW X5,96
+2924,Oregon,2017,BMW i3,19
+2925,Oregon,2017,BMW i3 REx,189
+2926,Oregon,2017,BMW i8,6
+2927,Oregon,2017,Cadillac CT6,6
+2928,Oregon,2017,Cadillac ELR,3
+2929,Oregon,2017,Chevrolet Bolt EV,1285
+2930,Oregon,2017,Chevrolet Spark,29
+2931,Oregon,2017,Chevrolet Volt,907
+2932,Oregon,2017,Chrysler Pacifica,102
+2933,Oregon,2017,Fiat 500e,153
+2934,Oregon,2017,Fisker Karma,3
+2935,Oregon,2017,Ford C-Max Energi,390
+2936,Oregon,2017,Ford Focus EV,152
+2937,Oregon,2017,Ford Fusion Energi,401
+2938,Oregon,2017,Ford Ranger,3
+2939,Oregon,2017,Ford Think Neighbor,9
+2940,Oregon,2017,GEM NEV,3
+2941,Oregon,2017,Honda Accord Plug In,3
+2942,Oregon,2017,Honda Clarity BEV,12
+2943,Oregon,2017,Honda Clarity Plug In,15
+2944,Oregon,2017,Honda Fit EV,57
+2945,Oregon,2017,Hyundai Sonata Plug In,63
+2946,Oregon,2017,Kia Optima Plug In,24
+2947,Oregon,2017,Kia Soul EV,145
+2948,Oregon,2017,Mercedes B-Class Electric,75
+2949,Oregon,2017,Mercedes C350e Plug In,45
+2950,Oregon,2017,Mercedes GLE55e,12
+2951,Oregon,2017,Mercedes S550e,15
+2952,Oregon,2017,Mini Countryman Plug In,24
+2953,Oregon,2017,Mitsubishi i,12
+2954,Oregon,2017,Nissan Leaf,1078
+2955,Oregon,2017,Porsche Cayenne S E-Hybrid,33
+2956,Oregon,2017,Smart forTwo EV,89
+2957,Oregon,2017,Tesla Model 3,14
+2958,Oregon,2017,Tesla Model S,1186
+2959,Oregon,2017,Tesla Model X,699
+2960,Oregon,2017,Tesla Roadster,6
+2961,Oregon,2017,Th!nk City,6
+2962,Oregon,2017,Toyota Prius Plug-in,90
+2963,Oregon,2017,Toyota Prius Prime,965
+2964,Oregon,2017,Toyota RAV4 EV,3
+2965,Oregon,2017,Volkswagen e-Golf,255
+2966,Oregon,2017,Volvo XC60 Plug In,21
+2967,Oregon,2017,Volvo XC90 Plug In,76
+2968,Oregon,2018,Audi A3 Plug In,198
+2969,Oregon,2018,BMW 3-Series Plug in,34
+2970,Oregon,2018,BMW 5-Series Plug in,90
+2971,Oregon,2018,BMW 7-Series Plug in,15
+2972,Oregon,2018,BMW X5,186
+2973,Oregon,2018,BMW i3,340
+2974,Oregon,2018,BMW i3 REx,392
+2975,Oregon,2018,BMW i8,43
+2976,Oregon,2018,Cadillac CT6,3
+2977,Oregon,2018,Cadillac ELR,11
+2978,Oregon,2018,Chevrolet Bolt EV,1101
+2979,Oregon,2018,Chevrolet Spark,230
+2980,Oregon,2018,Chevrolet Volt,2008
+2981,Oregon,2018,Chrysler Pacifica,480
+2982,Oregon,2018,Fiat 500e,297
+2983,Oregon,2018,Ford C-Max Energi,586
+2984,Oregon,2018,Ford Focus EV,123
+2985,Oregon,2018,Ford Fusion Energi,626
+2986,Oregon,2018,Ford Ranger,2
+2987,Oregon,2018,Honda Accord Plug In,3
+2988,Oregon,2018,Honda Clarity BEV,283
+2989,Oregon,2018,Honda Clarity Plug In,629
+2990,Oregon,2018,Honda Fit EV,55
+2991,Oregon,2018,Hyundai Ioniq Plug In,39
+2992,Oregon,2018,Hyundai Sonata Plug In,62
+2993,Oregon,2018,International Estar,3
+2994,Oregon,2018,Jaguar I-Pace,6
+2995,Oregon,2018,Karma Revero,6
+2996,Oregon,2018,Kia Niro Plug In,236
+2997,Oregon,2018,Kia Optima Plug In,33
+2998,Oregon,2018,Kia Soul EV,144
+2999,Oregon,2018,Mercedes B-Class Electric,47
+3000,Oregon,2018,Mercedes C350e Plug In,3
+3001,Oregon,2018,Mercedes GLC 350e Hybrid,12
+3002,Oregon,2018,Mercedes GLE55e,42
+3003,Oregon,2018,Mercedes S550e,6
+3004,Oregon,2018,Mini Countryman Plug In,67
+3005,Oregon,2018,Mitsubishi Outlander Plug In,159
+3006,Oregon,2018,Mitsubishi i,49
+3007,Oregon,2018,Nissan Leaf,3110
+3008,Oregon,2018,Porsche 918 Spyder,3
+3009,Oregon,2018,Porsche Cayenne S E-Hybrid,29
+3010,Oregon,2018,Porsche Panamera S E-Hybrid,28
+3011,Oregon,2018,Smart forTwo EV,144
+3012,Oregon,2018,Smart forTwo EV Cabrio,20
+3013,Oregon,2018,Tesla Model 3,3840
+3014,Oregon,2018,Tesla Model S,1102
+3015,Oregon,2018,Tesla Model X,744
+3016,Oregon,2018,Tesla Roadster,12
+3017,Oregon,2018,Th!nk City,151
+3018,Oregon,2018,Toyota Prius Plug-in,697
+3019,Oregon,2018,Toyota Prius Prime,1497
+3020,Oregon,2018,Toyota RAV4 EV,18
+3021,Oregon,2018,Volkswagen e-Golf,273
+3022,Oregon,2018,Volvo S90 Plug In,3
+3023,Oregon,2018,Volvo XC60 Plug In,129
+3024,Oregon,2018,Volvo XC90 Plug In,62
+3025,Oregon,2019,Audi A3 Plug In,192
+3026,Oregon,2019,Audi e-tron,211
+3027,Oregon,2019,Azure Transit Connect,6
+3028,Oregon,2019,BMW 3-Series Plug in,130
+3029,Oregon,2019,BMW 5-Series Plug in,202
+3030,Oregon,2019,BMW 7-Series Plug in,12
+3031,Oregon,2019,BMW X5,394
+3032,Oregon,2019,BMW i3,706
+3033,Oregon,2019,BMW i3 REx,700
+3034,Oregon,2019,BMW i8,100
+3035,Oregon,2019,Cadillac CT6,3
+3036,Oregon,2019,Cadillac ELR,36
+3037,Oregon,2019,Chevrolet Bolt EV,1980
+3038,Oregon,2019,Chevrolet S10 Electric,3
+3039,Oregon,2019,Chevrolet Spark,1274
+3040,Oregon,2019,Chevrolet Volt,3405
+3041,Oregon,2019,Chrysler Pacifica,502
+3042,Oregon,2019,Fiat 500e,818
+3043,Oregon,2019,Fisker Karma,9
+3044,Oregon,2019,Ford C-Max Energi,1516
+3045,Oregon,2019,Ford Focus EV,195
+3046,Oregon,2019,Ford Fusion Energi,1422
+3047,Oregon,2019,Ford Ranger,15
+3048,Oregon,2019,Ford Think Neighbor,3
+3049,Oregon,2019,GEM NEV,18
+3050,Oregon,2019,Honda Accord Plug In,3
+3051,Oregon,2019,Honda Clarity BEV,165
+3052,Oregon,2019,Honda Clarity Plug In,404
+3053,Oregon,2019,Honda Fit EV,21
+3054,Oregon,2019,Hyundai Ioniq EV,113
+3055,Oregon,2019,Hyundai Ioniq Plug In,258
+3056,Oregon,2019,Hyundai Kona Electric,278
+3057,Oregon,2019,Hyundai Sonata Plug In,105
+3058,Oregon,2019,International Estar,3
+3059,Oregon,2019,Jaguar I-Pace,73
+3060,Oregon,2019,Kia Niro EV,256
+3061,Oregon,2019,Kia Niro Plug In,321
+3062,Oregon,2019,Kia Optima Plug In,45
+3063,Oregon,2019,Kia Soul EV,264
+3064,Oregon,2019,Land Rover Range Rover Plug In,3
+3065,Oregon,2019,Mclaren P1,3
+3066,Oregon,2019,Mercedes B-Class Electric,107
+3067,Oregon,2019,Mercedes C350e Plug In,21
+3068,Oregon,2019,Mercedes GLC 350e Hybrid,224
+3069,Oregon,2019,Mercedes GLE55e,9
+3070,Oregon,2019,Mercedes S550e,9
+3071,Oregon,2019,Mini Countryman Plug In,67
+3072,Oregon,2019,Mitsubishi Outlander Plug In,163
+3073,Oregon,2019,Mitsubishi i,66
+3074,Oregon,2019,Nissan Leaf,7001
+3075,Oregon,2019,Porsche 918 Spyder,7
+3076,Oregon,2019,Porsche Cayenne S E-Hybrid,125
+3077,Oregon,2019,Porsche Panamera S E-Hybrid,60
+3078,Oregon,2019,Smart forTwo EV,427
+3079,Oregon,2019,Smart forTwo EV Cabrio,9
+3080,Oregon,2019,Subaru Crosstrek Hybrid,466
+3081,Oregon,2019,Tesla Model 3,7656
+3082,Oregon,2019,Tesla Model S,2946
+3083,Oregon,2019,Tesla Model X,1200
+3084,Oregon,2019,Tesla Roadster,24
+3085,Oregon,2019,Th!nk City,59
+3086,Oregon,2019,Toyota Prius Plug-in,1026
+3087,Oregon,2019,Toyota Prius Prime,1863
+3088,Oregon,2019,Toyota RAV4 EV,41
+3089,Oregon,2019,Volkswagen e-Golf,1600
+3090,Oregon,2019,Volvo S90 Plug In,3
+3091,Oregon,2019,Volvo XC60 Plug In,129
+3092,Oregon,2019,Volvo XC90 Plug In,135
+3093,Oregon,2020,Audi A3 Plug In,205
+3094,Oregon,2020,Audi Q5 Plug In,90
+3095,Oregon,2020,Audi e-tron,177
+3096,Oregon,2020,BMW 3-Series Plug in,74
+3097,Oregon,2020,BMW 5-Series Plug in,78
+3098,Oregon,2020,BMW 7-Series Plug in,15
+3099,Oregon,2020,BMW X3,4
+3100,Oregon,2020,BMW X5,252
+3101,Oregon,2020,BMW i3,281
+3102,Oregon,2020,BMW i3 REx,456
+3103,Oregon,2020,BMW i8,52
+3104,Oregon,2020,Cadillac CT6,3
+3105,Oregon,2020,Cadillac ELR,20
+3106,Oregon,2020,Chevrolet Bolt EV,1090
+3107,Oregon,2020,Chevrolet Spark,508
+3108,Oregon,2020,Chevrolet Volt,1538
+3109,Oregon,2020,Chrysler Pacifica,167
+3110,Oregon,2020,Fiat 500e,339
+3111,Oregon,2020,Fisker Karma,9
+3112,Oregon,2020,Ford C-Max Energi,666
+3113,Oregon,2020,Ford Focus EV,120
+3114,Oregon,2020,Ford Fusion Energi,676
+3115,Oregon,2020,Ford Ranger,7
+3116,Oregon,2020,GEM NEV,6
+3117,Oregon,2020,Honda Clarity BEV,26
+3118,Oregon,2020,Honda Clarity Plug In,150
+3119,Oregon,2020,Honda Fit EV,5
+3120,Oregon,2020,Hyundai Ioniq EV,28
+3121,Oregon,2020,Hyundai Ioniq Plug In,159
+3122,Oregon,2020,Hyundai Kona Electric,299
+3123,Oregon,2020,Hyundai Sonata Plug In,130
+3124,Oregon,2020,Jaguar I-Pace,28
+3125,Oregon,2020,Kia Niro EV,158
+3126,Oregon,2020,Kia Niro Plug In,115
+3127,Oregon,2020,Kia Optima Plug In,27
+3128,Oregon,2020,Kia Soul EV,170
+3129,Oregon,2020,Land Rover Range Rover Plug In,8
+3130,Oregon,2020,Lincoln Aviator Plug In,1
+3131,Oregon,2020,Mercedes B-Class Electric,47
+3132,Oregon,2020,Mercedes C350e Plug In,6
+3133,Oregon,2020,Mercedes GLC 350e Hybrid,72
+3134,Oregon,2020,Mercedes GLE55e,15
+3135,Oregon,2020,Mercedes S550e,9
+3136,Oregon,2020,Mini Countryman Plug In,16
+3137,Oregon,2020,Mini Hardtop 2 Door EV,7
+3138,Oregon,2020,Mitsubishi Outlander Plug In,69
+3139,Oregon,2020,Mitsubishi i,27
+3140,Oregon,2020,Nissan Leaf,2994
+3141,Oregon,2020,Porsche 918 Spyder,2
+3142,Oregon,2020,Porsche Cayenne S E-Hybrid,67
+3143,Oregon,2020,Porsche Panamera S E-Hybrid,25
+3144,Oregon,2020,Porsche Taycan,10
+3145,Oregon,2020,Smart forTwo EV,94
+3146,Oregon,2020,Smart forTwo EV Cabrio,7
+3147,Oregon,2020,Subaru Crosstrek Hybrid,306
+3148,Oregon,2020,Tesla Model 3,2841
+3149,Oregon,2020,Tesla Model S,1215
+3150,Oregon,2020,Tesla Model X,840
+3151,Oregon,2020,Tesla Model Y,74
+3152,Oregon,2020,Tesla Roadster,6
+3153,Oregon,2020,Th!nk City,84
+3154,Oregon,2020,Toyota Prius Plug-in,352
+3155,Oregon,2020,Toyota Prius Prime,884
+3156,Oregon,2020,Toyota RAV4 EV,22
+3157,Oregon,2020,Volkswagen e-Golf,566
+3158,Oregon,2020,Volvo S60 Plug In,10
+3159,Oregon,2020,Volvo S90 Plug In,3
+3160,Oregon,2020,Volvo XC60 Plug In,67
+3161,Oregon,2020,Volvo XC90 Plug In,95
+3162,Texas,1970,Audi A3 Plug In,241
+3163,Texas,1970,Audi A8 Plug In,9
+3164,Texas,1970,Audi Q5 Plug In,279
+3165,Texas,1970,Audi e-tron,1362
+3166,Texas,1970,Audi e-tron Sportback,96
+3167,Texas,1970,BMW 3-Series Plug in,666
+3168,Texas,1970,BMW 5-Series Plug in,644
+3169,Texas,1970,BMW 7-Series Plug in,81
+3170,Texas,1970,BMW X3,361
+3171,Texas,1970,BMW X5,1508
+3172,Texas,1970,BMW i3,1154
+3173,Texas,1970,BMW i3 REx,1265
+3174,Texas,1970,BMW i8,594
+3175,Texas,1970,Bentley Bentayga,4
+3176,Texas,1970,Cadillac CT6,74
+3177,Texas,1970,Cadillac ELR,234
+3178,Texas,1970,Chevrolet Bolt EV,4227
+3179,Texas,1970,Chevrolet Spark,350
+3180,Texas,1970,Chevrolet Volt,6810
+3181,Texas,1970,Chrysler Pacifica,1673
+3182,Texas,1970,E-Ride EXV,3
+3183,Texas,1970,Fiat 500e,1232
+3184,Texas,1970,Fisker Karma,80
+3185,Texas,1970,Ford C-Max Energi,1588
+3186,Texas,1970,Ford Focus EV,160
+3187,Texas,1970,Ford Fusion Energi,3609
+3188,Texas,1970,Ford Mustang Mach-E,1
+3189,Texas,1970,Ford Ranger,4
+3190,Texas,1970,Ford Think Neighbor,32
+3191,Texas,1970,GEM NEV,169
+3192,Texas,1970,HINO 195,11
+3193,Texas,1970,Honda Accord Plug In,16
+3194,Texas,1970,Honda Clarity BEV,2
+3195,Texas,1970,Honda Clarity Plug In,1231
+3196,Texas,1970,Hyundai Ioniq EV,44
+3197,Texas,1970,Hyundai Ioniq Plug In,64
+3198,Texas,1970,Hyundai Kona Electric,72
+3199,Texas,1970,Hyundai Sonata Plug In,673
+3200,Texas,1970,Jaguar I-Pace,295
+3201,Texas,1970,Karma Revero,28
+3202,Texas,1970,Kia Niro EV,545
+3203,Texas,1970,Kia Niro Plug In,885
+3204,Texas,1970,Kia Optima Plug In,259
+3205,Texas,1970,Kia Soul EV,149
+3206,Texas,1970,Land Rover Range Rover Plug In,144
+3207,Texas,1970,Lincoln Aviator Plug In,293
+3208,Texas,1970,Mercedes B-Class Electric,88
+3209,Texas,1970,Mercedes C350e Plug In,60
+3210,Texas,1970,Mercedes GLC 350e Hybrid,116
+3211,Texas,1970,Mercedes GLE55e,50
+3212,Texas,1970,Mercedes S550e,63
+3213,Texas,1970,Miles ZX40ST,4
+3214,Texas,1970,Mini Countryman Plug In,108
+3215,Texas,1970,Mini Hardtop 2 Door EV,77
+3216,Texas,1970,Mitsubishi Outlander Plug In,438
+3217,Texas,1970,Mitsubishi i,122
+3218,Texas,1970,Nissan Leaf,5281
+3219,Texas,1970,Porsche 918 Spyder,4
+3220,Texas,1970,Porsche Cayenne S E-Hybrid,753
+3221,Texas,1970,Porsche Panamera S E-Hybrid,376
+3222,Texas,1970,Porsche Taycan,598
+3223,Texas,1970,Smart forTwo EV,293
+3224,Texas,1970,Smart forTwo EV Cabrio,40
+3225,Texas,1970,Smith EV,2
+3226,Texas,1970,Subaru Crosstrek Hybrid,23
+3227,Texas,1970,Tesla Model 3,42450
+3228,Texas,1970,Tesla Model S,14548
+3229,Texas,1970,Tesla Model X,8800
+3230,Texas,1970,Tesla Model Y,8525
+3231,Texas,1970,Tesla Roadster,60
+3232,Texas,1970,Toyota Prius Plug-in,376
+3233,Texas,1970,Toyota Prius Prime,2934
+3234,Texas,1970,Toyota RAV4 EV,9
+3235,Texas,1970,Toyota RAV4 Prime,72
+3236,Texas,1970,Volkswagen e-Golf,187
+3237,Texas,1970,Volvo S60 Plug In,598
+3238,Texas,1970,Volvo S90 Plug In,44
+3239,Texas,1970,Volvo XC60 Plug In,278
+3240,Texas,1970,Volvo XC90 Plug In,499
+3241,Texas,1970,Wheego Life,3
+3242,Vermont,2003,GEM NEV,44
+3243,Vermont,2005,GEM NEV,2
+3244,Vermont,2006,GEM NEV,2
+3245,Vermont,2007,GEM NEV,6
+3246,Vermont,2008,GEM NEV,4
+3247,Vermont,2008,Nissan Leaf,2
+3248,Vermont,2008,Tesla Roadster,2
+3249,Vermont,2009,GEM NEV,2
+3250,Vermont,2010,Tesla Roadster,2
+3251,Vermont,2011,Azure Transit Connect,2
+3252,Vermont,2011,Chevrolet Volt,10
+3253,Vermont,2011,GEM NEV,2
+3254,Vermont,2011,Tesla Roadster,4
+3255,Vermont,2011,Toyota Prius Prime,2
+3256,Vermont,2012,Chevrolet Volt,16
+3257,Vermont,2012,Ford C-Max Energi,2
+3258,Vermont,2012,Ford Focus EV,2
+3259,Vermont,2012,GEM NEV,4
+3260,Vermont,2012,Miles ZX40ST,6
+3261,Vermont,2012,Mitsubishi i,4
+3262,Vermont,2012,Nissan Leaf,4
+3263,Vermont,2012,Tesla Model S,4
+3264,Vermont,2012,Tesla Roadster,2
+3265,Vermont,2012,Toyota Prius Plug-in,60
+3266,Vermont,2013,Chevrolet Volt,36
+3267,Vermont,2013,Ford C-Max Energi,14
+3268,Vermont,2013,Ford Fusion Energi,4
+3269,Vermont,2013,GEM NEV,2
+3270,Vermont,2013,Miles ZX40ST,6
+3271,Vermont,2013,Mitsubishi i,22
+3272,Vermont,2013,Nissan Leaf,13
+3273,Vermont,2013,Smart forTwo EV,1
+3274,Vermont,2013,Tesla Model S,5
+3275,Vermont,2013,Toyota Prius Plug-in,69
+3276,Vermont,2014,BMW i3,4
+3277,Vermont,2014,BMW i3 REx,4
+3278,Vermont,2014,Cadillac ELR,1
+3279,Vermont,2014,Chevrolet Volt,38
+3280,Vermont,2014,Ford C-Max Energi,16
+3281,Vermont,2014,Ford Focus EV,2
+3282,Vermont,2014,Ford Fusion Energi,4
+3283,Vermont,2014,GEM NEV,2
+3284,Vermont,2014,Mitsubishi i,6
+3285,Vermont,2014,Nissan Leaf,15
+3286,Vermont,2014,Smart forTwo EV,2
+3287,Vermont,2014,Tesla Model S,10
+3288,Vermont,2014,Toyota Prius Plug-in,32
+3289,Vermont,2015,Audi A3 Plug In,2
+3290,Vermont,2015,BMW i3 REx,4
+3291,Vermont,2015,BMW i8,2
+3292,Vermont,2015,Chevrolet Volt,94
+3293,Vermont,2015,Ford C-Max Energi,72
+3294,Vermont,2015,Ford Focus EV,5
+3295,Vermont,2015,Ford Fusion Energi,34
+3296,Vermont,2015,GEM NEV,4
+3297,Vermont,2015,Kia Soul EV,2
+3298,Vermont,2015,Mitsubishi i,2
+3299,Vermont,2015,Nissan Leaf,30
+3300,Vermont,2015,Tesla Model S,49
+3301,Vermont,2015,Toyota Prius Plug-in,69
+3302,Vermont,2015,Volkswagen e-Golf,1
+3303,Vermont,2016,Audi A3 Plug In,30
+3304,Vermont,2016,BMW X5,18
+3305,Vermont,2016,BMW i3,2
+3306,Vermont,2016,BMW i3 REx,14
+3307,Vermont,2016,BMW i8,2
+3308,Vermont,2016,Chevrolet Volt,174
+3309,Vermont,2016,Ford C-Max Energi,255
+3310,Vermont,2016,Ford Focus EV,10
+3311,Vermont,2016,Ford Fusion Energi,126
+3312,Vermont,2016,GEM NEV,6
+3313,Vermont,2016,Honda Accord Plug In,2
+3314,Vermont,2016,Hyundai Sonata Plug In,2
+3315,Vermont,2016,Mitsubishi i,6
+3316,Vermont,2016,Nissan Leaf,68
+3317,Vermont,2016,Porsche Cayenne S E-Hybrid,2
+3318,Vermont,2016,Smart forTwo EV,2
+3319,Vermont,2016,Tesla Model S,45
+3320,Vermont,2016,Tesla Model X,32
+3321,Vermont,2016,Toyota Prius Plug-in,142
+3322,Vermont,2016,Toyota Prius Prime,36
+3323,Vermont,2016,Volkswagen e-Golf,26
+3324,Vermont,2016,Volvo XC90 Plug In,12
+3325,Vermont,2017,Audi A3 Plug In,11
+3326,Vermont,2017,BMW 3-Series Plug in,4
+3327,Vermont,2017,BMW 5-Series Plug in,9
+3328,Vermont,2017,BMW X5,16
+3329,Vermont,2017,BMW i3,4
+3330,Vermont,2017,BMW i3 REx,16
+3331,Vermont,2017,Chevrolet Bolt EV,241
+3332,Vermont,2017,Chevrolet Volt,195
+3333,Vermont,2017,Chrysler Pacifica,8
+3334,Vermont,2017,Ford C-Max Energi,377
+3335,Vermont,2017,Ford Focus EV,20
+3336,Vermont,2017,Ford Fusion Energi,115
+3337,Vermont,2017,GEM NEV,6
+3338,Vermont,2017,Honda Clarity Plug In,4
+3339,Vermont,2017,Hyundai Sonata Plug In,2
+3340,Vermont,2017,Kia Optima Plug In,2
+3341,Vermont,2017,Kia Soul EV,8
+3342,Vermont,2017,Mercedes GLE55e,2
+3343,Vermont,2017,Mini Countryman Plug In,4
+3344,Vermont,2017,Mitsubishi i,2
+3345,Vermont,2017,Nissan Leaf,399
+3346,Vermont,2017,Porsche Cayenne S E-Hybrid,2
+3347,Vermont,2017,Smart forTwo EV,12
+3348,Vermont,2017,Tesla Model 3,2
+3349,Vermont,2017,Tesla Model S,58
+3350,Vermont,2017,Tesla Model X,35
+3351,Vermont,2017,Toyota Prius Plug-in,84
+3352,Vermont,2017,Toyota Prius Prime,249
+3353,Vermont,2017,Toyota RAV4 EV,2
+3354,Vermont,2017,Volkswagen e-Golf,8
+3355,Vermont,2017,Volvo XC60 Plug In,2
+3356,Vermont,2017,Volvo XC90 Plug In,24
+3357,Vermont,2018,Audi A3 Plug In,4
+3358,Vermont,2018,BMW 5-Series Plug in,6
+3359,Vermont,2018,BMW X5,10
+3360,Vermont,2018,BMW i3,2
+3361,Vermont,2018,BMW i3 REx,22
+3362,Vermont,2018,Chevrolet Bolt EV,164
+3363,Vermont,2018,Chevrolet Spark,3
+3364,Vermont,2018,Chevrolet Volt,138
+3365,Vermont,2018,Chrysler Pacifica,20
+3366,Vermont,2018,Fiat 500e,2
+3367,Vermont,2018,Fisker Karma,1
+3368,Vermont,2018,Ford C-Max Energi,112
+3369,Vermont,2018,Ford Focus EV,8
+3370,Vermont,2018,Ford Fusion Energi,116
+3371,Vermont,2018,Ford Think Neighbor,2
+3372,Vermont,2018,GEM NEV,12
+3373,Vermont,2018,Honda Clarity Plug In,137
+3374,Vermont,2018,Hyundai Ioniq Plug In,6
+3375,Vermont,2018,Jaguar I-Pace,1
+3376,Vermont,2018,Kia Niro Plug In,28
+3377,Vermont,2018,Kia Optima Plug In,4
+3378,Vermont,2018,Kia Soul EV,6
+3379,Vermont,2018,Mercedes GLC 350e Hybrid,4
+3380,Vermont,2018,Mercedes GLE55e,2
+3381,Vermont,2018,Mini Countryman Plug In,20
+3382,Vermont,2018,Mitsubishi Outlander Plug In,70
+3383,Vermont,2018,Mitsubishi i,2
+3384,Vermont,2018,Nissan Leaf,192
+3385,Vermont,2018,Smart forTwo EV,8
+3386,Vermont,2018,Tesla Model 3,260
+3387,Vermont,2018,Tesla Model S,62
+3388,Vermont,2018,Tesla Model X,44
+3389,Vermont,2018,Toyota Prius Plug-in,51
+3390,Vermont,2018,Toyota Prius Prime,279
+3391,Vermont,2018,Volkswagen e-Golf,11
+3392,Vermont,2018,Volvo XC60 Plug In,8
+3393,Vermont,2018,Volvo XC90 Plug In,12
+3394,Vermont,2019,BMW i3,1
+3395,Vermont,2019,Chevrolet Bolt EV,7
+3396,Vermont,2019,Chevrolet Volt,10
+3397,Vermont,2019,Ford C-Max Energi,9
+3398,Vermont,2019,Ford Fusion Energi,7
+3399,Vermont,2019,Honda Clarity Plug In,8
+3400,Vermont,2019,Hyundai Ioniq Plug In,2
+3401,Vermont,2019,Kia Niro Plug In,3
+3402,Vermont,2019,Mercedes GLC 350e Hybrid,1
+3403,Vermont,2019,Mitsubishi Outlander Plug In,5
+3404,Vermont,2019,Mitsubishi i,1
+3405,Vermont,2019,Nissan Leaf,16
+3406,Vermont,2019,Smart forTwo EV,1
+3407,Vermont,2019,Tesla Model 3,6
+3408,Vermont,2019,Tesla Model S,2
+3409,Vermont,2019,Tesla Model X,2
+3410,Vermont,2019,Toyota Prius Plug-in,4
+3411,Vermont,2019,Toyota Prius Prime,26
+3412,Vermont,2019,Volkswagen e-Golf,3
+3413,Virginia,2002,Ford Think Neighbor,6
+3414,Virginia,2003,GEM NEV,3
+3415,Virginia,2004,GEM NEV,3
+3416,Virginia,2006,GEM NEV,21
+3417,Virginia,2007,E-Ride EXV,8
+3418,Virginia,2007,GEM NEV,3
+3419,Virginia,2009,GEM NEV,3
+3420,Virginia,2009,Miles ZX40ST,16
+3421,Virginia,2010,GEM NEV,3
+3422,Virginia,2010,Miles EV,6
+3423,Virginia,2011,Chevrolet Volt,18
+3424,Virginia,2011,GEM NEV,12
+3425,Virginia,2012,Chevrolet Volt,3
+3426,Virginia,2012,GEM NEV,9
+3427,Virginia,2013,Ford C-Max Energi,9
+3428,Virginia,2013,GEM NEV,19
+3429,Virginia,2013,Mitsubishi i,3
+3430,Virginia,2014,Chevrolet Volt,3
+3431,Virginia,2014,Ford C-Max Energi,1
+3432,Virginia,2014,Ford Focus EV,1
+3433,Virginia,2014,GEM NEV,16
+3434,Virginia,2014,Nissan Leaf,4
+3435,Virginia,2014,Tesla Model S,3
+3436,Virginia,2014,Tesla Roadster,1
+3437,Virginia,2014,Toyota Prius Plug-in,2
+3438,Virginia,2015,BMW X5,1
+3439,Virginia,2015,BMW i3,4
+3440,Virginia,2015,BMW i3 REx,7
+3441,Virginia,2015,BMW i8,2
+3442,Virginia,2015,Cadillac ELR,1
+3443,Virginia,2015,Chevrolet Volt,54
+3444,Virginia,2015,Ford C-Max Energi,19
+3445,Virginia,2015,Ford Focus EV,4
+3446,Virginia,2015,Ford Fusion Energi,12
+3447,Virginia,2015,GEM NEV,13
+3448,Virginia,2015,Hyundai Sonata Plug In,1
+3449,Virginia,2015,Mercedes B-Class Electric,1
+3450,Virginia,2015,Nissan Leaf,36
+3451,Virginia,2015,Porsche Cayenne S E-Hybrid,1
+3452,Virginia,2015,Smart forTwo EV,2
+3453,Virginia,2015,Tesla Model S,77
+3454,Virginia,2015,Tesla Roadster,5
+3455,Virginia,2015,Toyota Prius Plug-in,23
+3456,Virginia,2016,Audi A3 Plug In,18
+3457,Virginia,2016,Azure Transit Connect,1
+3458,Virginia,2016,BMW 3-Series Plug in,7
+3459,Virginia,2016,BMW X5,59
+3460,Virginia,2016,BMW i3,30
+3461,Virginia,2016,BMW i3 REx,102
+3462,Virginia,2016,BMW i8,25
+3463,Virginia,2016,Cadillac ELR,10
+3464,Virginia,2016,Chevrolet Spark,4
+3465,Virginia,2016,Chevrolet Volt,525
+3466,Virginia,2016,Fiat 500e,2
+3467,Virginia,2016,Fisker Karma,3
+3468,Virginia,2016,Ford C-Max Energi,200
+3469,Virginia,2016,Ford Focus EV,21
+3470,Virginia,2016,Ford Fusion Energi,227
+3471,Virginia,2016,Ford Think Neighbor,3
+3472,Virginia,2016,GEM NEV,60
+3473,Virginia,2016,Honda Accord Plug In,2
+3474,Virginia,2016,Hyundai Sonata Plug In,3
+3475,Virginia,2016,Kia Optima Plug In,2
+3476,Virginia,2016,Mercedes B-Class Electric,10
+3477,Virginia,2016,Mercedes GLE55e,1
+3478,Virginia,2016,Mitsubishi i,7
+3479,Virginia,2016,Nissan Leaf,252
+3480,Virginia,2016,Porsche Cayenne S E-Hybrid,13
+3481,Virginia,2016,Porsche Panamera S E-Hybrid,5
+3482,Virginia,2016,Smart forTwo EV,12
+3483,Virginia,2016,Smart forTwo EV Cabrio,1
+3484,Virginia,2016,Tesla Model S,508
+3485,Virginia,2016,Tesla Model X,32
+3486,Virginia,2016,Tesla Roadster,17
+3487,Virginia,2016,Toyota Prius Plug-in,220
+3488,Virginia,2016,Toyota Prius Prime,6
+3489,Virginia,2016,Toyota RAV4 EV,3
+3490,Virginia,2016,Volkswagen e-Golf,8
+3491,Virginia,2016,Volvo XC90 Plug In,35
+3492,Virginia,2016,ZAP EV,1
+3493,Virginia,2017,Audi A3 Plug In,89
+3494,Virginia,2017,BMW 3-Series Plug in,88
+3495,Virginia,2017,BMW 5-Series Plug in,66
+3496,Virginia,2017,BMW 7-Series Plug in,13
+3497,Virginia,2017,BMW X5,270
+3498,Virginia,2017,BMW i3,106
+3499,Virginia,2017,BMW i3 REx,311
+3500,Virginia,2017,BMW i8,49
+3501,Virginia,2017,Cadillac ELR,36
+3502,Virginia,2017,Chevrolet Bolt EV,292
+3503,Virginia,2017,Chevrolet Spark,16
+3504,Virginia,2017,Chevrolet Volt,2067
+3505,Virginia,2017,Chrysler Pacifica,146
+3506,Virginia,2017,E-Ride EXV,4
+3507,Virginia,2017,Fiat 500e,31
+3508,Virginia,2017,Fisker Karma,14
+3509,Virginia,2017,Ford C-Max Energi,747
+3510,Virginia,2017,Ford Focus EV,63
+3511,Virginia,2017,Ford Fusion Energi,1062
+3512,Virginia,2017,Ford Ranger,2
+3513,Virginia,2017,GEM NEV,154
+3514,Virginia,2017,HINO 195,1
+3515,Virginia,2017,Honda Accord Plug In,14
+3516,Virginia,2017,Hyundai Sonata Plug In,30
+3517,Virginia,2017,Kia Optima Plug In,31
+3518,Virginia,2017,Kia Soul EV,29
+3519,Virginia,2017,Mercedes B-Class Electric,24
+3520,Virginia,2017,Mercedes C350e Plug In,3
+3521,Virginia,2017,Mercedes GLE55e,13
+3522,Virginia,2017,Mercedes S550e,9
+3523,Virginia,2017,Miles EV,1
+3524,Virginia,2017,Miles ZX40ST,2
+3525,Virginia,2017,Mini Countryman Plug In,16
+3526,Virginia,2017,Mitsubishi i,22
+3527,Virginia,2017,Nissan Leaf,1075
+3528,Virginia,2017,Porsche Cayenne S E-Hybrid,85
+3529,Virginia,2017,Porsche Panamera S E-Hybrid,24
+3530,Virginia,2017,Smart forTwo EV,83
+3531,Virginia,2017,Smart forTwo EV Cabrio,20
+3532,Virginia,2017,Tesla Model 3,4
+3533,Virginia,2017,Tesla Model S,2206
+3534,Virginia,2017,Tesla Model X,764
+3535,Virginia,2017,Tesla Roadster,23
+3536,Virginia,2017,Th!nk City,3
+3537,Virginia,2017,Toyota Prius Plug-in,650
+3538,Virginia,2017,Toyota Prius Prime,538
+3539,Virginia,2017,Toyota RAV4 EV,4
+3540,Virginia,2017,Volkswagen e-Golf,28
+3541,Virginia,2017,Volvo S90 Plug In,7
+3542,Virginia,2017,Volvo XC60 Plug In,10
+3543,Virginia,2017,Volvo XC90 Plug In,167
+3544,Virginia,2018,Audi A3 Plug In,81
+3545,Virginia,2018,Azure Transit Connect,2
+3546,Virginia,2018,BMW 3-Series Plug in,82
+3547,Virginia,2018,BMW 5-Series Plug in,189
+3548,Virginia,2018,BMW 7-Series Plug in,13
+3549,Virginia,2018,BMW X5,295
+3550,Virginia,2018,BMW i3,166
+3551,Virginia,2018,BMW i3 REx,352
+3552,Virginia,2018,BMW i8,65
+3553,Virginia,2018,Cadillac CT6,3
+3554,Virginia,2018,Cadillac ELR,45
+3555,Virginia,2018,Chevrolet Bolt EV,593
+3556,Virginia,2018,Chevrolet Spark,28
+3557,Virginia,2018,Chevrolet Volt,1899
+3558,Virginia,2018,Chrysler Pacifica,491
+3559,Virginia,2018,E-Ride EXV,4
+3560,Virginia,2018,Fiat 500e,41
+3561,Virginia,2018,Fisker Karma,11
+3562,Virginia,2018,Ford C-Max Energi,703
+3563,Virginia,2018,Ford Focus EV,46
+3564,Virginia,2018,Ford Fusion Energi,1033
+3565,Virginia,2018,Ford Think Neighbor,2
+3566,Virginia,2018,GEM NEV,146
+3567,Virginia,2018,Honda Accord Plug In,13
+3568,Virginia,2018,Honda Clarity BEV,1
+3569,Virginia,2018,Honda Clarity Plug In,254
+3570,Virginia,2018,Hyundai Ioniq EV,1
+3571,Virginia,2018,Hyundai Ioniq Plug In,13
+3572,Virginia,2018,Hyundai Sonata Plug In,58
+3573,Virginia,2018,Jaguar I-Pace,3
+3574,Virginia,2018,Karma Revero,3
+3575,Virginia,2018,Kia Niro EV,24
+3576,Virginia,2018,Kia Niro Plug In,114
+3577,Virginia,2018,Kia Optima Plug In,45
+3578,Virginia,2018,Kia Soul EV,42
+3579,Virginia,2018,Mercedes B-Class Electric,21
+3580,Virginia,2018,Mercedes C350e Plug In,11
+3581,Virginia,2018,Mercedes GLC 350e Hybrid,21
+3582,Virginia,2018,Mercedes GLE55e,19
+3583,Virginia,2018,Mercedes S550e,6
+3584,Virginia,2018,Miles ZX40ST,1
+3585,Virginia,2018,Mini Countryman Plug In,39
+3586,Virginia,2018,Mitsubishi Outlander Plug In,56
+3587,Virginia,2018,Mitsubishi i,24
+3588,Virginia,2018,Nissan Leaf,1174
+3589,Virginia,2018,Porsche Cayenne S E-Hybrid,63
+3590,Virginia,2018,Porsche Panamera S E-Hybrid,57
+3591,Virginia,2018,Smart forTwo EV,117
+3592,Virginia,2018,Smart forTwo EV Cabrio,8
+3593,Virginia,2018,Tesla Model 3,3020
+3594,Virginia,2018,Tesla Model S,2486
+3595,Virginia,2018,Tesla Model X,1056
+3596,Virginia,2018,Tesla Roadster,23
+3597,Virginia,2018,Toyota Prius Plug-in,671
+3598,Virginia,2018,Toyota Prius Prime,947
+3599,Virginia,2018,Toyota RAV4 EV,2
+3600,Virginia,2018,Volkswagen e-Golf,40
+3601,Virginia,2018,Volvo S60 Plug In,3
+3602,Virginia,2018,Volvo S90 Plug In,8
+3603,Virginia,2018,Volvo XC60 Plug In,98
+3604,Virginia,2018,Volvo XC90 Plug In,178
+3605,Virginia,2018,ZAP EV,1
+3606,Virginia,2019,Audi A3 Plug In,55
+3607,Virginia,2019,Audi e-tron,96
+3608,Virginia,2019,BMW 3-Series Plug in,73
+3609,Virginia,2019,BMW 5-Series Plug in,165
+3610,Virginia,2019,BMW 7-Series Plug in,14
+3611,Virginia,2019,BMW X5,219
+3612,Virginia,2019,BMW i3,177
+3613,Virginia,2019,BMW i3 REx,243
+3614,Virginia,2019,BMW i8,67
+3615,Virginia,2019,Cadillac CT6,2
+3616,Virginia,2019,Cadillac ELR,25
+3617,Virginia,2019,Chevrolet Bolt EV,472
+3618,Virginia,2019,Chevrolet Spark,28
+3619,Virginia,2019,Chevrolet Volt,1401
+3620,Virginia,2019,Chrysler Pacifica,447
+3621,Virginia,2019,E-Ride EXV,1
+3622,Virginia,2019,Fiat 500e,40
+3623,Virginia,2019,Fisker Karma,8
+3624,Virginia,2019,Ford C-Max Energi,520
+3625,Virginia,2019,Ford Focus EV,31
+3626,Virginia,2019,Ford Fusion Energi,870
+3627,Virginia,2019,Ford Ranger,1
+3628,Virginia,2019,GEM NEV,118
+3629,Virginia,2019,Honda Accord Plug In,9
+3630,Virginia,2019,Honda Clarity Plug In,280
+3631,Virginia,2019,Hyundai Ioniq EV,35
+3632,Virginia,2019,Hyundai Ioniq Plug In,58
+3633,Virginia,2019,Hyundai Kona Electric,66
+3634,Virginia,2019,Hyundai Sonata Plug In,107
+3635,Virginia,2019,Jaguar I-Pace,36
+3636,Virginia,2019,Karma Revero,1
+3637,Virginia,2019,Kia Niro EV,103
+3638,Virginia,2019,Kia Niro Plug In,250
+3639,Virginia,2019,Kia Optima Plug In,24
+3640,Virginia,2019,Kia Soul EV,27
+3641,Virginia,2019,Land Rover Range Rover Plug In,7
+3642,Virginia,2019,Mercedes B-Class Electric,22
+3643,Virginia,2019,Mercedes C350e Plug In,5
+3644,Virginia,2019,Mercedes GLC 350e Hybrid,38
+3645,Virginia,2019,Mercedes GLE55e,13
+3646,Virginia,2019,Mercedes S550e,4
+3647,Virginia,2019,Miles EV,1
+3648,Virginia,2019,Miles ZX40ST,2
+3649,Virginia,2019,Mini Countryman Plug In,26
+3650,Virginia,2019,Mitsubishi Outlander Plug In,63
+3651,Virginia,2019,Mitsubishi i,15
+3652,Virginia,2019,Nissan Leaf,945
+3653,Virginia,2019,Porsche Cayenne S E-Hybrid,114
+3654,Virginia,2019,Porsche Panamera S E-Hybrid,45
+3655,Virginia,2019,Smart forTwo EV,72
+3656,Virginia,2019,Smart forTwo EV Cabrio,7
+3657,Virginia,2019,Subaru Crosstrek Hybrid,15
+3658,Virginia,2019,Tesla Model 3,5543
+3659,Virginia,2019,Tesla Model S,1998
+3660,Virginia,2019,Tesla Model X,1040
+3661,Virginia,2019,Tesla Roadster,16
+3662,Virginia,2019,Th!nk City,2
+3663,Virginia,2019,Toyota Prius Plug-in,354
+3664,Virginia,2019,Toyota Prius Prime,839
+3665,Virginia,2019,Toyota RAV4 EV,3
+3666,Virginia,2019,Volkswagen e-Golf,59
+3667,Virginia,2019,Volvo S60 Plug In,117
+3668,Virginia,2019,Volvo S90 Plug In,11
+3669,Virginia,2019,Volvo XC60 Plug In,70
+3670,Virginia,2019,Volvo XC90 Plug In,110
+3671,Virginia,2019,ZAP EV,1
+3672,Washington,2010,Tesla Roadster,77
+3673,Washington,2011,Azure Transit Connect,2
+3674,Washington,2011,Chevrolet Volt,269
+3675,Washington,2011,Mitsubishi i,2
+3676,Washington,2011,Nissan Leaf,2086
+3677,Washington,2011,Smart forTwo EV,2
+3678,Washington,2011,Tesla Roadster,93
+3679,Washington,2012,Azure Transit Connect,5
+3680,Washington,2012,Chevrolet Volt,1435
+3681,Washington,2012,Fisker Karma,30
+3682,Washington,2012,Ford C-Max Energi,92
+3683,Washington,2012,Ford Focus EV,32
+3684,Washington,2012,Mitsubishi i,84
+3685,Washington,2012,Nissan Leaf,2525
+3686,Washington,2012,Smart forTwo EV,2
+3687,Washington,2012,Tesla Model S,78
+3688,Washington,2012,Tesla Roadster,85
+3689,Washington,2012,Toyota Prius Plug-in,551
+3690,Washington,2013,Azure Transit Connect,8
+3691,Washington,2013,Chevrolet Volt,2086
+3692,Washington,2013,Fiat 500e,2
+3693,Washington,2013,Fisker Karma,25
+3694,Washington,2013,Ford C-Max Energi,615
+3695,Washington,2013,Ford Focus EV,319
+3696,Washington,2013,Ford Fusion Energi,370
+3697,Washington,2013,Honda Accord Plug In,2
+3698,Washington,2013,Mitsubishi i,64
+3699,Washington,2013,Nissan Leaf,6474
+3700,Washington,2013,Smart forTwo EV,34
+3701,Washington,2013,Tesla Model S,2116
+3702,Washington,2013,Tesla Roadster,96
+3703,Washington,2013,Toyota Prius Plug-in,574
+3704,Washington,2013,Toyota RAV4 EV,29
+3705,Washington,2014,Azure Transit Connect,8
+3706,Washington,2014,BMW i3,189
+3707,Washington,2014,BMW i3 REx,183
+3708,Washington,2014,BMW i8,10
+3709,Washington,2014,Cadillac ELR,46
+3710,Washington,2014,Chevrolet Spark,10
+3711,Washington,2014,Chevrolet Volt,2671
+3712,Washington,2014,Fiat 500e,11
+3713,Washington,2014,Fisker Karma,20
+3714,Washington,2014,Ford C-Max Energi,976
+3715,Washington,2014,Ford Focus EV,394
+3716,Washington,2014,Ford Fusion Energi,986
+3717,Washington,2014,Honda Accord Plug In,3
+3718,Washington,2014,Mercedes B-Class Electric,4
+3719,Washington,2014,Mitsubishi i,91
+3720,Washington,2014,Nissan Leaf,9125
+3721,Washington,2014,Porsche Cayenne S E-Hybrid,4
+3722,Washington,2014,Porsche Panamera S E-Hybrid,20
+3723,Washington,2014,Smart forTwo EV,137
+3724,Washington,2014,Tesla Model S,2212
+3725,Washington,2014,Tesla Roadster,78
+3726,Washington,2014,Toyota Prius Plug-in,566
+3727,Washington,2014,Toyota RAV4 EV,23
+3728,Washington,2014,Volkswagen e-Golf,2
+3729,Washington,2015,Azure Transit Connect,5
+3730,Washington,2015,BMW i3,427
+3731,Washington,2015,BMW i3 REx,744
+3732,Washington,2015,BMW i8,69
+3733,Washington,2015,Cadillac ELR,90
+3734,Washington,2015,Chevrolet Spark,24
+3735,Washington,2015,Chevrolet Volt,2905
+3736,Washington,2015,Fiat 500e,68
+3737,Washington,2015,Fisker Karma,19
+3738,Washington,2015,Ford C-Max Energi,1194
+3739,Washington,2015,Ford Focus EV,399
+3740,Washington,2015,Ford Fusion Energi,1102
+3741,Washington,2015,Honda Accord Plug In,6
+3742,Washington,2015,Hyundai Sonata Plug In,4
+3743,Washington,2015,Kia Soul EV,168
+3744,Washington,2015,Mercedes B-Class Electric,88
+3745,Washington,2015,Mitsubishi i,120
+3746,Washington,2015,Nissan Leaf,10588
+3747,Washington,2015,Porsche 918 Spyder,3
+3748,Washington,2015,Porsche Cayenne S E-Hybrid,33
+3749,Washington,2015,Porsche Panamera S E-Hybrid,23
+3750,Washington,2015,Smart forTwo EV,141
+3751,Washington,2015,Tesla Model S,4112
+3752,Washington,2015,Tesla Roadster,80
+3753,Washington,2015,Toyota Prius Plug-in,748
+3754,Washington,2015,Toyota RAV4 EV,24
+3755,Washington,2015,Volkswagen e-Golf,22
+3756,Washington,2016,Audi A3 Plug In,348
+3757,Washington,2016,Azure Transit Connect,6
+3758,Washington,2016,BMW 3-Series Plug in,52
+3759,Washington,2016,BMW i3,513
+3760,Washington,2016,BMW i3 REx,1160
+3761,Washington,2016,BMW i8,88
+3762,Washington,2016,Cadillac ELR,108
+3763,Washington,2016,Chevrolet Spark,62
+3764,Washington,2016,Chevrolet Volt,4167
+3765,Washington,2016,Fiat 500e,219
+3766,Washington,2016,Fisker Karma,24
+3767,Washington,2016,Ford C-Max Energi,1556
+3768,Washington,2016,Ford Focus EV,481
+3769,Washington,2016,Ford Fusion Energi,1704
+3770,Washington,2016,Honda Accord Plug In,4
+3771,Washington,2016,Hyundai Sonata Plug In,62
+3772,Washington,2016,Kia Soul EV,759
+3773,Washington,2016,Mercedes B-Class Electric,79
+3774,Washington,2016,Mitsubishi i,129
+3775,Washington,2016,Nissan Leaf,12077
+3776,Washington,2016,Porsche Cayenne S E-Hybrid,87
+3777,Washington,2016,Porsche Panamera S E-Hybrid,28
+3778,Washington,2016,Smart forTwo EV,137
+3779,Washington,2016,Tesla Model S,4432
+3780,Washington,2016,Tesla Model X,1008
+3781,Washington,2016,Tesla Roadster,84
+3782,Washington,2016,Toyota Prius Plug-in,953
+3783,Washington,2016,Toyota Prius Prime,23
+3784,Washington,2016,Toyota RAV4 EV,44
+3785,Washington,2016,Volkswagen e-Golf,49
+3786,Washington,2016,Volvo XC90 Plug In,253
+3787,Washington,2017,Audi A3 Plug In,504
+3788,Washington,2017,Azure Transit Connect,5
+3789,Washington,2017,BMW 3-Series Plug in,213
+3790,Washington,2017,BMW 5-Series Plug in,65
+3791,Washington,2017,BMW 7-Series Plug in,8
+3792,Washington,2017,BMW i3,579
+3793,Washington,2017,BMW i3 REx,1232
+3794,Washington,2017,BMW i8,62
+3795,Washington,2017,Cadillac ELR,84
+3796,Washington,2017,Chevrolet Bolt EV,1848
+3797,Washington,2017,Chevrolet Spark,142
+3798,Washington,2017,Chevrolet Volt,4763
+3799,Washington,2017,Chrysler Pacifica,187
+3800,Washington,2017,Fiat 500e,616
+3801,Washington,2017,Fisker Karma,21
+3802,Washington,2017,Ford C-Max Energi,1768
+3803,Washington,2017,Ford Focus EV,417
+3804,Washington,2017,Ford Fusion Energi,1762
+3805,Washington,2017,Honda Accord Plug In,5
+3806,Washington,2017,Honda Clarity Plug In,10
+3807,Washington,2017,Hyundai Ioniq EV,2
+3808,Washington,2017,Hyundai Sonata Plug In,75
+3809,Washington,2017,Kia Optima Plug In,98
+3810,Washington,2017,Kia Soul EV,1070
+3811,Washington,2017,Mercedes B-Class Electric,86
+3812,Washington,2017,Mercedes C350e Plug In,3
+3813,Washington,2017,Mercedes GLE55e,14
+3814,Washington,2017,Mini Countryman Plug In,42
+3815,Washington,2017,Mitsubishi i,109
+3816,Washington,2017,Nissan Leaf,13661
+3817,Washington,2017,Porsche 918 Spyder,1
+3818,Washington,2017,Porsche Cayenne S E-Hybrid,136
+3819,Washington,2017,Porsche Panamera S E-Hybrid,25
+3820,Washington,2017,Smart forTwo EV,290
+3821,Washington,2017,Tesla Model 3,34
+3822,Washington,2017,Tesla Model S,5836
+3823,Washington,2017,Tesla Model X,1737
+3824,Washington,2017,Tesla Roadster,67
+3825,Washington,2017,Toyota Prius Plug-in,974
+3826,Washington,2017,Toyota Prius Prime,781
+3827,Washington,2017,Toyota RAV4 EV,68
+3828,Washington,2017,Volkswagen e-Golf,125
+3829,Washington,2017,Volvo XC60 Plug In,32
+3830,Washington,2017,Volvo XC90 Plug In,315
+3831,Washington,2018,Audi A3 Plug In,603
+3832,Washington,2018,Azure Transit Connect,7
+3833,Washington,2018,BMW 3-Series Plug in,214
+3834,Washington,2018,BMW 5-Series Plug in,205
+3835,Washington,2018,BMW 7-Series Plug in,17
+3836,Washington,2018,BMW i3,940
+3837,Washington,2018,BMW i3 REx,1420
+3838,Washington,2018,BMW i8,88
+3839,Washington,2018,Cadillac CT6,23
+3840,Washington,2018,Cadillac ELR,113
+3841,Washington,2018,Chevrolet Bolt EV,2539
+3842,Washington,2018,Chevrolet Spark,222
+3843,Washington,2018,Chevrolet Volt,5250
+3844,Washington,2018,Chrysler Pacifica,946
+3845,Washington,2018,Fiat 500e,743
+3846,Washington,2018,Fisker Karma,26
+3847,Washington,2018,Ford C-Max Energi,1777
+3848,Washington,2018,Ford Focus EV,329
+3849,Washington,2018,Ford Fusion Energi,2099
+3850,Washington,2018,Honda Accord Plug In,14
+3851,Washington,2018,Honda Clarity Plug In,825
+3852,Washington,2018,Hyundai Ioniq EV,4
+3853,Washington,2018,Hyundai Ioniq Plug In,13
+3854,Washington,2018,Hyundai Sonata Plug In,84
+3855,Washington,2018,Kia Niro Plug In,376
+3856,Washington,2018,Kia Optima Plug In,151
+3857,Washington,2018,Kia Soul EV,1181
+3858,Washington,2018,Mercedes B-Class Electric,101
+3859,Washington,2018,Mercedes C350e Plug In,22
+3860,Washington,2018,Mercedes GLC 350e Hybrid,12
+3861,Washington,2018,Mercedes GLE55e,40
+3862,Washington,2018,Mini Countryman Plug In,154
+3863,Washington,2018,Mitsubishi Outlander Plug In,274
+3864,Washington,2018,Mitsubishi i,98
+3865,Washington,2018,Nissan Leaf,14213
+3866,Washington,2018,Porsche 918 Spyder,1
+3867,Washington,2018,Porsche Cayenne S E-Hybrid,138
+3868,Washington,2018,Porsche Panamera S E-Hybrid,75
+3869,Washington,2018,Smart forTwo EV,312
+3870,Washington,2018,Smart forTwo EV Cabrio,6
+3871,Washington,2018,Tesla Model 3,10011
+3872,Washington,2018,Tesla Model S,6408
+3873,Washington,2018,Tesla Model X,2732
+3874,Washington,2018,Tesla Roadster,66
+3875,Washington,2018,Toyota Prius Plug-in,1027
+3876,Washington,2018,Toyota Prius Prime,2418
+3877,Washington,2018,Toyota RAV4 EV,78
+3878,Washington,2018,Volkswagen e-Golf,343
+3879,Washington,2018,Volvo XC60 Plug In,195
+3880,Washington,2018,Volvo XC90 Plug In,343
+3881,Washington,2019,Audi A3 Plug In,3303
+3882,Washington,2019,Audi e-tron,492
+3883,Washington,2019,Azure Transit Connect,53
+3884,Washington,2019,BMW 3-Series Plug in,1119
+3885,Washington,2019,BMW 5-Series Plug in,1189
+3886,Washington,2019,BMW 7-Series Plug in,87
+3887,Washington,2019,BMW X5,2318
+3888,Washington,2019,BMW i3,4585
+3889,Washington,2019,BMW i3 REx,7003
+3890,Washington,2019,BMW i8,620
+3891,Washington,2019,Cadillac CT6,97
+3892,Washington,2019,Cadillac ELR,559
+3893,Washington,2019,Chevrolet Bolt EV,16423
+3894,Washington,2019,Chevrolet Spark,1459
+3895,Washington,2019,Chevrolet Volt,33227
+3896,Washington,2019,Chrysler Pacifica,4962
+3897,Washington,2019,Fiat 500e,4134
+3898,Washington,2019,Fisker Karma,156
+3899,Washington,2019,Ford C-Max Energi,10909
+3900,Washington,2019,Ford Focus EV,2135
+3901,Washington,2019,Ford Fusion Energi,12130
+3902,Washington,2019,Honda Accord Plug In,63
+3903,Washington,2019,Honda Clarity Plug In,3721
+3904,Washington,2019,Hyundai Ioniq EV,32
+3905,Washington,2019,Hyundai Ioniq Plug In,179
+3906,Washington,2019,Hyundai Kona Electric,71
+3907,Washington,2019,Hyundai Sonata Plug In,448
+3908,Washington,2019,Jaguar I-Pace,385
+3909,Washington,2019,Kia Niro EV,1138
+3910,Washington,2019,Kia Niro Plug In,3112
+3911,Washington,2019,Kia Optima Plug In,773
+3912,Washington,2019,Kia Soul EV,6009
+3913,Washington,2019,Mercedes B-Class Electric,559
+3914,Washington,2019,Mercedes C350e Plug In,75
+3915,Washington,2019,Mercedes GLC 350e Hybrid,313
+3916,Washington,2019,Mercedes GLE55e,174
+3917,Washington,2019,Mercedes S550e,22
+3918,Washington,2019,Mini Countryman Plug In,910
+3919,Washington,2019,Mitsubishi Outlander Plug In,1656
+3920,Washington,2019,Mitsubishi i,573
+3921,Washington,2019,Nissan Leaf,76313
+3922,Washington,2019,Porsche 918 Spyder,7
+3923,Washington,2019,Porsche Cayenne S E-Hybrid,918
+3924,Washington,2019,Porsche Panamera S E-Hybrid,423
+3925,Washington,2019,Smart forTwo EV,1659
+3926,Washington,2019,Smart forTwo EV Cabrio,75
+3927,Washington,2019,Subaru Crosstrek Hybrid,109
+3928,Washington,2019,Tesla Model 3,64590
+3929,Washington,2019,Tesla Model S,39446
+3930,Washington,2019,Tesla Model X,16549
+3931,Washington,2019,Tesla Roadster,449
+3932,Washington,2019,Toyota Prius Plug-in,6305
+3933,Washington,2019,Toyota Prius Prime,10993
+3934,Washington,2019,Toyota RAV4 EV,426
+3935,Washington,2019,Volkswagen e-Golf,3592
+3936,Washington,2019,Volvo S90 Plug In,47
+3937,Washington,2019,Volvo XC60 Plug In,1202
+3938,Washington,2019,Volvo XC90 Plug In,2125
+3939,Washington,2019,Wheego Life,13
+3940,Washington,2020,Audi A3 Plug In,5679
+3941,Washington,2020,Audi A8 Plug In,4
+3942,Washington,2020,Audi Q5 Plug In,986
+3943,Washington,2020,Audi e-tron,3602
+3944,Washington,2020,Audi e-tron Sportback,14
+3945,Washington,2020,Azure Transit Connect,101
+3946,Washington,2020,BMW 3-Series Plug in,1796
+3947,Washington,2020,BMW 5-Series Plug in,2210
+3948,Washington,2020,BMW 7-Series Plug in,192
+3949,Washington,2020,BMW X5,5163
+3950,Washington,2020,BMW i3,8419
+3951,Washington,2020,BMW i3 REx,12003
+3952,Washington,2020,BMW i8,1215
+3953,Washington,2020,Bentley Bentayga,3
+3954,Washington,2020,Cadillac CT6,160
+3955,Washington,2020,Cadillac ELR,975
+3956,Washington,2020,Chevrolet Bolt EV,34558
+3957,Washington,2020,Chevrolet S10 Electric,8
+3958,Washington,2020,Chevrolet Spark,2845
+3959,Washington,2020,Chevrolet Volt,56246
+3960,Washington,2020,Chrysler Pacifica,8928
+3961,Washington,2020,Fiat 500e,8300
+3962,Washington,2020,Fisker Karma,214
+3963,Washington,2020,Ford C-Max Energi,18378
+3964,Washington,2020,Ford Focus EV,3465
+3965,Washington,2020,Ford Fusion Energi,21722
+3966,Washington,2020,Ford Ranger,81
+3967,Washington,2020,Honda Accord Plug In,88
+3968,Washington,2020,Honda Clarity BEV,4
+3969,Washington,2020,Honda Clarity Plug In,7166
+3970,Washington,2020,Hyundai Ioniq EV,162
+3971,Washington,2020,Hyundai Ioniq Plug In,657
+3972,Washington,2020,Hyundai Kona Electric,1090
+3973,Washington,2020,Hyundai Sonata Plug In,787
+3974,Washington,2020,Jaguar I-Pace,1589
+3975,Washington,2020,Kia Niro EV,6396
+3976,Washington,2020,Kia Niro Plug In,7947
+3977,Washington,2020,Kia Optima Plug In,1348
+3978,Washington,2020,Kia Soul EV,9411
+3979,Washington,2020,Land Rover Range Rover Plug In,184
+3980,Washington,2020,Lincoln Aviator Plug In,81
+3981,Washington,2020,Mercedes B-Class Electric,1149
+3982,Washington,2020,Mercedes C350e Plug In,130
+3983,Washington,2020,Mercedes GLC 350e Hybrid,944
+3984,Washington,2020,Mercedes GLE55e,343
+3985,Washington,2020,Mercedes S550e,103
+3986,Washington,2020,Mini Countryman Plug In,1570
+3987,Washington,2020,Mini Hardtop 2 Door EV,189
+3988,Washington,2020,Mitsubishi Outlander Plug In,3778
+3989,Washington,2020,Mitsubishi i,894
+3990,Washington,2020,Nissan Leaf,132176
+3991,Washington,2020,Porsche 918 Spyder,15
+3992,Washington,2020,Porsche Cayenne S E-Hybrid,2317
+3993,Washington,2020,Porsche Panamera S E-Hybrid,885
+3994,Washington,2020,Smart forTwo EV,2930
+3995,Washington,2020,Smart forTwo EV Cabrio,120
+3996,Washington,2020,Subaru Crosstrek Hybrid,469
+3997,Washington,2020,Tesla Model 3,145374
+3998,Washington,2020,Tesla Model S,69139
+3999,Washington,2020,Tesla Model X,32890
+4000,Washington,2020,Tesla Model Y,8107
+4001,Washington,2020,Tesla Roadster,735
+4002,Washington,2020,Th!nk City,29
+4003,Washington,2020,Toyota Prius Plug-in,10593
+4004,Washington,2020,Toyota Prius Prime,20702
+4005,Washington,2020,Toyota RAV4 EV,727
+4006,Washington,2020,Toyota RAV4 Prime,17
+4007,Washington,2020,Volkswagen e-Golf,11074
+4008,Washington,2020,Volvo S60 Plug In,148
+4009,Washington,2020,Volvo S90 Plug In,128
+4010,Washington,2020,Volvo XC60 Plug In,2347
+4011,Washington,2020,Volvo XC90 Plug In,3909
+4012,Washington,2020,Wheego Life,28
+4013,Washington,2021,Audi A3 Plug In,1018
+4014,Washington,2021,Audi A8 Plug In,3
+4015,Washington,2021,Audi Q5 Plug In,435
+4016,Washington,2021,Audi e-tron,774
+4017,Washington,2021,Audi e-tron Sportback,58
+4018,Washington,2021,Azure Transit Connect,18
+4019,Washington,2021,BMW 3-Series Plug in,315
+4020,Washington,2021,BMW 5-Series Plug in,372
+4021,Washington,2021,BMW 7-Series Plug in,36
+4022,Washington,2021,BMW X5,913
+4023,Washington,2021,BMW i3,1435
+4024,Washington,2021,BMW i3 REx,2034
+4025,Washington,2021,BMW i8,188
+4026,Washington,2021,Bentley Bentayga,2
+4027,Washington,2021,Cadillac CT6,28
+4028,Washington,2021,Cadillac ELR,158
+4029,Washington,2021,Chevrolet Bolt EV,6870
+4030,Washington,2021,Chevrolet S10 Electric,2
+4031,Washington,2021,Chevrolet Spark,479
+4032,Washington,2021,Chevrolet Volt,9533
+4033,Washington,2021,Chrysler Pacifica,1484
+4034,Washington,2021,Fiat 500e,1478
+4035,Washington,2021,Fisker Karma,31
+4036,Washington,2021,Ford C-Max Energi,3068
+4037,Washington,2021,Ford Focus EV,559
+4038,Washington,2021,Ford Fusion Energi,3722
+4039,Washington,2021,Ford Ranger,21
+4040,Washington,2021,Honda Accord Plug In,17
+4041,Washington,2021,Honda Clarity BEV,2
+4042,Washington,2021,Honda Clarity Plug In,1356
+4043,Washington,2021,Hyundai Ioniq EV,44
+4044,Washington,2021,Hyundai Ioniq Plug In,156
+4045,Washington,2021,Hyundai Kona Electric,350
+4046,Washington,2021,Hyundai Sonata Plug In,139
+4047,Washington,2021,Jaguar I-Pace,368
+4048,Washington,2021,Kia Niro EV,1441
+4049,Washington,2021,Kia Niro Plug In,1401
+4050,Washington,2021,Kia Optima Plug In,233
+4051,Washington,2021,Kia Soul EV,1413
+4052,Washington,2021,Land Rover Range Rover Plug In,58
+4053,Washington,2021,Lincoln Aviator Plug In,49
+4054,Washington,2021,Mercedes B-Class Electric,199
+4055,Washington,2021,Mercedes C350e Plug In,21
+4056,Washington,2021,Mercedes GLC 350e Hybrid,217
+4057,Washington,2021,Mercedes GLE55e,66
+4058,Washington,2021,Mercedes S550e,25
+4059,Washington,2021,Mini Countryman Plug In,259
+4060,Washington,2021,Mini Hardtop 2 Door EV,184
+4061,Washington,2021,Mitsubishi Outlander Plug In,784
+4062,Washington,2021,Mitsubishi i,140
+4063,Washington,2021,Nissan Leaf,22542
+4064,Washington,2021,Polestar 2,10
+4065,Washington,2021,Porsche 918 Spyder,2
+4066,Washington,2021,Porsche Cayenne S E-Hybrid,479
+4067,Washington,2021,Porsche Panamera S E-Hybrid,168
+4068,Washington,2021,Porsche Taycan,75
+4069,Washington,2021,Smart forTwo EV,477
+4070,Washington,2021,Smart forTwo EV Cabrio,14
+4071,Washington,2021,Subaru Crosstrek Hybrid,85
+4072,Washington,2021,Tesla Model 3,28110
+4073,Washington,2021,Tesla Model S,12158
+4074,Washington,2021,Tesla Model X,6382
+4075,Washington,2021,Tesla Model Y,6491
+4076,Washington,2021,Tesla Roadster,121
+4077,Washington,2021,Th!nk City,6
+4078,Washington,2021,Toyota Prius Plug-in,1773
+4079,Washington,2021,Toyota Prius Prime,3700
+4080,Washington,2021,Toyota RAV4 EV,120
+4081,Washington,2021,Toyota RAV4 Prime,98
+4082,Washington,2021,Volkswagen e-Golf,1947
+4083,Washington,2021,Volvo S90 Plug In,27
+4084,Washington,2021,Volvo XC60 Plug In,402
+4085,Washington,2021,Volvo XC90 Plug In,681
+4086,Washington,2021,Wheego Life,4
+4087,Wisconson,2018,Audi A3 Plug In,27
+4088,Wisconson,2018,Azure Transit Connect,8
+4089,Wisconson,2018,BMW 3-Series Plug in,18
+4090,Wisconson,2018,BMW 5-Series Plug in,28
+4091,Wisconson,2018,BMW 7-Series Plug in,8
+4092,Wisconson,2018,BMW Active E,6
+4093,Wisconson,2018,BMW X5,121
+4094,Wisconson,2018,BMW i3,41
+4095,Wisconson,2018,BMW i3 REx,129
+4096,Wisconson,2018,BMW i8,60
+4097,Wisconson,2018,Cadillac ELR,48
+4098,Wisconson,2018,Chevrolet Bolt EV,86
+4099,Wisconson,2018,Chevrolet Spark,8
+4100,Wisconson,2018,Chevrolet Volt,2129
+4101,Wisconson,2018,Chrysler Pacifica,140
+4102,Wisconson,2018,E-Ride EXV,26
+4103,Wisconson,2018,Fiat 500e,16
+4104,Wisconson,2018,Fisker Karma,14
+4105,Wisconson,2018,Ford C-Max Energi,535
+4106,Wisconson,2018,Ford Focus EV,71
+4107,Wisconson,2018,Ford Fusion Energi,439
+4108,Wisconson,2018,Ford Ranger,4
+4109,Wisconson,2018,Ford Think Neighbor,10
+4110,Wisconson,2018,GEM NEV,124
+4111,Wisconson,2018,Honda Accord Plug In,2
+4112,Wisconson,2018,Honda Clarity Plug In,49
+4113,Wisconson,2018,Hyundai Ioniq Plug In,2
+4114,Wisconson,2018,Hyundai Sonata Plug In,11
+4115,Wisconson,2018,Jaguar I-Pace,1
+4116,Wisconson,2018,Kia Niro EV,2
+4117,Wisconson,2018,Kia Niro Plug In,14
+4118,Wisconson,2018,Kia Optima Plug In,20
+4119,Wisconson,2018,Kia Soul EV,4
+4120,Wisconson,2018,Mercedes B-Class Electric,11
+4121,Wisconson,2018,Mercedes GLE55e,8
+4122,Wisconson,2018,Mini Countryman Plug In,11
+4123,Wisconson,2018,Mitsubishi Outlander Plug In,22
+4124,Wisconson,2018,Mitsubishi i,36
+4125,Wisconson,2018,Nissan Leaf,588
+4126,Wisconson,2018,Porsche 918 Spyder,2
+4127,Wisconson,2018,Porsche Cayenne S E-Hybrid,55
+4128,Wisconson,2018,Porsche Panamera S E-Hybrid,24
+4129,Wisconson,2018,Smart forTwo EV,66
+4130,Wisconson,2018,Tesla Model 3,154
+4131,Wisconson,2018,Tesla Model S,568
+4132,Wisconson,2018,Tesla Model X,266
+4133,Wisconson,2018,Tesla Roadster,11
+4134,Wisconson,2018,Toyota Prius Plug-in,124
+4135,Wisconson,2018,Toyota Prius Prime,141
+4136,Wisconson,2018,Toyota RAV4 EV,6
+4137,Wisconson,2018,Volkswagen e-Golf,1
+4138,Wisconson,2018,Volvo S90 Plug In,1
+4139,Wisconson,2018,Volvo XC60 Plug In,6
+4140,Wisconson,2018,Volvo XC90 Plug In,88
+4141,Wisconson,2019,Audi A3 Plug In,12
+4142,Wisconson,2019,Audi e-tron,4
+4143,Wisconson,2019,Azure Transit Connect,4
+4144,Wisconson,2019,BMW 3-Series Plug in,14
+4145,Wisconson,2019,BMW 5-Series Plug in,26
+4146,Wisconson,2019,BMW 7-Series Plug in,5
+4147,Wisconson,2019,BMW Active E,3
+4148,Wisconson,2019,BMW X5,77
+4149,Wisconson,2019,BMW i3,27
+4150,Wisconson,2019,BMW i3 REx,92
+4151,Wisconson,2019,BMW i8,43
+4152,Wisconson,2019,Cadillac ELR,29
+4153,Wisconson,2019,Chevrolet Bolt EV,97
+4154,Wisconson,2019,Chevrolet Spark,5
+4155,Wisconson,2019,Chevrolet Volt,1231
+4156,Wisconson,2019,Chrysler Pacifica,110
+4157,Wisconson,2019,E-Ride EXV,13
+4158,Wisconson,2019,Fiat 500e,11
+4159,Wisconson,2019,Fisker Karma,8
+4160,Wisconson,2019,Ford C-Max Energi,336
+4161,Wisconson,2019,Ford Focus EV,38
+4162,Wisconson,2019,Ford Fusion Energi,286
+4163,Wisconson,2019,Ford Ranger,2
+4164,Wisconson,2019,Ford Think Neighbor,4
+4165,Wisconson,2019,GEM NEV,62
+4166,Wisconson,2019,Honda Accord Plug In,4
+4167,Wisconson,2019,Honda Clarity Plug In,54
+4168,Wisconson,2019,Hyundai Ioniq Plug In,3
+4169,Wisconson,2019,Hyundai Sonata Plug In,16
+4170,Wisconson,2019,International Estar,1
+4171,Wisconson,2019,Jaguar I-Pace,6
+4172,Wisconson,2019,Kia Niro EV,5
+4173,Wisconson,2019,Kia Niro Plug In,30
+4174,Wisconson,2019,Kia Optima Plug In,18
+4175,Wisconson,2019,Kia Soul EV,2
+4176,Wisconson,2019,Mercedes B-Class Electric,7
+4177,Wisconson,2019,Mercedes GLC 350e Hybrid,2
+4178,Wisconson,2019,Mercedes GLE55e,4
+4179,Wisconson,2019,Mini Countryman Plug In,12
+4180,Wisconson,2019,Mitsubishi Outlander Plug In,22
+4181,Wisconson,2019,Mitsubishi i,16
+4182,Wisconson,2019,Nissan Leaf,382
+4183,Wisconson,2019,Porsche 918 Spyder,1
+4184,Wisconson,2019,Porsche Cayenne S E-Hybrid,29
+4185,Wisconson,2019,Porsche Panamera S E-Hybrid,16
+4186,Wisconson,2019,Smart forTwo EV,34
+4187,Wisconson,2019,Tesla Model 3,275
+4188,Wisconson,2019,Tesla Model S,353
+4189,Wisconson,2019,Tesla Model X,155
+4190,Wisconson,2019,Tesla Roadster,9
+4191,Wisconson,2019,Toyota Prius Plug-in,86
+4192,Wisconson,2019,Toyota Prius Prime,110
+4193,Wisconson,2019,Toyota RAV4 EV,3
+4194,Wisconson,2019,Volkswagen e-Golf,2
+4195,Wisconson,2019,Volvo S90 Plug In,1
+4196,Wisconson,2019,Volvo XC60 Plug In,4
+4197,Wisconson,2019,Volvo XC90 Plug In,50
+4198,Wisconson,2020,Audi A3 Plug In,31
+4199,Wisconson,2020,Audi Q5 Plug In,11
+4200,Wisconson,2020,Audi e-tron,32
+4201,Wisconson,2020,Audi e-tron Sportback,3
+4202,Wisconson,2020,Azure Transit Connect,8
+4203,Wisconson,2020,BMW 3-Series Plug in,25
+4204,Wisconson,2020,BMW 5-Series Plug in,63
+4205,Wisconson,2020,BMW 7-Series Plug in,15
+4206,Wisconson,2020,BMW Active E,6
+4207,Wisconson,2020,BMW X3,13
+4208,Wisconson,2020,BMW X5,169
+4209,Wisconson,2020,BMW i3,75
+4210,Wisconson,2020,BMW i3 REx,203
+4211,Wisconson,2020,BMW i8,101
+4212,Wisconson,2020,Cadillac ELR,55
+4213,Wisconson,2020,Chevrolet Bolt EV,404
+4214,Wisconson,2020,Chevrolet Spark,18
+4215,Wisconson,2020,Chevrolet Volt,2792
+4216,Wisconson,2020,Chrysler Pacifica,302
+4217,Wisconson,2020,E-Ride EXV,27
+4218,Wisconson,2020,Fiat 500e,22
+4219,Wisconson,2020,Fisker Karma,15
+4220,Wisconson,2020,Ford C-Max Energi,739
+4221,Wisconson,2020,Ford Focus EV,88
+4222,Wisconson,2020,Ford Fusion Energi,735
+4223,Wisconson,2020,Ford Ranger,4
+4224,Wisconson,2020,Ford Think Neighbor,4
+4225,Wisconson,2020,GEM NEV,135
+4226,Wisconson,2020,Honda Accord Plug In,11
+4227,Wisconson,2020,Honda Clarity Plug In,123
+4228,Wisconson,2020,Hyundai Ioniq Plug In,5
+4229,Wisconson,2020,Hyundai Kona Electric,2
+4230,Wisconson,2020,Hyundai Sonata Plug In,55
+4231,Wisconson,2020,International Estar,2
+4232,Wisconson,2020,Jaguar I-Pace,25
+4233,Wisconson,2020,Karma Revero,1
+4234,Wisconson,2020,Kia Niro EV,38
+4235,Wisconson,2020,Kia Niro Plug In,131
+4236,Wisconson,2020,Kia Optima Plug In,63
+4237,Wisconson,2020,Kia Soul EV,12
+4238,Wisconson,2020,Lincoln Aviator Plug In,11
+4239,Wisconson,2020,Mercedes B-Class Electric,16
+4240,Wisconson,2020,Mercedes GLC 350e Hybrid,23
+4241,Wisconson,2020,Mercedes GLE55e,8
+4242,Wisconson,2020,Mini Countryman Plug In,27
+4243,Wisconson,2020,Mini Hardtop 2 Door EV,8
+4244,Wisconson,2020,Mitsubishi Outlander Plug In,76
+4245,Wisconson,2020,Mitsubishi i,38
+4246,Wisconson,2020,Nissan Leaf,887
+4247,Wisconson,2020,Porsche 918 Spyder,1
+4248,Wisconson,2020,Porsche Cayenne S E-Hybrid,77
+4249,Wisconson,2020,Porsche Panamera S E-Hybrid,41
+4250,Wisconson,2020,Porsche Taycan,14
+4251,Wisconson,2020,Smart forTwo EV,83
+4252,Wisconson,2020,Smith EV,6
+4253,Wisconson,2020,Subaru Crosstrek Hybrid,1
+4254,Wisconson,2020,Tesla Model 3,1147
+4255,Wisconson,2020,Tesla Model S,947
+4256,Wisconson,2020,Tesla Model X,386
+4257,Wisconson,2020,Tesla Model Y,87
+4258,Wisconson,2020,Tesla Roadster,16
+4259,Wisconson,2020,Toyota Prius Plug-in,179
+4260,Wisconson,2020,Toyota Prius Prime,315
+4261,Wisconson,2020,Toyota RAV4 EV,8
+4262,Wisconson,2020,Toyota RAV4 Prime,3
+4263,Wisconson,2020,Volkswagen e-Golf,12
+4264,Wisconson,2020,Volvo S60 Plug In,1
+4265,Wisconson,2020,Volvo S90 Plug In,4
+4266,Wisconson,2020,Volvo XC60 Plug In,18
+4267,Wisconson,2020,Volvo XC90 Plug In,121

@@ -62,6 +62,7 @@ def seats():
         try:
             answer_0= int(answer_0)
         except:
+            #print(The number of seats must be an integer.')
             raise TypeError('The number of seats must be an integer.')
 
 
@@ -143,5 +144,5 @@ def run_questions(questions):
     return questions_answers,results_lst
 
 
-# user_results = run_questions(questions)
-# print(user_results[1])
+user_results = run_questions(questions)
+print(user_results[1])
