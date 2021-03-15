@@ -1,0 +1,6 @@
+README.md
+setup.py
+EVAnalysis.egg-info/PKG-INFO
+EVAnalysis.egg-info/SOURCES.txt
+EVAnalysis.egg-info/dependency_links.txt
+EVAnalysis.egg-info/top_level.txt

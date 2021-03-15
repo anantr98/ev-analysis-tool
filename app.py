@@ -4,7 +4,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 import pandas as pd
 import plotly.graph_objs as go
-import classification_model as c
+from classification import classification_model as c
 from dash.dependencies import Input, Output
 import plotly.express as px
 
