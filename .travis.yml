@@ -1,2 +1,1 @@
-language: python
-python: # check leena and krisha's python version
+language: python3
